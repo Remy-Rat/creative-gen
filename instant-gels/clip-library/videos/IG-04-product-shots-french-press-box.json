@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "path": "04_Product Shots/French Press_Box.MOV",
+    "category": "product_shots",
+    "shade": "-",
+    "duration": 5.1,
+    "tokens_in": 1369,
+    "tokens_out": 613,
+    "cost": 0.0076
+  },
+  "record": {
+    "clip_id": "IG-04-product-shots-french-press-box",
+    "product_line": "instant_gels",
+    "category": "product_shots",
+    "shade": "French Press",
+    "shade_matches_folder": false,
+    "colour_finish": "french manicure nude and white glossy",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of GLAMRDiP French Press box held in hand, slowly tilting under bright light.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 5.1,
+        "usable": {
+          "min": 0.0,
+          "max": 5.1,
+          "sweet_spot": 1.5
+        },
+        "action_climax": {
+          "t": 2.5,
+          "action": "slow tilt of the box showing glossy finish"
+        },
+        "creative_role": [
+          "reveal",
+          "cta_support"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "n/a",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "zoom_in",
+        "motion_level": "slow",
+        "setting": "studio with shadow",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "bottom"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "French Press manicure set in purple box held against white background with sharp shadow",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 6,
+          "proof": 3,
+          "standalone": 5,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "french press",
+          "french manicure",
+          "product box",
+          "packaging",
+          "instant gels"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

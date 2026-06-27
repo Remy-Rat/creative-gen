@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "path": "03_Removal/Ruby Rush/IMG_1511.MOV",
+    "category": "removal",
+    "shade": "Ruby Rush",
+    "duration": 5.8,
+    "tokens_in": 1438,
+    "tokens_out": 628,
+    "cost": 0.0078
+  },
+  "record": {
+    "clip_id": "IG-03-removal-ruby-rush-img-1511",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "none",
+    "shade_matches_folder": false,
+    "colour_finish": "natural bare nails",
+    "shape": "round",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A close-up of a bare hand showing natural nails rotating under bright sunlight with sharp shadows.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 5.8,
+        "usable": {
+          "min": 0.0,
+          "max": 5.8,
+          "sweet_spot": 0.5,
+          "sweet_spot_end": 5.3
+        },
+        "action_climax": {
+          "t": 3.0,
+          "action": "hand rotates from palm-up to palm-down showing natural nails"
+        },
+        "creative_role": [
+          "problem",
+          "transition"
+        ],
+        "creative_stage": "Problem",
+        "process_step": "removal_cleanup",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_daylight",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "natural hand rotating in bright sunlight, casting a sharp shadow on a white surface",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 1,
+          "hook": 5,
+          "proof": 4,
+          "standalone": 5,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "natural nails",
+          "bare nails",
+          "hand rotation",
+          "sunlight shadow",
+          "before application",
+          "after removal",
+          "nail health"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

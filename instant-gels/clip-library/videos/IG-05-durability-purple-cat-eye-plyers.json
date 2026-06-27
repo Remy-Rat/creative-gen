@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "path": "05_Durability/Purple Cat Eye_Plyers.MOV",
+    "category": "durability",
+    "shade": "-",
+    "duration": 14.2,
+    "tokens_in": 2997,
+    "tokens_out": 649,
+    "cost": 0.0103
+  },
+  "record": {
+    "clip_id": "IG-05-durability-purple-cat-eye-plyers",
+    "product_line": "instant_gels",
+    "category": "durability",
+    "shade": "Purple Cat Eye",
+    "shade_matches_folder": false,
+    "colour_finish": "purple cat eye magnetic shimmer",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hand with purple cat-eye nails uses pliers to squeeze and test nail durability.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 14.2,
+        "usable": {
+          "min": 3.0,
+          "max": 12.0,
+          "sweet_spot": 6.0
+        },
+        "action_climax": {
+          "t": 6.0,
+          "action": "squeezing the nail tip hard with metal pliers"
+        },
+        "creative_role": [
+          "proof"
+        ],
+        "creative_stage": "Proof",
+        "process_step": "n/a",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "white background with shadow",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "other",
+        "asmr_moments": [
+          {
+            "t": 5.5,
+            "desc": "metal pliers squeezing the gel nail"
+          }
+        ],
+        "visual_fingerprint": "hand holding red pliers squeezing a shimmering purple cat-eye almond nail",
+        "claims_shown": [
+          "chip_resistant"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 9,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "pliers test",
+          "durability test",
+          "purple cat eye",
+          "magnetic nails",
+          "strength test"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

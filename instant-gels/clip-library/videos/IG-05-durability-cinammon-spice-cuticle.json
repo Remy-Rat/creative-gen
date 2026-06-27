@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "path": "05_Durability/Cinammon Spice_Cuticle.MOV",
+    "category": "durability",
+    "shade": "-",
+    "duration": 9.8,
+    "tokens_in": 2469,
+    "tokens_out": 728,
+    "cost": 0.0103
+  },
+  "record": {
+    "clip_id": "IG-05-durability-cinammon-spice-cuticle",
+    "product_line": "instant_gels",
+    "category": "durability",
+    "shade": "Cinnamon Spice",
+    "shade_matches_folder": false,
+    "colour_finish": "bronze magnetic cat-eye shimmer",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Metal cuticle tool scraping against the base of Cinnamon Spice magnetic cat-eye press-on nails to show durability.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 9.8,
+        "usable": {
+          "min": 0.0,
+          "max": 9.8,
+          "sweet_spot": 1.0,
+          "sweet_spot_end": 8.0
+        },
+        "action_climax": {
+          "t": 4.0,
+          "action": "scraping metal tool against the nail surface near cuticle"
+        },
+        "creative_role": [
+          "proof"
+        ],
+        "creative_stage": "Proof",
+        "process_step": "n/a",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_bright",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "other",
+        "asmr_moments": [
+          {
+            "t": 2.0,
+            "desc": "Metal tool scraping against the hard gel nail surface"
+          }
+        ],
+        "visual_fingerprint": "Bronze magnetic cat-eye almond nails on a hand under direct sunlight with a metal cuticle tool scraping the cuticle edge.",
+        "claims_shown": [
+          "chip_resistant"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 9,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "cinnamon spice",
+          "magnetic nails",
+          "cat eye nails",
+          "scratch test",
+          "durability test",
+          "metal tool",
+          "almond nails",
+          "brown shimmer"
+        ],
+        "confidence": 1.0,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "revise",
+    "issues": [
+      "The claim 'chip_resistant' is not visually demonstrated in the video, as it only shows a cuticle pusher being used on the nails without any demonstration of the nails resisting chipping or scratching."
+    ]
+  }
+}

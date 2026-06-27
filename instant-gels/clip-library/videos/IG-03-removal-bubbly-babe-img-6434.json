@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "path": "03_Removal/Bubbly Babe/IMG_6434.MOV",
+    "category": "removal",
+    "shade": "Bubbly Babe",
+    "duration": 10.4,
+    "tokens_in": 1708,
+    "tokens_out": 629,
+    "cost": 0.0082
+  },
+  "record": {
+    "clip_id": "IG-03-removal-bubbly-babe-img-6434",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Bubbly Babe",
+    "shade_matches_folder": true,
+    "colour_finish": "nude glossy",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hand holding GLAMRDiP REMOVE and HEAL bottles under bright sunlight.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 10.4,
+        "usable": {
+          "min": 0.0,
+          "max": 10.4,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 5.0,
+          "action": "holding bottles still under sunlight"
+        },
+        "creative_role": [
+          "cta_support"
+        ],
+        "creative_stage": "Benefit",
+        "process_step": "n/a",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "indoor bright sunlight",
+        "nail_position": "top_left",
+        "text_safe_zones": [
+          "bottom_left",
+          "bottom"
+        ],
+        "products_visible": [
+          "remove_solution",
+          "heal_oil"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Close-up of hand with nude nails holding purple REMOVE bottle and small HEAL bottle.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 5,
+          "proof": 4,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "remove solution",
+          "heal oil",
+          "removal products",
+          "bubbly babe nails",
+          "nude press on nails",
+          "hand holding bottles",
+          "sunlight shadow"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

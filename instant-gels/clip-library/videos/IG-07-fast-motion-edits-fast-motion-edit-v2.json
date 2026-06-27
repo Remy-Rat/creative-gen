@@ -1,0 +1,524 @@
+{
+  "meta": {
+    "path": "07. Fast Motion Edits/Fast Motion Edit V2.mp4",
+    "category": "fast_motion",
+    "shade": "-",
+    "duration": 7.0,
+    "tokens_in": 2573,
+    "tokens_out": 4157,
+    "cost": 0.0413
+  },
+  "record": {
+    "clip_id": "IG-07-fast-motion-edits-fast-motion-edit-v2",
+    "product_line": "instant_gels",
+    "category": "fast_motion",
+    "shade": "multiple",
+    "shade_matches_folder": false,
+    "colour_finish": "multiple shades and finishes",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Fast-paced montage showing a single hand rapidly swapping between various Instant Gel shades and shapes.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 0.73,
+        "usable": {
+          "min": 0.0,
+          "max": 0.73,
+          "sweet_spot": 0.3
+        },
+        "action_climax": {
+          "t": 0.3,
+          "action": "Hand with glossy ruby red almond nails held still in front of Mystic Mirage box"
+        },
+        "creative_role": [
+          "hook",
+          "reveal"
+        ],
+        "creative_stage": "Hook",
+        "process_step": "final_reveal",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "short",
+        "nail_position": "bottom",
+        "text_safe_zones": [
+          "top",
+          "center"
+        ],
+        "products_visible": [
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Glossy ruby red almond nails on hand with Mystic Mirage box in background",
+        "claims_shown": [
+          "swap_styles"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 9,
+          "proof": 5,
+          "standalone": 6,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "ruby red",
+          "almond nails",
+          "mystic mirage",
+          "fast motion",
+          "nail transition"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      },
+      {
+        "t_start": 0.73,
+        "t_end": 1.5,
+        "usable": {
+          "min": 0.73,
+          "max": 1.5,
+          "sweet_spot": 1.1
+        },
+        "action_climax": {
+          "t": 1.1,
+          "action": "Hand with dusty rose squoval nails held still"
+        },
+        "creative_role": [
+          "transition"
+        ],
+        "creative_stage": "Transition",
+        "process_step": "final_reveal",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "short",
+        "nail_position": "bottom",
+        "text_safe_zones": [
+          "top",
+          "center"
+        ],
+        "products_visible": [
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Dusty rose squoval nails on hand with Mystic Mirage box in background",
+        "claims_shown": [
+          "swap_styles"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 5,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "dusty rose",
+          "squoval nails",
+          "mystic mirage",
+          "fast motion",
+          "nail transition"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      },
+      {
+        "t_start": 1.5,
+        "t_end": 2.3,
+        "usable": {
+          "min": 1.5,
+          "max": 2.3,
+          "sweet_spot": 1.9
+        },
+        "action_climax": {
+          "t": 1.9,
+          "action": "Hand with sheer nude round nails held still"
+        },
+        "creative_role": [
+          "transition"
+        ],
+        "creative_stage": "Transition",
+        "process_step": "final_reveal",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "short",
+        "nail_position": "bottom",
+        "text_safe_zones": [
+          "top",
+          "center"
+        ],
+        "products_visible": [
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Sheer nude round nails on hand with Mystic Mirage box in background",
+        "claims_shown": [
+          "swap_styles"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 5,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "sheer nude",
+          "round nails",
+          "mystic mirage",
+          "fast motion",
+          "nail transition"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      },
+      {
+        "t_start": 2.3,
+        "t_end": 3.07,
+        "usable": {
+          "min": 2.3,
+          "max": 3.07,
+          "sweet_spot": 2.7
+        },
+        "action_climax": {
+          "t": 2.7,
+          "action": "Hand with French tip squoval nails held still"
+        },
+        "creative_role": [
+          "transition"
+        ],
+        "creative_stage": "Transition",
+        "process_step": "final_reveal",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "short",
+        "nail_position": "bottom",
+        "text_safe_zones": [
+          "top",
+          "center"
+        ],
+        "products_visible": [
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "French tip squoval nails on hand with Mystic Mirage box in background",
+        "claims_shown": [
+          "swap_styles"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 5,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "french tip",
+          "squoval nails",
+          "mystic mirage",
+          "fast motion",
+          "nail transition"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      },
+      {
+        "t_start": 3.07,
+        "t_end": 3.83,
+        "usable": {
+          "min": 3.07,
+          "max": 3.83,
+          "sweet_spot": 3.4
+        },
+        "action_climax": {
+          "t": 3.4,
+          "action": "Hand with glittery nude almond nails held still"
+        },
+        "creative_role": [
+          "transition"
+        ],
+        "creative_stage": "Transition",
+        "process_step": "final_reveal",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "short",
+        "nail_position": "bottom",
+        "text_safe_zones": [
+          "top",
+          "center"
+        ],
+        "products_visible": [
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Glittery nude almond nails on hand with Mystic Mirage box in background",
+        "claims_shown": [
+          "swap_styles"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 5,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "glitter nude",
+          "almond nails",
+          "mystic mirage",
+          "fast motion",
+          "nail transition"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      },
+      {
+        "t_start": 3.83,
+        "t_end": 4.63,
+        "usable": {
+          "min": 3.83,
+          "max": 4.63,
+          "sweet_spot": 4.2
+        },
+        "action_climax": {
+          "t": 4.2,
+          "action": "Bare hand moving into frame"
+        },
+        "creative_role": [
+          "transition"
+        ],
+        "creative_stage": "Transition",
+        "process_step": "n/a",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "short",
+        "nail_position": "bottom",
+        "text_safe_zones": [
+          "top",
+          "center"
+        ],
+        "products_visible": [
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Bare hand moving in front of Mystic Mirage box",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 6,
+          "proof": 3,
+          "standalone": 4,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "bare hand",
+          "mystic mirage",
+          "fast motion",
+          "nail transition"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      },
+      {
+        "t_start": 4.63,
+        "t_end": 5.43,
+        "usable": {
+          "min": 4.63,
+          "max": 5.43,
+          "sweet_spot": 5.0
+        },
+        "action_climax": {
+          "t": 5.0,
+          "action": "Hand with soft pink almond nails held still"
+        },
+        "creative_role": [
+          "transition"
+        ],
+        "creative_stage": "Transition",
+        "process_step": "final_reveal",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "short",
+        "nail_position": "bottom",
+        "text_safe_zones": [
+          "top",
+          "center"
+        ],
+        "products_visible": [
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Soft pink almond nails on hand with Mystic Mirage box in background",
+        "claims_shown": [
+          "swap_styles"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 5,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "soft pink",
+          "almond nails",
+          "mystic mirage",
+          "fast motion",
+          "nail transition"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      },
+      {
+        "t_start": 5.43,
+        "t_end": 6.23,
+        "usable": {
+          "min": 5.43,
+          "max": 6.23,
+          "sweet_spot": 5.8
+        },
+        "action_climax": {
+          "t": 5.8,
+          "action": "Bare hand moving out of frame"
+        },
+        "creative_role": [
+          "transition"
+        ],
+        "creative_stage": "Transition",
+        "process_step": "n/a",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "short",
+        "nail_position": "bottom",
+        "text_safe_zones": [
+          "top",
+          "center"
+        ],
+        "products_visible": [
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Bare hand moving in front of Mystic Mirage box",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 6,
+          "proof": 3,
+          "standalone": 4,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "bare hand",
+          "mystic mirage",
+          "fast motion",
+          "nail transition"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      },
+      {
+        "t_start": 6.23,
+        "t_end": 7.0,
+        "usable": {
+          "min": 6.23,
+          "max": 7.0,
+          "sweet_spot": 6.6
+        },
+        "action_climax": {
+          "t": 6.6,
+          "action": "Hand with soft pink almond nails held still for final payoff"
+        },
+        "creative_role": [
+          "payoff"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "short",
+        "nail_position": "bottom",
+        "text_safe_zones": [
+          "top",
+          "center"
+        ],
+        "products_visible": [
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Soft pink almond nails on hand with Mystic Mirage box in background",
+        "claims_shown": [
+          "swap_styles"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 8,
+          "proof": 5,
+          "standalone": 6,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "soft pink",
+          "almond nails",
+          "mystic mirage",
+          "fast motion",
+          "nail transition"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

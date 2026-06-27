@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "path": "03_Removal/Cinammon Spice/IMG_2562.MOV",
+    "category": "removal",
+    "shade": "Cinammon Spice",
+    "duration": 3.2,
+    "tokens_in": 1244,
+    "tokens_out": 655,
+    "cost": 0.0078
+  },
+  "record": {
+    "clip_id": "IG-03-removal-cinammon-spice-img-2562",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Cinammon Spice",
+    "shade_matches_folder": true,
+    "colour_finish": "deep burgundy glossy",
+    "shape": "round",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A hand with deep burgundy nails places a white scalloped bowl on a white table.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 3.2,
+        "usable": {
+          "min": 0.0,
+          "max": 3.2,
+          "sweet_spot": 1.0
+        },
+        "action_climax": {
+          "t": 1.0,
+          "action": "hand placing the scalloped bowl on the table"
+        },
+        "creative_role": [
+          "transition",
+          "cta_support"
+        ],
+        "creative_stage": "Transition",
+        "process_step": "removal_soak",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white table with diagonal shadow and scalloped bowl",
+        "nail_position": "top_right",
+        "text_safe_zones": [
+          "bottom",
+          "left",
+          "center"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 1.0,
+            "desc": "soft ceramic clink of bowl on table"
+          }
+        ],
+        "visual_fingerprint": "white scalloped bowl on white surface with sharp diagonal shadow",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 7,
+          "product_visibility": 4,
+          "hook": 3,
+          "proof": 2,
+          "standalone": 3,
+          "edit_flexibility": 6
+        },
+        "search_tags": [
+          "removal prep",
+          "warm water soak",
+          "scalloped bowl",
+          "cinammon spice nails",
+          "dark red nails",
+          "aesthetic transition"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

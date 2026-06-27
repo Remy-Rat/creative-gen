@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "path": "03_Removal/All Eyes on Me/IMG_3841.MOV",
+    "category": "removal",
+    "shade": "All Eyes on Me",
+    "duration": 4.8,
+    "tokens_in": 1378,
+    "tokens_out": 588,
+    "cost": 0.0074
+  },
+  "record": {
+    "clip_id": "IG-03-removal-all-eyes-on-me-img-3841",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "All Eyes on Me",
+    "shade_matches_folder": true,
+    "colour_finish": "sheer glossy pink",
+    "shape": "round",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Healthy, glossy natural nails shown with cuticle oil post-removal.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 4.8,
+        "usable": {
+          "min": 0.0,
+          "max": 4.8,
+          "sweet_spot": 1.5
+        },
+        "action_climax": {
+          "t": 3.5,
+          "action": "hand shifts to show healthy nail tips"
+        },
+        "creative_role": [
+          "proof",
+          "payoff"
+        ],
+        "creative_stage": "Proof",
+        "process_step": "removal_cleanup",
+        "subject": "both_hands",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_bright",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Oily, glossy short natural nails under warm sunlight.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 5,
+          "hook": 6,
+          "proof": 8,
+          "standalone": 6,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "healthy nails",
+          "post removal",
+          "cuticle oil",
+          "natural nails",
+          "no damage"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "path": "03_Removal/Tips & Tales/IMG_1991.MOV",
+    "category": "removal",
+    "shade": "Tips & Tales",
+    "duration": 6.0,
+    "tokens_in": 1943,
+    "tokens_out": 678,
+    "cost": 0.009
+  },
+  "record": {
+    "clip_id": "IG-03-removal-tips-tales-img-1991",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Tips & Tales",
+    "shade_matches_folder": true,
+    "colour_finish": "nude glossy with white abstract line french tips",
+    "shape": "almond",
+    "method": "tabs",
+    "has_speech": false,
+    "summary": "A close-up of a hand peeling off a Tips & Tales press-on nail, showing clean removal.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 6.0,
+        "usable": {
+          "min": 0.0,
+          "max": 6.0,
+          "sweet_spot": 1.5
+        },
+        "action_climax": {
+          "t": 2.5,
+          "action": "peeling the press-on nail completely off the index finger"
+        },
+        "creative_role": [
+          "demo",
+          "proof"
+        ],
+        "creative_stage": "Transformation",
+        "process_step": "removal_lift",
+        "subject": "both_hands",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "short",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left",
+          "top_left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 2.0,
+            "desc": "soft peeling sound of the adhesive tab releasing"
+          }
+        ],
+        "visual_fingerprint": "manicured hand on white surface with diagonal shadow, peeling off a white-swirled french almond nail",
+        "claims_shown": [
+          "swap_styles"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 8,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "nail removal",
+          "peeling off press ons",
+          "adhesive tabs removal",
+          "tips and tales",
+          "french tip almond",
+          "clean removal",
+          "no damage"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

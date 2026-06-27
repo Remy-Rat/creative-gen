@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "path": "05_Durability/Shy But Extra_Potato.MOV",
+    "category": "durability",
+    "shade": "-",
+    "duration": 8.7,
+    "tokens_in": 2348,
+    "tokens_out": 1090,
+    "cost": 0.0133
+  },
+  "record": {
+    "clip_id": "IG-05-durability-shy-but-extra-potato",
+    "product_line": "instant_gels",
+    "category": "durability",
+    "shade": "Shy But Extra",
+    "shade_matches_folder": true,
+    "colour_finish": "pearl chrome",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Nails scratch a potato skin to test durability, followed by a flawless hand reveal in sunlight.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 4.8,
+        "usable": {
+          "min": 0.0,
+          "max": 4.8,
+          "sweet_spot": 1.0
+        },
+        "action_climax": {
+          "t": 2.0,
+          "action": "scratching potato skin with fingernails"
+        },
+        "creative_role": [
+          "proof",
+          "demo"
+        ],
+        "creative_stage": "Proof",
+        "process_step": "n/a",
+        "subject": "both_hands",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "white background with harsh sunlight",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom_left",
+          "bottom_right"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "other",
+        "asmr_moments": [
+          {
+            "t": 1.5,
+            "desc": "scratching potato skin sound"
+          }
+        ],
+        "visual_fingerprint": "hands scratching a raw potato skin under harsh sunlight",
+        "claims_shown": [
+          "chip_resistant"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 8,
+          "proof": 9,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "potato scratch test",
+          "durability test",
+          "pearl chrome nails",
+          "almond nails",
+          "scratching sound",
+          "asmr"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      },
+      {
+        "t_start": 4.8,
+        "t_end": 8.7,
+        "usable": {
+          "min": 4.8,
+          "max": 8.7,
+          "sweet_spot": 6.0
+        },
+        "action_climax": {
+          "t": 6.0,
+          "action": "hand posing to show flawless nails"
+        },
+        "creative_role": [
+          "reveal",
+          "payoff"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "white background with harsh sunlight",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom_left",
+          "top_left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand posing with pearl chrome almond nails in harsh sunlight",
+        "claims_shown": [
+          "chip_resistant"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 8,
+          "standalone": 8,
+          "edit_flexibility": 9
+        },
+        "search_tags": [
+          "pearl chrome reveal",
+          "glazed donut nails",
+          "almond shape",
+          "hand model pose",
+          "sunlight shadow"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

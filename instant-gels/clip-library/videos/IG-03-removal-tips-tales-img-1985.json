@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "path": "03_Removal/Tips & Tales/IMG_1985.MOV",
+    "category": "removal",
+    "shade": "Tips & Tales",
+    "duration": 9.1,
+    "tokens_in": 1638,
+    "tokens_out": 732,
+    "cost": 0.009
+  },
+  "record": {
+    "clip_id": "IG-03-removal-tips-tales-img-1985",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Tips & Tales",
+    "shade_matches_folder": true,
+    "colour_finish": "nude pink base with white French tips, glossy",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hand dripping GLAMRDiP HEAL cuticle oil into a bowl of warm water for nail removal prep.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 9.1,
+        "usable": {
+          "min": 0.0,
+          "max": 9.1,
+          "sweet_spot": 1.5,
+          "sweet_spot_end": 7.5
+        },
+        "action_climax": {
+          "t": 5.1,
+          "action": "oil droplet falling and dispersing on the water surface"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "removal_soak",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "overhead shot of a white bowl filled with water on a white surface",
+        "nail_position": "top_left",
+        "text_safe_zones": [
+          "bottom",
+          "right",
+          "center"
+        ],
+        "products_visible": [
+          "heal_oil"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 0.8,
+            "desc": "oil droplet dripping into water"
+          },
+          {
+            "t": 5.1,
+            "desc": "oil droplet dripping into water"
+          }
+        ],
+        "visual_fingerprint": "Overhead shot of a white bowl of water with a purple HEAL oil bottle dripping oil droplets that disperse on the surface, casting a soft shadow.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 6,
+          "proof": 5,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "removal soak",
+          "cuticle oil",
+          "heal oil",
+          "dripping oil",
+          "water bowl",
+          "french tip nails",
+          "tips and tales",
+          "satisfying dispersion"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

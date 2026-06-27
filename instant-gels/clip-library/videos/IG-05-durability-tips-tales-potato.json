@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "path": "05_Durability/Tips & Tales_Potato.MOV",
+    "category": "durability",
+    "shade": "-",
+    "duration": 17.6,
+    "tokens_in": 4415,
+    "tokens_out": 1127,
+    "cost": 0.0168
+  },
+  "record": {
+    "clip_id": "IG-05-durability-tips-tales-potato",
+    "product_line": "instant_gels",
+    "category": "durability",
+    "shade": "Tips & Tales",
+    "shade_matches_folder": true,
+    "colour_finish": "nude pink with white french swirl lines",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A woman scratches a potato with her French tip press-on nails to demonstrate their durability and strength.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 11.0,
+        "usable": {
+          "min": 0.0,
+          "max": 11.0,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 4.0,
+          "action": "scratching potato skin off with nail"
+        },
+        "creative_role": [
+          "hook",
+          "demo",
+          "proof"
+        ],
+        "creative_stage": "Hook",
+        "process_step": "n/a",
+        "subject": "both_hands",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "indoor_bright",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "other",
+        "asmr_moments": [
+          {
+            "t": 2.0,
+            "desc": "scratching potato skin"
+          }
+        ],
+        "visual_fingerprint": "hands scratching a yellow potato under bright sunlight",
+        "claims_shown": [
+          "chip_resistant"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 9,
+          "proof": 9,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "potato scratch test",
+          "nail durability",
+          "french tip almond",
+          "scratching asmr",
+          "instant gels strength"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      },
+      {
+        "t_start": 11.0,
+        "t_end": 17.6,
+        "usable": {
+          "min": 11.0,
+          "max": 17.6,
+          "sweet_spot": 12.0
+        },
+        "action_climax": {
+          "t": 13.0,
+          "action": "tapping nails together"
+        },
+        "creative_role": [
+          "reveal",
+          "proof"
+        ],
+        "creative_stage": "Proof",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_bright",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom",
+          "left",
+          "top"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 13.0,
+            "desc": "nail tapping"
+          }
+        ],
+        "visual_fingerprint": "hand showing undamaged french tip nails after scratching potato",
+        "claims_shown": [
+          "chip_resistant"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 10,
+          "hook": 7,
+          "proof": 9,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "nail tapping asmr",
+          "french tip reveal",
+          "undamaged nails",
+          "almond shape press ons"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

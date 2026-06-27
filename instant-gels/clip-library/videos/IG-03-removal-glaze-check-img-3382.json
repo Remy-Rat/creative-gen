@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "path": "03_Removal/Glaze Check/IMG_3382.MOV",
+    "category": "removal",
+    "shade": "Glaze Check",
+    "duration": 8.0,
+    "tokens_in": 1572,
+    "tokens_out": 602,
+    "cost": 0.0078
+  },
+  "record": {
+    "clip_id": "IG-03-removal-glaze-check-img-3382",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Glaze Check",
+    "shade_matches_folder": true,
+    "colour_finish": "glazed nude pink",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hand holding GLAMRDiP REMOVE and HEAL bottles over a white bowl.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 8.0,
+        "usable": {
+          "min": 0.0,
+          "max": 8.0,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 6.5,
+          "action": "hand removes the HEAL bottle leaving only the REMOVE bottle"
+        },
+        "creative_role": [
+          "cta_support"
+        ],
+        "creative_stage": "Benefit",
+        "process_step": "n/a",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "white tabletop with bowl and harsh sunlight shadow",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "remove_solution",
+          "heal_oil"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Purple REMOVE bottle and small HEAL bottle held in hand under bright sunlight.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 5,
+          "proof": 3,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "remove bottle",
+          "heal oil",
+          "removal products",
+          "glaze check",
+          "almond nails"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

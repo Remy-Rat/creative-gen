@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "path": "03_Removal/Glaze Check/IMG_3383.MOV",
+    "category": "removal",
+    "shade": "Glaze Check",
+    "duration": 5.9,
+    "tokens_in": 1440,
+    "tokens_out": 631,
+    "cost": 0.0078
+  },
+  "record": {
+    "clip_id": "IG-03-removal-glaze-check-img-3383",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "n/a",
+    "shade_matches_folder": false,
+    "colour_finish": "n/a",
+    "shape": "n/a",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Purple GLAMRDiP removal solution bottle pouring liquid into a white striped mug of water.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 5.9,
+        "usable": {
+          "min": 0.0,
+          "max": 5.9,
+          "sweet_spot": 1.5
+        },
+        "action_climax": {
+          "t": 3.0,
+          "action": "pouring liquid into cup"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "removal_soak",
+        "subject": "product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "white surface with striped mug",
+        "nail_position": "none",
+        "text_safe_zones": [
+          "bottom",
+          "right"
+        ],
+        "products_visible": [
+          "remove_solution"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 2.5,
+            "desc": "liquid pouring and splashing into water"
+          }
+        ],
+        "visual_fingerprint": "Purple GLAMRDiP bottle pouring liquid into a white striped mug.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 5,
+          "proof": 4,
+          "standalone": 4,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "removal solution",
+          "pouring liquid",
+          "warm water soak",
+          "removal prep",
+          "glamrdip bottle",
+          "asmr pour"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

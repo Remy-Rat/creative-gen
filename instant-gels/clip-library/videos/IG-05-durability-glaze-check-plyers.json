@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "path": "05_Durability/Glaze Check_Plyers.MOV",
+    "category": "durability",
+    "shade": "-",
+    "duration": 22.8,
+    "tokens_in": 4184,
+    "tokens_out": 656,
+    "cost": 0.0122
+  },
+  "record": {
+    "clip_id": "IG-05-durability-glaze-check-plyers",
+    "product_line": "instant_gels",
+    "category": "durability",
+    "shade": "unknown",
+    "shade_matches_folder": false,
+    "colour_finish": "pearl pink chrome",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A pair of metal pliers squeezes and scrapes a glazed pink almond press-on nail to test durability.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 22.8,
+        "usable": {
+          "min": 4.0,
+          "max": 20.0,
+          "sweet_spot": 7.0
+        },
+        "action_climax": {
+          "t": 7.0,
+          "action": "pliers squeezing and scraping the glazed pink nail to demonstrate scratch resistance"
+        },
+        "creative_role": [
+          "proof"
+        ],
+        "creative_stage": "Proof",
+        "process_step": "n/a",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white surface with sharp sunlight shadow",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "other",
+        "asmr_moments": [
+          {
+            "t": 6.5,
+            "desc": "metal pliers scraping against the hard gel nail surface"
+          }
+        ],
+        "visual_fingerprint": "pliers squeezing and scraping a glazed pink almond nail on a white background with sharp shadows",
+        "claims_shown": [
+          "chip_resistant"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 8,
+          "hook": 8,
+          "proof": 9,
+          "standalone": 8,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "pliers test",
+          "durability test",
+          "scratch test",
+          "glazed pink nails",
+          "almond nails",
+          "strength test",
+          "chip resistant proof"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

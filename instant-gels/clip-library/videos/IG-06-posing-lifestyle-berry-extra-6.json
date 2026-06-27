@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "path": "06_Posing & Lifestyle/Berry Extra_6.MOV",
+    "category": "posing_lifestyle",
+    "shade": "-",
+    "duration": 3.8,
+    "tokens_in": 1303,
+    "tokens_out": 602,
+    "cost": 0.0074
+  },
+  "record": {
+    "clip_id": "IG-06-posing-lifestyle-berry-extra-6",
+    "product_line": "instant_gels",
+    "category": "posing_lifestyle",
+    "shade": "Berry Extra",
+    "shade_matches_folder": true,
+    "colour_finish": "glossy magenta pink",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hand rotates to reveal a glossy magenta almond manicure against a vibrant green leafy background.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 3.8,
+        "usable": {
+          "min": 0.0,
+          "max": 3.8,
+          "sweet_spot": 1.0
+        },
+        "action_climax": {
+          "t": 1.0,
+          "action": "hand rotates to reveal full set of glossy magenta nails"
+        },
+        "creative_role": [
+          "reveal",
+          "lifestyle"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "outdoor",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom",
+          "right"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Single hand with white sleeve and heart ring rotating to show magenta nails against green leaves.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "berry extra",
+          "magenta nails",
+          "pink nails",
+          "almond nails",
+          "outdoor posing",
+          "hand model",
+          "heart ring",
+          "white sleeve",
+          "green background"
+        ],
+        "confidence": 1.0,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

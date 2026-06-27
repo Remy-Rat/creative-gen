@@ -1,0 +1,423 @@
+{
+  "meta": {
+    "path": "07. Fast Motion Edits/Fast Motion Edit V3.mp4",
+    "category": "fast_motion",
+    "shade": "-",
+    "duration": 8.3,
+    "tokens_in": 2706,
+    "tokens_out": 3237,
+    "cost": 0.0332
+  },
+  "record": {
+    "clip_id": "IG-07-fast-motion-edits-fast-motion-edit-v3",
+    "product_line": "instant_gels",
+    "category": "fast_motion",
+    "shade": "multiple",
+    "shade_matches_folder": false,
+    "colour_finish": "multiple",
+    "shape": "multiple",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Fast-motion montage showcasing multiple Instant Gel shades and shapes on a single hand with rings.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 0.9,
+        "usable": {
+          "min": 0.0,
+          "max": 0.9,
+          "sweet_spot": 0.3
+        },
+        "action_climax": {
+          "t": 0.4,
+          "action": "reveal of sheer pink almond nails"
+        },
+        "creative_role": [
+          "reveal"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "indoor_daylight",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "sheer pink almond nails on hand with silver ring",
+        "claims_shown": [
+          "swap_styles"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 6,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "sheer pink",
+          "almond nails",
+          "fast motion",
+          "hand model",
+          "aesthetic transition"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      },
+      {
+        "t_start": 0.9,
+        "t_end": 1.9,
+        "usable": {
+          "min": 0.9,
+          "max": 1.9,
+          "sweet_spot": 1.4
+        },
+        "action_climax": {
+          "t": 1.4,
+          "action": "reveal of sheer mauve rose coffin nails"
+        },
+        "creative_role": [
+          "reveal"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "indoor_daylight",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "left",
+          "right",
+          "top"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "sheer mauve rose coffin nails on hand with heart ring",
+        "claims_shown": [
+          "swap_styles"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 6,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "mauve rose",
+          "coffin nails",
+          "fast motion",
+          "hand model",
+          "aesthetic transition"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      },
+      {
+        "t_start": 1.9,
+        "t_end": 2.9,
+        "usable": {
+          "min": 1.9,
+          "max": 2.9,
+          "sweet_spot": 2.4
+        },
+        "action_climax": {
+          "t": 2.4,
+          "action": "reveal of bright red almond nails"
+        },
+        "creative_role": [
+          "reveal"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "indoor_daylight",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "left",
+          "right",
+          "top"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "bright red almond nails on hand with heart ring",
+        "claims_shown": [
+          "swap_styles"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 6,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "bright red",
+          "almond nails",
+          "fast motion",
+          "hand model",
+          "aesthetic transition"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      },
+      {
+        "t_start": 2.9,
+        "t_end": 3.9,
+        "usable": {
+          "min": 2.9,
+          "max": 3.9,
+          "sweet_spot": 3.4
+        },
+        "action_climax": {
+          "t": 3.4,
+          "action": "dark cherry almond nails sliding out of frame"
+        },
+        "creative_role": [
+          "reveal"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "indoor_daylight",
+        "nail_position": "bottom_right",
+        "text_safe_zones": [
+          "left",
+          "top",
+          "center"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "dark cherry almond nails sliding out of frame",
+        "claims_shown": [
+          "swap_styles"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 6,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "dark cherry",
+          "almond nails",
+          "fast motion",
+          "hand model",
+          "aesthetic transition"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      },
+      {
+        "t_start": 3.9,
+        "t_end": 4.9,
+        "usable": {
+          "min": 3.9,
+          "max": 4.9,
+          "sweet_spot": 4.4
+        },
+        "action_climax": {
+          "t": 4.4,
+          "action": "reveal of french tip almond nails"
+        },
+        "creative_role": [
+          "reveal"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "indoor_daylight",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "left",
+          "right",
+          "top"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "french tip almond nails on hand with gold rings",
+        "claims_shown": [
+          "swap_styles"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 6,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "french tip",
+          "almond nails",
+          "fast motion",
+          "hand model",
+          "aesthetic transition"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      },
+      {
+        "t_start": 4.9,
+        "t_end": 5.9,
+        "usable": {
+          "min": 4.9,
+          "max": 5.9,
+          "sweet_spot": 5.4
+        },
+        "action_climax": {
+          "t": 5.4,
+          "action": "reveal of soft pink almond nails"
+        },
+        "creative_role": [
+          "reveal"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "indoor_daylight",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "left",
+          "right",
+          "top"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "soft pink almond nails on hand with heart ring",
+        "claims_shown": [
+          "swap_styles"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 6,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "soft pink",
+          "almond nails",
+          "fast motion",
+          "hand model",
+          "aesthetic transition"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      },
+      {
+        "t_start": 5.9,
+        "t_end": 8.3,
+        "usable": {
+          "min": 5.9,
+          "max": 8.3,
+          "sweet_spot": 7.1
+        },
+        "action_climax": {
+          "t": 7.1,
+          "action": "reveal of purple glitter shimmer almond nails"
+        },
+        "creative_role": [
+          "reveal"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "indoor_daylight",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "left",
+          "right",
+          "top"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "purple glitter shimmer almond nails on hand with heart ring",
+        "claims_shown": [
+          "swap_styles"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 6,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "purple glitter",
+          "shimmer nails",
+          "almond nails",
+          "fast motion",
+          "hand model",
+          "aesthetic transition"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

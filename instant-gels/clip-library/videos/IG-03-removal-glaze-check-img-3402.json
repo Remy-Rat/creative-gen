@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "path": "03_Removal/Glaze Check/IMG_3402.MOV",
+    "category": "removal",
+    "shade": "Glaze Check",
+    "duration": 3.6,
+    "tokens_in": 1308,
+    "tokens_out": 598,
+    "cost": 0.0073
+  },
+  "record": {
+    "clip_id": "IG-03-removal-glaze-check-img-3402",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Glaze Check",
+    "shade_matches_folder": true,
+    "colour_finish": "bare natural nails with healthy shine",
+    "shape": "round",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Healthy, undamaged natural nails shown after removal of Glaze Check press-on nails.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 3.6,
+        "usable": {
+          "min": 0.0,
+          "max": 3.6,
+          "sweet_spot": 1.5
+        },
+        "action_climax": {
+          "t": 1.5,
+          "action": "hands overlapping to show healthy natural nails after removal"
+        },
+        "creative_role": [
+          "proof",
+          "payoff"
+        ],
+        "creative_stage": "Proof",
+        "process_step": "removal_cleanup",
+        "subject": "both_hands",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "studio",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Healthy bare natural nails with soft shadows on a white background.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 3,
+          "hook": 5,
+          "proof": 8,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "healthy natural nails",
+          "post removal",
+          "no damage",
+          "bare nails",
+          "glaze check",
+          "manicure cleanup",
+          "soft gel removal"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

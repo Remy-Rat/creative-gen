@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "path": "04_Product Shots/Unboxing/Glaze Check_Unbox.MOV",
+    "category": "product_shots",
+    "shade": "Unboxing",
+    "duration": 10.4,
+    "tokens_in": 1708,
+    "tokens_out": 701,
+    "cost": 0.0089
+  },
+  "record": {
+    "clip_id": "IG-04-product-shots-unboxing-glaze-check-unbox",
+    "product_line": "instant_gels",
+    "category": "product_shots",
+    "shade": "Glaze Check",
+    "shade_matches_folder": false,
+    "colour_finish": "glazed pearly pink",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hands unboxing the GLAMRDiP Instant Gels kit in Glaze Check, revealing the nails and application accessories.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 10.4,
+        "usable": {
+          "min": 0.0,
+          "max": 10.4,
+          "sweet_spot": 7.0
+        },
+        "action_climax": {
+          "t": 7.0,
+          "action": "revealing the full kit contents including glue, file, prep pad, and extra nails"
+        },
+        "creative_role": [
+          "reveal"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "n/a",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "indoor_bright",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "bottom"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "nailed_it_glue",
+          "smooth_moves_file",
+          "cuticle_stick",
+          "prep_pad",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 3.0,
+            "desc": "plastic tray lifting and sliding"
+          }
+        ],
+        "visual_fingerprint": "Hands lifting the clear plastic tray of glazed pink almond nails to reveal the purple accessories underneath.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 10,
+          "hook": 7,
+          "proof": 3,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "unboxing",
+          "kit reveal",
+          "glaze check",
+          "almond nails",
+          "press-on kit",
+          "whats inside"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

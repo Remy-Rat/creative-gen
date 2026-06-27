@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "path": "03_Removal/Ruby Rush/IMG_1507.MOV",
+    "category": "removal",
+    "shade": "Ruby Rush",
+    "duration": 3.3,
+    "tokens_in": 1240,
+    "tokens_out": 591,
+    "cost": 0.0072
+  },
+  "record": {
+    "clip_id": "IG-03-removal-ruby-rush-img-1507",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "none",
+    "shade_matches_folder": false,
+    "colour_finish": "natural bare nails",
+    "shape": "round",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Static shot of a bare hand with natural nails showing glue residue on the index finger after removal.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 3.3,
+        "usable": {
+          "min": 0.0,
+          "max": 3.3,
+          "sweet_spot": 1.0
+        },
+        "action_climax": {
+          "t": 0.0,
+          "action": "static shot of bare hand"
+        },
+        "creative_role": [
+          "problem"
+        ],
+        "creative_stage": "Problem",
+        "process_step": "removal_cleanup",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "indoor_daylight",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "bare hand on white surface with diagonal shadow, white residue on index fingernail",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 7,
+          "product_visibility": 1,
+          "hook": 3,
+          "proof": 4,
+          "standalone": 3,
+          "edit_flexibility": 5
+        },
+        "search_tags": [
+          "bare nails",
+          "natural nails",
+          "glue residue",
+          "after removal",
+          "nail damage",
+          "removal cleanup"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

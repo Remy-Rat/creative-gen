@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "path": "03_Removal/Glaze Check/IMG_3397.MOV",
+    "category": "removal",
+    "shade": "Glaze Check",
+    "duration": 7.2,
+    "tokens_in": 2075,
+    "tokens_out": 629,
+    "cost": 0.0088
+  },
+  "record": {
+    "clip_id": "IG-03-removal-glaze-check-img-3397",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Glaze Check",
+    "shade_matches_folder": true,
+    "colour_finish": "sheer glazed pink pearl",
+    "shape": "round",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of hands displaying short, glossy, glazed pink Instant Gel nails under bright sunlight.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 7.2,
+        "usable": {
+          "min": 0.0,
+          "max": 7.2,
+          "sweet_spot": 3.0
+        },
+        "action_climax": {
+          "t": 3.5,
+          "action": "showing both hands with glazed pink nails in bright sunlight"
+        },
+        "creative_role": [
+          "reveal",
+          "payoff"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "both_hands",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_sunlight",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hands displaying short glazed pink nails with strong sunlight casting a sharp shadow on a white surface",
+        "claims_shown": [
+          "zero_edge"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 6,
+          "proof": 7,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "Glaze Check",
+          "glazed donut nails",
+          "short round nails",
+          "sheer pink",
+          "natural look",
+          "sunlight",
+          "hand model"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

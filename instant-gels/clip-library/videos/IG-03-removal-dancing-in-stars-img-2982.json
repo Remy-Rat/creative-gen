@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "path": "03_Removal/Dancing in Stars/IMG_2982.MOV",
+    "category": "removal",
+    "shade": "Dancing in Stars",
+    "duration": 2.9,
+    "tokens_in": 1243,
+    "tokens_out": 619,
+    "cost": 0.0074
+  },
+  "record": {
+    "clip_id": "IG-03-removal-dancing-in-stars-img-2982",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Dancing in Stars",
+    "shade_matches_folder": true,
+    "colour_finish": "sheer pink with star accent",
+    "shape": "round",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Static close-up of a hand with sheer pink 'Dancing in Stars' press-on nails under direct sunlight.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 2.9,
+        "usable": {
+          "min": 0.0,
+          "max": 2.9,
+          "sweet_spot": 1.0
+        },
+        "action_climax": {
+          "t": 1.0,
+          "action": "static hand showcase under sunlight"
+        },
+        "creative_role": [
+          "reveal",
+          "lifestyle"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "indoor",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left",
+          "top_left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand with sheer pink nails and star accent on index finger resting on white surface with diagonal shadow",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 4,
+          "proof": 3,
+          "standalone": 5,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "sheer pink nails",
+          "dancing in stars",
+          "short round nails",
+          "aesthetic hand",
+          "sunlight shadow",
+          "nail reveal"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

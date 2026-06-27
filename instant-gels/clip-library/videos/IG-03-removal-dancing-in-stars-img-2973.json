@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "path": "03_Removal/Dancing in Stars/IMG_2973.MOV",
+    "category": "removal",
+    "shade": "Dancing in Stars",
+    "duration": 10.2,
+    "tokens_in": 1706,
+    "tokens_out": 659,
+    "cost": 0.0085
+  },
+  "record": {
+    "clip_id": "IG-03-removal-dancing-in-stars-img-2973",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Dancing in Stars",
+    "shade_matches_folder": true,
+    "colour_finish": "silver glitter shimmer with nude base",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hand with silver glitter almond nails soaking in a bowl of warm water and oil for removal.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 10.2,
+        "usable": {
+          "min": 0.0,
+          "max": 10.2,
+          "sweet_spot": 3.0
+        },
+        "action_climax": {
+          "t": 3.5,
+          "action": "submerging fingers into the water and swirling"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "removal_soak",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "indoors",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 4.0,
+            "desc": "soft water swirling and splashing sounds"
+          }
+        ],
+        "visual_fingerprint": "overhead shot of a hand with glittery almond nails soaking in a white ceramic bowl filled with water and oil droplets",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 8,
+          "hook": 7,
+          "proof": 6,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "removal soak",
+          "dancing in stars",
+          "glitter nails",
+          "how to remove press on nails",
+          "warm water oil soak",
+          "soft gel nails"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

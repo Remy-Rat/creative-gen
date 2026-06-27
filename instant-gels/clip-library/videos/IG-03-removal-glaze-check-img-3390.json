@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "path": "03_Removal/Glaze Check/IMG_3390.MOV",
+    "category": "removal",
+    "shade": "Glaze Check",
+    "duration": 6.8,
+    "tokens_in": 1506,
+    "tokens_out": 648,
+    "cost": 0.0081
+  },
+  "record": {
+    "clip_id": "IG-03-removal-glaze-check-img-3390",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Glaze Check",
+    "shade_matches_folder": true,
+    "colour_finish": "pearl chrome nude pink",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of a hand testing the edge of a glazed almond press-on nail under bright sunlight.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 6.8,
+        "usable": {
+          "min": 0.0,
+          "max": 6.8,
+          "sweet_spot": 1.0,
+          "sweet_spot_end": 5.0
+        },
+        "action_climax": {
+          "t": 2.0,
+          "action": "pinching and lifting the side of the index nail"
+        },
+        "creative_role": [
+          "demo",
+          "proof"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "removal_lift",
+        "subject": "both_hands",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_daylight",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Glazed pink almond nails on a hand with a sharp diagonal shadow on the left white background",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 5,
+          "proof": 6,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "glazed nails",
+          "glaze check",
+          "almond press ons",
+          "removal lift",
+          "testing nail bond",
+          "chrome nails",
+          "nude pink chrome"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

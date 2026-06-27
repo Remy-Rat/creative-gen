@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "path": "04_Product Shots/Unboxing/Glaze Check_Slide Out.MOV",
+    "category": "product_shots",
+    "shade": "Unboxing",
+    "duration": 10.6,
+    "tokens_in": 1776,
+    "tokens_out": 676,
+    "cost": 0.0087
+  },
+  "record": {
+    "clip_id": "IG-04-product-shots-unboxing-glaze-check-slide-out",
+    "product_line": "instant_gels",
+    "category": "product_shots",
+    "shade": "Glaze Check",
+    "shade_matches_folder": false,
+    "colour_finish": "glossy sheer pinkish nude",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Sliding the inner tray of Glaze Check Instant Gels out of its purple sleeve under bright sunlight.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 10.6,
+        "usable": {
+          "min": 0.0,
+          "max": 10.6,
+          "sweet_spot": 0.0,
+          "sweet_spot_end": 6.0
+        },
+        "action_climax": {
+          "t": 5.0,
+          "action": "tray is fully slid out of the sleeve"
+        },
+        "creative_role": [
+          "reveal"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "n/a",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white background with hard sunlight shadow",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 1.0,
+            "desc": "plastic sliding sound"
+          }
+        ],
+        "visual_fingerprint": "Hand sliding a clear plastic tray of 32 nude almond press-on nails out of a purple GLAMRDiP sleeve.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 10,
+          "hook": 7,
+          "proof": 3,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "unboxing",
+          "glaze check",
+          "slide out",
+          "packaging reveal",
+          "almond nails",
+          "sheer nude",
+          "press-on tray"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

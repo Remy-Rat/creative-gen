@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "path": "03_Removal/Cinammon Spice/IMG_2570.MOV",
+    "category": "removal",
+    "shade": "Cinammon Spice",
+    "duration": 5.3,
+    "tokens_in": 1813,
+    "tokens_out": 702,
+    "cost": 0.009
+  },
+  "record": {
+    "clip_id": "IG-03-removal-cinammon-spice-img-2570",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Cinnamon Spice",
+    "shade_matches_folder": true,
+    "colour_finish": "magnetic shimmering bronze brown",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A close-up showing a press-on nail in Cinnamon Spice being easily peeled off the index finger.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 5.3,
+        "usable": {
+          "min": 0.0,
+          "max": 5.3,
+          "sweet_spot": 1.0,
+          "sweet_spot_end": 4.0
+        },
+        "action_climax": {
+          "t": 2.5,
+          "action": "the press-on nail is popped off the index finger"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "removal_lift",
+        "subject": "both_hands",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "studio",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 2.5,
+            "desc": "satisfying visual peel and pop of the press-on nail"
+          }
+        ],
+        "visual_fingerprint": "hands on a bright white surface with a sharp diagonal shadow, peeling off a shimmering bronze almond nail",
+        "claims_shown": [
+          "swap_styles"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 8,
+          "standalone": 6,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "removal",
+          "peel off",
+          "cinnamon spice",
+          "magnetic nail",
+          "cat eye nail",
+          "almond shape",
+          "easy removal",
+          "press on nails"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

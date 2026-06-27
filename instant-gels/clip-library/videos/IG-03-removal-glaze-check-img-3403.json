@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "path": "03_Removal/Glaze Check/IMG_3403.MOV",
+    "category": "removal",
+    "shade": "Glaze Check",
+    "duration": 5.2,
+    "tokens_in": 1811,
+    "tokens_out": 647,
+    "cost": 0.0085
+  },
+  "record": {
+    "clip_id": "IG-03-removal-glaze-check-img-3403",
+    "product_line": "instant_gels",
+    "category": "reveal",
+    "shade": "Glaze Check",
+    "shade_matches_folder": true,
+    "colour_finish": "glazed pink chrome",
+    "shape": "round",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of both hands showcasing a glossy, glazed pink 'Glaze Check' manicure under direct sunlight.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 5.2,
+        "usable": {
+          "min": 0.0,
+          "max": 5.2,
+          "sweet_spot": 1.0,
+          "sweet_spot_end": 4.5
+        },
+        "action_climax": {
+          "t": 2.5,
+          "action": "hands gently shifting under sunlight to show the glaze reflection"
+        },
+        "creative_role": [
+          "reveal",
+          "payoff",
+          "lifestyle"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "both_hands",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_daylight",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "bottom"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Both hands held up, fingers slightly curled, showing a pearlescent pink glazed manicure with strong sunlight casting shadows.",
+        "claims_shown": [
+          "zero_edge"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 8,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "glazed nails",
+          "pink chrome nails",
+          "glaze check",
+          "short round nails",
+          "natural look press ons",
+          "sunlight nail reveal"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

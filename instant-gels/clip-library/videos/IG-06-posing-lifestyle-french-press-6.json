@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "path": "06_Posing & Lifestyle/French Press_6.MOV",
+    "category": "posing_lifestyle",
+    "shade": "-",
+    "duration": 3.5,
+    "tokens_in": 1303,
+    "tokens_out": 629,
+    "cost": 0.0076
+  },
+  "record": {
+    "clip_id": "IG-06-posing-lifestyle-french-press-6",
+    "product_line": "instant_gels",
+    "category": "posing_lifestyle",
+    "shade": "French Press",
+    "shade_matches_folder": false,
+    "colour_finish": "white French tip with nude pink base",
+    "shape": "squoval",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A hand wearing French manicure press-on nails and a diamond ring opens over green grass with daisies.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 3.5,
+        "usable": {
+          "min": 0.0,
+          "max": 3.5,
+          "sweet_spot": 0.5
+        },
+        "action_climax": {
+          "t": 0.8,
+          "action": "hand opens to fully reveal the French manicure nails"
+        },
+        "creative_role": [
+          "reveal",
+          "lifestyle"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "outdoor grass with daisies",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "A hand in a white sleeve wearing a diamond ring opens to show a classic French manicure over bright green grass with small white daisies.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 3,
+          "standalone": 8,
+          "edit_flexibility": 9
+        },
+        "search_tags": [
+          "french manicure",
+          "french press",
+          "outdoor lifestyle",
+          "daisies",
+          "diamond ring",
+          "hand reveal",
+          "aesthetic nails",
+          "squoval nails"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

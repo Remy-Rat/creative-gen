@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "path": "05_Durability/Dancing in Stars_Steel Brush.MOV",
+    "category": "durability",
+    "shade": "-",
+    "duration": 8.1,
+    "tokens_in": 2205,
+    "tokens_out": 673,
+    "cost": 0.0094
+  },
+  "record": {
+    "clip_id": "IG-05-durability-dancing-in-stars-steel-brush",
+    "product_line": "instant_gels",
+    "category": "durability",
+    "shade": "Dancing in Stars",
+    "shade_matches_folder": false,
+    "colour_finish": "shimmering pink glitter",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hand with shimmering pink glitter nails scratches a steel wire brush to demonstrate scratch resistance, then reveals undamaged nails.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 8.1,
+        "usable": {
+          "min": 0.0,
+          "max": 8.1,
+          "sweet_spot": 3.5
+        },
+        "action_climax": {
+          "t": 5.5,
+          "action": "hand turns to reveal undamaged shimmering pink glitter nails up close"
+        },
+        "creative_role": [
+          "proof"
+        ],
+        "creative_stage": "Proof",
+        "process_step": "n/a",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "handheld",
+        "motion_level": "moderate",
+        "setting": "outdoor",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "bottom"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "other",
+        "asmr_moments": [
+          {
+            "t": 0.5,
+            "desc": "metallic scratching sound of nails rubbing against steel wire brush bristles"
+          }
+        ],
+        "visual_fingerprint": "hand scratching a double-headed steel wire brush against a textured concrete wall, then showing the shimmering pink glitter almond nails",
+        "claims_shown": [
+          "chip_resistant"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 9,
+          "standalone": 8,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "steel brush test",
+          "scratch test",
+          "durability proof",
+          "dancing in stars",
+          "glitter nails",
+          "almond nails",
+          "scratching sound",
+          "asmr scratch"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

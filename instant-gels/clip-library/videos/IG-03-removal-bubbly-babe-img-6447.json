@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "path": "03_Removal/Bubbly Babe/IMG_6447.MOV",
+    "category": "removal",
+    "shade": "Bubbly Babe",
+    "duration": 4.5,
+    "tokens_in": 1311,
+    "tokens_out": 609,
+    "cost": 0.0074
+  },
+  "record": {
+    "clip_id": "IG-03-removal-bubbly-babe-img-6447",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "none",
+    "shade_matches_folder": false,
+    "colour_finish": "bare natural nails with glossy oil",
+    "shape": "round",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Bare natural nails covered in shiny cuticle oil or removal residue under bright direct sunlight.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 4.5,
+        "usable": {
+          "min": 0.0,
+          "max": 4.5,
+          "sweet_spot": 1.5
+        },
+        "action_climax": {
+          "t": 1.5,
+          "action": "hand fully opens showing shiny bare nails in sunlight"
+        },
+        "creative_role": [
+          "payoff",
+          "cta_support"
+        ],
+        "creative_stage": "Transformation",
+        "process_step": "removal_cleanup",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white background with harsh sunlight shadow",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "oily bare hand rotating into bright sunlight on white surface with sharp shadow",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 2,
+          "hook": 5,
+          "proof": 6,
+          "standalone": 5,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "bare nails",
+          "cuticle oil",
+          "removal cleanup",
+          "post removal",
+          "natural nails",
+          "sunlight shadow",
+          "healthy nails"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

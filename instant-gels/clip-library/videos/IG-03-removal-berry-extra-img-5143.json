@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "path": "03_Removal/Berry Extra/IMG_5143.MOV",
+    "category": "removal",
+    "shade": "Berry Extra",
+    "duration": 11.0,
+    "tokens_in": 1769,
+    "tokens_out": 607,
+    "cost": 0.0081
+  },
+  "record": {
+    "clip_id": "IG-03-removal-berry-extra-img-5143",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Berry Extra",
+    "shade_matches_folder": true,
+    "colour_finish": "sheer pink natural nails",
+    "shape": "round",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of bare, healthy natural nails being examined and rubbed after removing Instant Gels.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 11.0,
+        "usable": {
+          "min": 0.0,
+          "max": 11.0,
+          "sweet_spot": 3.0
+        },
+        "action_climax": {
+          "t": 3.5,
+          "action": "rubbing the bare thumbnail and index nail to show no damage"
+        },
+        "creative_role": [
+          "proof",
+          "payoff"
+        ],
+        "creative_stage": "Proof",
+        "process_step": "removal_cleanup",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_natural_light",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Bare natural nails with a glossy sheen being rubbed by an index finger under bright sunlight",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 3,
+          "hook": 5,
+          "proof": 8,
+          "standalone": 6,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "bare nails",
+          "healthy nails",
+          "after removal",
+          "nail care",
+          "natural nails",
+          "no damage",
+          "berry extra"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

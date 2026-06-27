@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "path": "03_Removal/Bubbly Babe/IMG_6449.MOV",
+    "category": "removal",
+    "shade": "Bubbly Babe",
+    "duration": 6.0,
+    "tokens_in": 1443,
+    "tokens_out": 616,
+    "cost": 0.0077
+  },
+  "record": {
+    "clip_id": "IG-03-removal-bubbly-babe-img-6449",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "none",
+    "shade_matches_folder": false,
+    "colour_finish": "bare natural nails",
+    "shape": "round",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of healthy, undamaged bare natural nails being rubbed and inspected after press-on removal.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 6.0,
+        "usable": {
+          "min": 0.0,
+          "max": 6.0,
+          "sweet_spot": 1.0
+        },
+        "action_climax": {
+          "t": 3.0,
+          "action": "rubbing the surface of the bare thumb nail to show it is smooth and undamaged"
+        },
+        "creative_role": [
+          "proof",
+          "payoff"
+        ],
+        "creative_stage": "Proof",
+        "process_step": "removal_cleanup",
+        "subject": "both_hands",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor daylight",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Bare natural nails being gently rubbed under bright direct sunlight, casting a sharp shadow on a white surface.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 1,
+          "hook": 5,
+          "proof": 8,
+          "standalone": 4,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "bare nails",
+          "natural nails",
+          "post removal",
+          "healthy nails",
+          "no damage",
+          "removal cleanup",
+          "sunlight",
+          "close up"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

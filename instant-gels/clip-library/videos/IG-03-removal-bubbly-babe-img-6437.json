@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "path": "03_Removal/Bubbly Babe/IMG_6437.MOV",
+    "category": "removal",
+    "shade": "Bubbly Babe",
+    "duration": 19.5,
+    "tokens_in": 2302,
+    "tokens_out": 677,
+    "cost": 0.0095
+  },
+  "record": {
+    "clip_id": "IG-03-removal-bubbly-babe-img-6437",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Bubbly Babe",
+    "shade_matches_folder": true,
+    "colour_finish": "glossy sheer nude pink",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A hand with glossy nude almond nails soaking and wiggling in a bowl of water for removal.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 19.5,
+        "usable": {
+          "min": 0.0,
+          "max": 19.5,
+          "sweet_spot": 2.0,
+          "sweet_spot_end": 15.0
+        },
+        "action_climax": {
+          "t": 5.0,
+          "action": "fingers wiggling in the water to soak off the nails"
+        },
+        "creative_role": [
+          "demo",
+          "proof"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "removal_soak",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "indoor_daylight",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "left",
+          "top_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 3.0,
+            "desc": "soft water splashing and swirling sounds"
+          }
+        ],
+        "visual_fingerprint": "hand with glossy nude almond nails soaking and wiggling in a white bowl of water with oil droplets under bright sunlight",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 5,
+          "proof": 7,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "removal soak",
+          "bubbly babe",
+          "almond nails",
+          "soaking nails",
+          "warm water removal",
+          "gentle removal",
+          "press on nails"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

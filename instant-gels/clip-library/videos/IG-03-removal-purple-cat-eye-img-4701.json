@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "path": "03_Removal/Purple Cat Eye/IMG_4701.MOV",
+    "category": "removal",
+    "shade": "Purple Cat Eye",
+    "duration": 7.4,
+    "tokens_in": 2076,
+    "tokens_out": 719,
+    "cost": 0.0096
+  },
+  "record": {
+    "clip_id": "IG-03-removal-purple-cat-eye-img-4701",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Purple Cat Eye",
+    "shade_matches_folder": true,
+    "colour_finish": "purple magnetic cat-eye shimmer",
+    "shape": "almond",
+    "method": "tabs",
+    "has_speech": false,
+    "summary": "Peeling off a purple cat-eye press-on nail to show easy, damage-free removal.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 7.4,
+        "usable": {
+          "min": 0.0,
+          "max": 7.4,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 3.0,
+          "action": "peeling the purple cat-eye nail off the ring finger"
+        },
+        "creative_role": [
+          "demo",
+          "proof"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "removal_lift",
+        "subject": "both_hands",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white surface with bright sunlight and shadow",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 3.0,
+            "desc": "visual peel of the press-on nail"
+          }
+        ],
+        "visual_fingerprint": "sunlit hands on white background peeling off a purple cat-eye nail",
+        "claims_shown": [
+          "swap_styles"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 7,
+          "proof": 8,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "nail removal",
+          "peel off",
+          "purple cat eye",
+          "magnetic nails",
+          "damage free"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "revise",
+    "issues": [
+      "The video does not visually demonstrate the 'swap_styles' claim; it only uses a hand-positioning trick to transition between showing different nail colors rather than demonstrating the actual process of swapping or changing the press-on nails."
+    ]
+  }
+}

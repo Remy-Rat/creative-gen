@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "path": "02_Application/Shy But Extra/IMG_3899.MOV",
+    "category": "application",
+    "shade": "Shy But Extra",
+    "duration": 4.9,
+    "tokens_in": 1376,
+    "tokens_out": 619,
+    "cost": 0.0076
+  },
+  "record": {
+    "clip_id": "IG-02-application-shy-but-extra-img-3899",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Shy But Extra",
+    "shade_matches_folder": true,
+    "colour_finish": "pearl chrome",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of pearlescent almond nails next to the kit box under direct sunlight.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 4.9,
+        "usable": {
+          "min": 0.0,
+          "max": 4.9,
+          "sweet_spot": 1.0
+        },
+        "action_climax": {
+          "t": 2.0,
+          "action": "hand showcasing pearlescent nails under direct sunlight"
+        },
+        "creative_role": [
+          "reveal",
+          "payoff"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "white table with harsh sunlight shadow",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Pearly chrome almond nails on a hand with harsh diagonal shadows next to a kit box",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "pearly nails",
+          "chrome almond",
+          "shy but extra",
+          "final reveal",
+          "sunlight shadow"
+        ],
+        "confidence": 1.0,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

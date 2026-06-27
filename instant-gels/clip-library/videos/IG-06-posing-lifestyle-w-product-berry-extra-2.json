@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "path": "06_Posing & Lifestyle/W Product/Berry Extra_2.MOV",
+    "category": "posing_lifestyle",
+    "shade": "W Product",
+    "duration": 6.4,
+    "tokens_in": 1441,
+    "tokens_out": 646,
+    "cost": 0.008
+  },
+  "record": {
+    "clip_id": "IG-06-posing-lifestyle-w-product-berry-extra-2",
+    "product_line": "instant_gels",
+    "category": "posing_lifestyle",
+    "shade": "Mystic Mirage",
+    "shade_matches_folder": false,
+    "colour_finish": "glossy berry red",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A hand with glossy berry red almond nails poses next to the Mystic Mirage product box in bright sunlight.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 6.4,
+        "usable": {
+          "min": 0.0,
+          "max": 6.4,
+          "sweet_spot": 1.0,
+          "sweet_spot_end": 5.0
+        },
+        "action_climax": {
+          "t": 2.0,
+          "action": "hand tilting slightly to catch the direct sunlight on the glossy nails and packaging"
+        },
+        "creative_role": [
+          "lifestyle",
+          "reveal"
+        ],
+        "creative_stage": "Lifestyle",
+        "process_step": "final_reveal",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_daylight",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom_left",
+          "top_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand wearing a silver ring with a red heart gem, holding a purple GLAMRDiP box under sharp direct sunlight",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "berry nails",
+          "almond nails",
+          "glossy red nails",
+          "mystic mirage",
+          "glamrdip box",
+          "sunlight aesthetic",
+          "heart ring"
+        ],
+        "confidence": 0.9,
+        "human_review": true
+      }
+    ]
+  },
+  "compliance": null
+}

@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "path": "03_Removal/French Press/IMG_5929.MOV",
+    "category": "removal",
+    "shade": "French Press",
+    "duration": 4.1,
+    "tokens_in": 1306,
+    "tokens_out": 616,
+    "cost": 0.0075
+  },
+  "record": {
+    "clip_id": "IG-03-removal-french-press-img-5929",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "n/a",
+    "shade_matches_folder": false,
+    "colour_finish": "bare natural nails with glossy oil",
+    "shape": "round",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of a bare hand showing healthy natural nails with glossy oil after removal under bright sunlight.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 4.1,
+        "usable": {
+          "min": 0.0,
+          "max": 4.1,
+          "sweet_spot": 1.5
+        },
+        "action_climax": {
+          "t": 2.0,
+          "action": "hand slightly shifting in sunlight showing healthy natural nails"
+        },
+        "creative_role": [
+          "proof",
+          "payoff"
+        ],
+        "creative_stage": "Proof",
+        "process_step": "removal_cleanup",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "indoor_sunlight",
+        "nail_position": "left",
+        "text_safe_zones": [
+          "right",
+          "bottom_right"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "bare hand with glossy natural nails curled in bright sunlight with shadow on the palm",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 1,
+          "hook": 3,
+          "proof": 8,
+          "standalone": 4,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "healthy natural nails",
+          "post removal",
+          "bare nails",
+          "cuticle oil",
+          "no damage",
+          "french press removal",
+          "hand closeup"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

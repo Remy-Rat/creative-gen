@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "path": "05_Durability/French Press_Plyers.MOV",
+    "category": "durability",
+    "shade": "-",
+    "duration": 10.7,
+    "tokens_in": 2598,
+    "tokens_out": 672,
+    "cost": 0.0099
+  },
+  "record": {
+    "clip_id": "IG-05-durability-french-press-plyers",
+    "product_line": "instant_gels",
+    "category": "durability",
+    "shade": "French Press",
+    "shade_matches_folder": false,
+    "colour_finish": "glossy nude base with crisp white tips",
+    "shape": "squoval",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A hand wearing French manicure press-on nails is tested for durability by squeezing a nail tip with pliers.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 10.7,
+        "usable": {
+          "min": 0.0,
+          "max": 10.7,
+          "sweet_spot": 3.0
+        },
+        "action_climax": {
+          "t": 5.0,
+          "action": "pliers squeezing the tip of the French manicure nail to show strength"
+        },
+        "creative_role": [
+          "proof"
+        ],
+        "creative_stage": "Proof",
+        "process_step": "n/a",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "white background with harsh sunlight shadow",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "other",
+        "asmr_moments": [
+          {
+            "t": 3.5,
+            "desc": "metal pliers squeezing the hard gel nail tip"
+          }
+        ],
+        "visual_fingerprint": "French manicure nails being squeezed by metal pliers under bright sunlight",
+        "claims_shown": [
+          "chip_resistant"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 10,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "pliers test",
+          "durability test",
+          "french manicure",
+          "strength test",
+          "squoval nails",
+          "instant gels",
+          "gelstack strength"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

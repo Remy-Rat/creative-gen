@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "path": "03_Removal/Bubbly Babe/IMG_6436.MOV",
+    "category": "removal",
+    "shade": "Bubbly Babe",
+    "duration": 4.7,
+    "tokens_in": 1377,
+    "tokens_out": 622,
+    "cost": 0.0077
+  },
+  "record": {
+    "clip_id": "IG-03-removal-bubbly-babe-img-6436",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "n/a",
+    "shade_matches_folder": false,
+    "colour_finish": "n/a",
+    "shape": "unknown",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Top-down view of water droplets falling into a bowl of soapy water, creating ripples.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 4.7,
+        "usable": {
+          "min": 0.0,
+          "max": 4.7,
+          "sweet_spot": 1.0
+        },
+        "action_climax": {
+          "t": 0.8,
+          "action": "droplet hits the water surface creating ripples"
+        },
+        "creative_role": [
+          "transition"
+        ],
+        "creative_stage": "Transition",
+        "process_step": "removal_soak",
+        "subject": "product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "short",
+        "nail_position": "none",
+        "text_safe_zones": [
+          "bottom",
+          "left",
+          "right"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 0.8,
+            "desc": "water droplet splash and ripple sound"
+          }
+        ],
+        "visual_fingerprint": "top-down view of a white bowl with soapy water and oil droplets on the surface",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 7,
+          "product_visibility": 2,
+          "hook": 5,
+          "proof": 3,
+          "standalone": 4,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "removal soak",
+          "water ripples",
+          "soapy water bowl",
+          "aesthetic transition",
+          "asmr splash",
+          "nail removal process"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

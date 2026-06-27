@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "path": "04_Product Shots/Unboxing/Ruby Rush_Unbox.MOV",
+    "category": "product_shots",
+    "shade": "Unboxing",
+    "duration": 9.7,
+    "tokens_in": 1705,
+    "tokens_out": 681,
+    "cost": 0.0087
+  },
+  "record": {
+    "clip_id": "IG-04-product-shots-unboxing-ruby-rush-unbox",
+    "product_line": "instant_gels",
+    "category": "product_shots",
+    "shade": "Ruby Rush",
+    "shade_matches_folder": false,
+    "colour_finish": "matte black and glossy ruby red",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hands holding the clear plastic tray of the Instant Gels kit, showing the tools and sample nails.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 9.7,
+        "usable": {
+          "min": 0.0,
+          "max": 9.7,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 0.0,
+          "action": "static hold of the unboxed kit contents"
+        },
+        "creative_role": [
+          "reveal",
+          "hook"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "n/a",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "studio_white",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "top",
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "nailed_it_glue",
+          "adhesive_tabs",
+          "smooth_moves_file",
+          "cuticle_stick",
+          "prep_pad"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hands holding a clear plastic tray containing a purple prep pad, purple nail file, wooden stick, glue tube, and three almond nails (two matte black, one glossy red)",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 6,
+          "proof": 1,
+          "standalone": 5,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "unboxing",
+          "kit contents",
+          "ruby rush",
+          "matte black",
+          "red almond nails",
+          "prep pad",
+          "nail file",
+          "glue",
+          "cuticle stick"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "path": "04_Product Shots/Unboxing/Berry Extra_Slide Out.MOV",
+    "category": "product_shots",
+    "shade": "Unboxing",
+    "duration": 9.5,
+    "tokens_in": 1641,
+    "tokens_out": 663,
+    "cost": 0.0084
+  },
+  "record": {
+    "clip_id": "IG-04-product-shots-unboxing-berry-extra-slide-out",
+    "product_line": "instant_gels",
+    "category": "product_shots",
+    "shade": "Berry Extra",
+    "shade_matches_folder": false,
+    "colour_finish": "deep berry red glossy",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hand slides out a tray of glossy deep berry red almond press-on nails from its purple sleeve.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 9.5,
+        "usable": {
+          "min": 0.0,
+          "max": 9.5,
+          "sweet_spot": 3.5
+        },
+        "action_climax": {
+          "t": 3.5,
+          "action": "tray is fully slid out of the sleeve"
+        },
+        "creative_role": [
+          "reveal",
+          "hook"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "n/a",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "studio_white",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "bottom"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 2.5,
+            "desc": "plastic tray sliding out of sleeve"
+          }
+        ],
+        "visual_fingerprint": "hand sliding a white tray of 32 deep berry red almond nails out of a purple GLAMRDiP sleeve under bright sunlight",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 1,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "unboxing",
+          "berry extra",
+          "almond nails",
+          "press-on nails",
+          "slide out",
+          "product reveal",
+          "packaging"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

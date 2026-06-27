@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "path": "03_Removal/Tips & Tales/IMG_1986.MOV",
+    "category": "removal",
+    "shade": "Tips & Tales",
+    "duration": 12.1,
+    "tokens_in": 1837,
+    "tokens_out": 657,
+    "cost": 0.0087
+  },
+  "record": {
+    "clip_id": "IG-03-removal-tips-tales-img-1986",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Tips & Tales",
+    "shade_matches_folder": true,
+    "colour_finish": "nude glossy with white french tips",
+    "shape": "almond",
+    "method": "glue",
+    "has_speech": false,
+    "summary": "A hand with French tip press-on nails soaking in a bowl of warm water and oil for removal.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 12.1,
+        "usable": {
+          "min": 0.0,
+          "max": 12.1,
+          "sweet_spot": 1.5
+        },
+        "action_climax": {
+          "t": 2.0,
+          "action": "fingers submerging into the water and oil mixture"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "removal_soak",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_bright",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "left",
+          "bottom"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 2.0,
+            "desc": "soft water swirling and splashing sounds"
+          }
+        ],
+        "visual_fingerprint": "overhead shot of a hand with french tip nails soaking in a white bowl of water with oil droplets",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 6,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "removal soak",
+          "warm water oil removal",
+          "french tip nails",
+          "tips and tales",
+          "soft gel press ons",
+          "damage free removal"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

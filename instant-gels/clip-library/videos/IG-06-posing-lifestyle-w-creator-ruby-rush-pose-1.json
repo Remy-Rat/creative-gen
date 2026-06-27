@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "path": "06_Posing & Lifestyle/W Creator/Ruby Rush_Pose 1.MOV",
+    "category": "posing_lifestyle",
+    "shade": "W Creator",
+    "duration": 11.4,
+    "tokens_in": 1776,
+    "tokens_out": 626,
+    "cost": 0.0083
+  },
+  "record": {
+    "clip_id": "IG-06-posing-lifestyle-w-creator-ruby-rush-pose-1",
+    "product_line": "instant_gels",
+    "category": "posing_lifestyle",
+    "shade": "Ruby Rush",
+    "shade_matches_folder": false,
+    "colour_finish": "ruby red magnetic cat-eye",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hand with deep red cat-eye almond nails posing on blonde hair and a purple coat.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 11.4,
+        "usable": {
+          "min": 0.0,
+          "max": 8.0,
+          "sweet_spot": 3.0
+        },
+        "action_climax": {
+          "t": 3.0,
+          "action": "light catching the magnetic cat-eye shimmer on the nails"
+        },
+        "creative_role": [
+          "lifestyle",
+          "payoff"
+        ],
+        "creative_stage": "Lifestyle",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "handheld",
+        "motion_level": "slow",
+        "setting": "indoor",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand with dark red cat-eye nails resting on blonde hair over a purple coat with gold buttons",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "ruby rush",
+          "cat eye nails",
+          "magnetic nails",
+          "almond nails",
+          "blonde hair",
+          "purple coat",
+          "gold buttons",
+          "hand posing",
+          "shimmer effect"
+        ],
+        "confidence": 1.0,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

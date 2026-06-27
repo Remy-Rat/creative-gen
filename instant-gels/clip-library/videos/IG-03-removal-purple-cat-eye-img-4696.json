@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "path": "03_Removal/Purple Cat Eye/IMG_4696.MOV",
+    "category": "removal",
+    "shade": "Purple Cat Eye",
+    "duration": 3.5,
+    "tokens_in": 1309,
+    "tokens_out": 637,
+    "cost": 0.0077
+  },
+  "record": {
+    "clip_id": "IG-03-removal-purple-cat-eye-img-4696",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Purple Cat Eye",
+    "shade_matches_folder": true,
+    "colour_finish": "purple cat eye shimmer",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Dripping purple cuticle oil into a bowl of warm water to prepare for nail removal.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 3.5,
+        "usable": {
+          "min": 0.0,
+          "max": 3.5,
+          "sweet_spot": 1.5
+        },
+        "action_climax": {
+          "t": 1.5,
+          "action": "oil drops dripping into the water bowl"
+        },
+        "creative_role": [
+          "demo",
+          "transition"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "removal_soak",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "home",
+        "nail_position": "top_left",
+        "text_safe_zones": [
+          "bottom",
+          "right",
+          "center"
+        ],
+        "products_visible": [
+          "heal_oil"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 1.2,
+            "desc": "oil droplet hitting water surface"
+          }
+        ],
+        "visual_fingerprint": "purple bottle dripping oil into a white scalloped bowl of water",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 6,
+          "proof": 5,
+          "standalone": 5,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "removal soak",
+          "cuticle oil drip",
+          "purple cat eye",
+          "nail removal prep",
+          "asmr drip"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

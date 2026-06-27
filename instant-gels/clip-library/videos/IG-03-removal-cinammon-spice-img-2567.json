@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "path": "03_Removal/Cinammon Spice/IMG_2567.MOV",
+    "category": "removal",
+    "shade": "Cinammon Spice",
+    "duration": 4.9,
+    "tokens_in": 1376,
+    "tokens_out": 657,
+    "cost": 0.008
+  },
+  "record": {
+    "clip_id": "IG-03-removal-cinammon-spice-img-2567",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Cinnamon Spice",
+    "shade_matches_folder": true,
+    "colour_finish": "shimmering deep brown",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A metal cuticle tool slides under a Cinnamon Spice press-on nail, popping it off cleanly.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 4.9,
+        "usable": {
+          "min": 0.0,
+          "max": 4.9,
+          "sweet_spot": 2.5
+        },
+        "action_climax": {
+          "t": 3.2,
+          "action": "metal tool pops the press-on nail off the thumb"
+        },
+        "creative_role": [
+          "demo",
+          "transition"
+        ],
+        "creative_stage": "Transformation",
+        "process_step": "removal_lift",
+        "subject": "single_nail",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "indoor_daylight",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 3.2,
+            "desc": "click sound of the press-on nail popping off"
+          }
+        ],
+        "visual_fingerprint": "A hand with dark brown nails on a white background with a sharp diagonal shadow. A metal tool pops off the thumb nail.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 7,
+          "proof": 8,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "nail removal",
+          "how to remove press on nails",
+          "cinnamon spice",
+          "brown nails",
+          "almond nails",
+          "easy removal",
+          "pop off"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

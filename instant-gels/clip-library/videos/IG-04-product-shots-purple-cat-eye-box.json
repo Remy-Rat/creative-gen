@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "path": "04_Product Shots/Purple Cat Eye_Box.MOV",
+    "category": "product_shots",
+    "shade": "-",
+    "duration": 10.2,
+    "tokens_in": 1703,
+    "tokens_out": 616,
+    "cost": 0.0081
+  },
+  "record": {
+    "clip_id": "IG-04-product-shots-purple-cat-eye-box",
+    "product_line": "instant_gels",
+    "category": "product_shots",
+    "shade": "Purple Cat Eye",
+    "shade_matches_folder": false,
+    "colour_finish": "purple cat-eye shimmer",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hands holding a GLAMRDiP Instant Gels box in Purple Cat Eye, tilting to catch the light.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 10.2,
+        "usable": {
+          "min": 0.0,
+          "max": 10.2,
+          "sweet_spot": 3.0
+        },
+        "action_climax": {
+          "t": 5.0,
+          "action": "tilting box to show cat-eye shimmer"
+        },
+        "creative_role": [
+          "reveal",
+          "cta_support"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "n/a",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "indoor_sunlight",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "bottom"
+        ],
+        "products_visible": [
+          "kit_box",
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hands holding purple cat eye press-on nail box in direct sunlight",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 6,
+          "proof": 3,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "purple cat eye",
+          "product packaging",
+          "glamrdip box",
+          "shimmer nails"
+        ],
+        "confidence": 1.0,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

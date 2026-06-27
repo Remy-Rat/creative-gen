@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "path": "06_Posing & Lifestyle/Purple Cat Eye_8.MOV",
+    "category": "posing_lifestyle",
+    "shade": "-",
+    "duration": 5.5,
+    "tokens_in": 1438,
+    "tokens_out": 622,
+    "cost": 0.0078
+  },
+  "record": {
+    "clip_id": "IG-06-posing-lifestyle-purple-cat-eye-8",
+    "product_line": "instant_gels",
+    "category": "posing_lifestyle",
+    "shade": "Purple Cat Eye",
+    "shade_matches_folder": true,
+    "colour_finish": "purple cat eye shimmer",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of a hand with purple cat-eye almond nails posing against a wooden background.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 5.5,
+        "usable": {
+          "min": 0.0,
+          "max": 5.5,
+          "sweet_spot": 1.0,
+          "sweet_spot_end": 4.5
+        },
+        "action_climax": {
+          "t": 2.5,
+          "action": "subtle hand tilt showing off the cat-eye shimmer"
+        },
+        "creative_role": [
+          "lifestyle",
+          "payoff"
+        ],
+        "creative_stage": "Lifestyle",
+        "process_step": "n/a",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "wooden wall background",
+        "nail_position": "center_left",
+        "text_safe_zones": [
+          "right",
+          "bottom_right"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "purple cat-eye almond nails with a white blazer sleeve against a dark wood background",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "purple cat eye",
+          "almond nails",
+          "magnetic nails",
+          "shimmer purple",
+          "white blazer",
+          "hand posing",
+          "lifestyle nail shot"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

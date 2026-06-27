@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "path": "02_Application/Tips & Tales/IMG_1545.MOV",
+    "category": "application",
+    "shade": "Tips & Tales",
+    "duration": 22.6,
+    "tokens_in": 4188,
+    "tokens_out": 662,
+    "cost": 0.0122
+  },
+  "record": {
+    "clip_id": "IG-02-application-tips-tales-img-1545",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Tips & Tales",
+    "shade_matches_folder": true,
+    "colour_finish": "nude glossy with white minimalist cuticle line",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of pressing the cuticle edge of a Tips & Tales almond nail to show the seamless fit.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 22.6,
+        "usable": {
+          "min": 0.0,
+          "max": 22.6,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 3.0,
+          "action": "pressing down on the cuticle edge of the press-on nail to demonstrate the flush fit"
+        },
+        "creative_role": [
+          "demo",
+          "proof"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "press_hold",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_daylight",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom_left",
+          "top_right",
+          "bottom"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Close-up of a thumb with a nude almond nail with a white cuticle line, being pressed at the cuticle edge under bright sunlight.",
+        "claims_shown": [
+          "zero_edge"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 8,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "pressing cuticle",
+          "seamless fit",
+          "zero edge",
+          "tips and tales",
+          "almond shape",
+          "minimalist nail art",
+          "application demo"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "path": "04_Product Shots/Unboxing/Alcohol Wipe 1.MOV",
+    "category": "product_shots",
+    "shade": "Unboxing",
+    "duration": 10.1,
+    "tokens_in": 1705,
+    "tokens_out": 654,
+    "cost": 0.0084
+  },
+  "record": {
+    "clip_id": "IG-04-product-shots-unboxing-alcohol-wipe-1",
+    "product_line": "instant_gels",
+    "category": "product_shots",
+    "shade": "n/a",
+    "shade_matches_folder": false,
+    "colour_finish": "n/a",
+    "shape": "n/a",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of hands holding and showing a purple GLAMRDiP Prep Pad alcohol wipe packet.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 10.1,
+        "usable": {
+          "min": 0.0,
+          "max": 10.1,
+          "sweet_spot": 2.0,
+          "sweet_spot_end": 8.0
+        },
+        "action_climax": {
+          "t": 5.0,
+          "action": "showing the front of the prep pad packet clearly"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "prep_cleanse",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_daylight",
+        "nail_position": "none",
+        "text_safe_zones": [
+          "top",
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "prep_pad",
+          "kit_box",
+          "smooth_moves_file",
+          "cuticle_stick"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hands holding a purple prep pad packet over a clear plastic kit tray in bright sunlight",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 5,
+          "proof": 3,
+          "standalone": 5,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "prep pad",
+          "alcohol wipe",
+          "unboxing",
+          "prep step",
+          "glamrdip kit",
+          "accessories"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

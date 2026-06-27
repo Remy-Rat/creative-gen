@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "path": "03_Removal/Dancing in Stars/IMG_2970.MOV",
+    "category": "removal",
+    "shade": "Dancing in Stars",
+    "duration": 5.2,
+    "tokens_in": 1375,
+    "tokens_out": 635,
+    "cost": 0.0078
+  },
+  "record": {
+    "clip_id": "IG-03-removal-dancing-in-stars-img-2970",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "n/a",
+    "shade_matches_folder": false,
+    "colour_finish": "n/a",
+    "shape": "n/a",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Purple GLAMRDiP bottle pouring removal solution into a bowl of water, creating ripples and oily droplets.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 5.2,
+        "usable": {
+          "min": 0.0,
+          "max": 5.2,
+          "sweet_spot": 2.5
+        },
+        "action_climax": {
+          "t": 2.5,
+          "action": "pouring removal solution into water creating ripples"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "removal_soak",
+        "subject": "product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "studio",
+        "nail_position": "none",
+        "text_safe_zones": [
+          "bottom",
+          "left",
+          "right"
+        ],
+        "products_visible": [
+          "remove_solution"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 2.0,
+            "desc": "liquid dripping into water"
+          }
+        ],
+        "visual_fingerprint": "top-down view of a white bowl of water with a purple GLAMRDiP bottle pouring liquid into it",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 7,
+          "hook": 5,
+          "proof": 4,
+          "standalone": 5,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "removal solution",
+          "pouring liquid",
+          "water bowl",
+          "prep soak",
+          "how to remove press on nails",
+          "glamrdip removal"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "path": "05_Durability/Berry Extra_Drill.MOV",
+    "category": "durability",
+    "shade": "-",
+    "duration": 16.7,
+    "tokens_in": 3400,
+    "tokens_out": 1145,
+    "cost": 0.0154
+  },
+  "record": {
+    "clip_id": "IG-05-durability-berry-extra-drill",
+    "product_line": "instant_gels",
+    "category": "durability",
+    "shade": "Berry Extra",
+    "shade_matches_folder": false,
+    "colour_finish": "berry red glossy",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A power drill is used to test the scratch and chip resistance of glossy berry red almond nails.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 2.0,
+        "usable": {
+          "min": 0.0,
+          "max": 2.0,
+          "sweet_spot": 0.0
+        },
+        "action_climax": {
+          "t": 0.5,
+          "action": "Drill bit spinning in extreme close-up"
+        },
+        "creative_role": [
+          "hook"
+        ],
+        "creative_stage": "Hook",
+        "process_step": "n/a",
+        "subject": "product",
+        "framing": "extreme_close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "studio",
+        "nail_position": "none",
+        "text_safe_zones": [
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "drill",
+        "asmr_moments": [
+          {
+            "t": 0.1,
+            "desc": "Whirring sound of a spinning power drill"
+          }
+        ],
+        "visual_fingerprint": "Extreme close-up of a metal drill bit spinning against a white background",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 2,
+          "hook": 7,
+          "proof": 3,
+          "standalone": 4,
+          "edit_flexibility": 6
+        },
+        "search_tags": [
+          "drill bit",
+          "power tool",
+          "close up",
+          "spinning drill"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      },
+      {
+        "t_start": 3.0,
+        "t_end": 15.0,
+        "usable": {
+          "min": 3.0,
+          "max": 15.0,
+          "sweet_spot": 4.0
+        },
+        "action_climax": {
+          "t": 6.0,
+          "action": "Drill tip grinding directly against the glossy red nail surface"
+        },
+        "creative_role": [
+          "proof",
+          "demo"
+        ],
+        "creative_stage": "Proof",
+        "process_step": "n/a",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "studio",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "drill",
+        "asmr_moments": [
+          {
+            "t": 5.0,
+            "desc": "High-pitched whirring and grinding sound of the drill tip on the gel nail"
+          }
+        ],
+        "visual_fingerprint": "A power drill tip is pressed and ground against a glossy berry red almond nail, showing no damage",
+        "claims_shown": [
+          "chip_resistant"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 9,
+          "proof": 10,
+          "standalone": 9,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "berry extra",
+          "drill test",
+          "durability test",
+          "scratch test",
+          "chip resistant",
+          "almond nails",
+          "red nails",
+          "power tool"
+        ],
+        "confidence": 1.0,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

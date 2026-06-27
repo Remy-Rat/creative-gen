@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "path": "03_Removal/Berry Extra/IMG_5135.MOV",
+    "category": "removal",
+    "shade": "Berry Extra",
+    "duration": 10.4,
+    "tokens_in": 1703,
+    "tokens_out": 671,
+    "cost": 0.0086
+  },
+  "record": {
+    "clip_id": "IG-03-removal-berry-extra-img-5135",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Berry Extra",
+    "shade_matches_folder": true,
+    "colour_finish": "glossy berry red",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A metal cuticle tool pops off a glossy berry red press-on nail from a thumb.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 10.4,
+        "usable": {
+          "min": 0.0,
+          "max": 10.4,
+          "sweet_spot": 5.0
+        },
+        "action_climax": {
+          "t": 7.0,
+          "action": "metal tool pops the berry red press-on nail off the thumb"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "removal_lift",
+        "subject": "single_nail",
+        "framing": "extreme_close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "indoor_daylight",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 7.0,
+            "desc": "soft click sound as the press-on nail pops off"
+          }
+        ],
+        "visual_fingerprint": "Extreme close-up of a thumb with a glossy berry red nail being popped off by a metal tool under bright sunlight.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 8,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "removal",
+          "nail pop off",
+          "berry extra",
+          "glossy red",
+          "almond nails",
+          "cuticle pusher",
+          "easy removal"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

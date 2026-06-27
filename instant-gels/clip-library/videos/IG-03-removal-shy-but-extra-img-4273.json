@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "path": "03_Removal/Shy But Extra/IMG_4273.MOV",
+    "category": "removal",
+    "shade": "Shy But Extra",
+    "duration": 5.0,
+    "tokens_in": 1376,
+    "tokens_out": 657,
+    "cost": 0.008
+  },
+  "record": {
+    "clip_id": "IG-03-removal-shy-but-extra-img-4273",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Shy But Extra",
+    "shade_matches_folder": true,
+    "colour_finish": "pearl chrome",
+    "shape": "almond",
+    "method": "tabs",
+    "has_speech": false,
+    "summary": "A close-up showing a pearl chrome press-on nail being cleanly peeled off the thumb.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 5.0,
+        "usable": {
+          "min": 0.0,
+          "max": 5.0,
+          "sweet_spot": 1.5
+        },
+        "action_climax": {
+          "t": 2.0,
+          "action": "peeling off the thumb press-on nail cleanly"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "removal_lift",
+        "subject": "both_hands",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "indoor_bright",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 2.0,
+            "desc": "Visual peel of the press-on nail from the natural nail bed"
+          }
+        ],
+        "visual_fingerprint": "Hands over a white surface with a diagonal shadow on the left; right hand has pearl chrome almond nails with the index finger bare, and the left hand peels the thumb nail off.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 7,
+          "proof": 8,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "removal",
+          "peel off",
+          "easy removal",
+          "shy but extra",
+          "pearl chrome",
+          "almond nails",
+          "soft gel nails"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

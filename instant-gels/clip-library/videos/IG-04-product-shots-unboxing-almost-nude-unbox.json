@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "path": "04_Product Shots/Unboxing/Almost Nude_Unbox.MOV",
+    "category": "product_shots",
+    "shade": "Unboxing",
+    "duration": 9.5,
+    "tokens_in": 1707,
+    "tokens_out": 670,
+    "cost": 0.0086
+  },
+  "record": {
+    "clip_id": "IG-04-product-shots-unboxing-almost-nude-unbox",
+    "product_line": "instant_gels",
+    "category": "product_shots",
+    "shade": "Almost Nude",
+    "shade_matches_folder": true,
+    "colour_finish": "matte dusty pink nude",
+    "shape": "coffin",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hands holding open GLAMRDiP Instant Gels kit showing nails, glue, file, and cuticle stick.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 9.5,
+        "usable": {
+          "min": 0.0,
+          "max": 9.5,
+          "sweet_spot": 3.0
+        },
+        "action_climax": {
+          "t": 4.0,
+          "action": "holding the kit open under direct sunlight"
+        },
+        "creative_role": [
+          "reveal",
+          "cta_support"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "n/a",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "indoor_daylight",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "nailed_it_glue",
+          "smooth_moves_file",
+          "cuticle_stick",
+          "prep_pad",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hands holding open clear plastic tray showing purple file, glue, and dusty pink coffin nails under bright sunlight",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 6,
+          "proof": 3,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "unboxing",
+          "kit contents",
+          "almost nude",
+          "coffin nails",
+          "press on kit",
+          "glamrdip instant gels"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

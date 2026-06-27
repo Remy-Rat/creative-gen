@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "path": "03_Removal/Ruby Rush/IMG_1493.MOV",
+    "category": "removal",
+    "shade": "Ruby Rush",
+    "duration": 6.8,
+    "tokens_in": 1504,
+    "tokens_out": 613,
+    "cost": 0.0078
+  },
+  "record": {
+    "clip_id": "IG-03-removal-ruby-rush-img-1493",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Ruby Rush",
+    "shade_matches_folder": true,
+    "colour_finish": "deep ruby red glossy",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hand with deep ruby red almond nails holds GLAMRDiP Removal and Heal bottles over a white bowl.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 6.8,
+        "usable": {
+          "min": 0.0,
+          "max": 5.0,
+          "sweet_spot": 2.5
+        },
+        "action_climax": {
+          "t": 2.5,
+          "action": "holding bottles still showing off the dark red nails"
+        },
+        "creative_role": [
+          "cta_support"
+        ],
+        "creative_stage": "Transition",
+        "process_step": "n/a",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "indoor_white_background",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "remove_solution",
+          "heal_oil"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand with dark red nails holding purple removal bottle and pink heal oil bottle over a white scalloped bowl",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 5,
+          "proof": 3,
+          "standalone": 6,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "removal solution",
+          "heal oil",
+          "ruby rush",
+          "dark red nails",
+          "almond nails",
+          "glamrdip removal"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

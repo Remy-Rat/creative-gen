@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "path": "03_Removal/Ruby Rush/IMG_1497.MOV",
+    "category": "removal",
+    "shade": "Ruby Rush",
+    "duration": 6.9,
+    "tokens_in": 1504,
+    "tokens_out": 654,
+    "cost": 0.0081
+  },
+  "record": {
+    "clip_id": "IG-03-removal-ruby-rush-img-1497",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Ruby Rush",
+    "shade_matches_folder": true,
+    "colour_finish": "ruby red black gradient jelly",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A hand with Ruby Rush almond nails dipping and soaking in a white bowl of warm soapy water.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 6.9,
+        "usable": {
+          "min": 0.0,
+          "max": 6.9,
+          "sweet_spot": 1.5
+        },
+        "action_climax": {
+          "t": 2.0,
+          "action": "fingers dipping into the water and swirling"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "removal_soak",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_daylight",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 1.5,
+            "desc": "soft water splashing and swirling sounds"
+          }
+        ],
+        "visual_fingerprint": "A hand with deep red and black gradient almond nails dipping into a white bowl of water with bubbles.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 8,
+          "hook": 7,
+          "proof": 6,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "ruby rush",
+          "removal soak",
+          "warm water",
+          "soaking nails",
+          "almond nails",
+          "red black gradient",
+          "jelly nails",
+          "asmr water"
+        ],
+        "confidence": 1.0,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

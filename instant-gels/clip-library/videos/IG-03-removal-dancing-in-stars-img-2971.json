@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "path": "03_Removal/Dancing in Stars/IMG_2971.MOV",
+    "category": "removal",
+    "shade": "Dancing in Stars",
+    "duration": 4.5,
+    "tokens_in": 1309,
+    "tokens_out": 643,
+    "cost": 0.0078
+  },
+  "record": {
+    "clip_id": "IG-03-removal-dancing-in-stars-img-2971",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Dancing in Stars",
+    "shade_matches_folder": true,
+    "colour_finish": "shimmering soft pink",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hand drops HEAL cuticle oil into a bowl of water to prepare for a gentle removal soak.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 4.5,
+        "usable": {
+          "min": 0.0,
+          "max": 4.5,
+          "sweet_spot": 1.0
+        },
+        "action_climax": {
+          "t": 1.5,
+          "action": "oil droplet falling from the bottle into the water"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "removal_soak",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_bright",
+        "nail_position": "top_left",
+        "text_safe_zones": [
+          "bottom",
+          "right"
+        ],
+        "products_visible": [
+          "heal_oil"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 1.5,
+            "desc": "oil droplet dripping into water"
+          }
+        ],
+        "visual_fingerprint": "top-down view of a white bowl of water with oil droplets, purple HEAL bottle dripping oil",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 6,
+          "proof": 5,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "removal soak",
+          "cuticle oil",
+          "heal oil",
+          "oil in water",
+          "prep for removal",
+          "glamrdip removal",
+          "dancing in stars"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

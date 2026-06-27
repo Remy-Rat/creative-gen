@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "path": "03_Removal/Cinammon Spice/IMG_2575.MOV",
+    "category": "removal",
+    "shade": "Cinammon Spice",
+    "duration": 9.3,
+    "tokens_in": 1640,
+    "tokens_out": 600,
+    "cost": 0.0079
+  },
+  "record": {
+    "clip_id": "IG-03-removal-cinammon-spice-img-2575",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Cinnamon Spice",
+    "shade_matches_folder": true,
+    "colour_finish": "glossy cinnamon brown",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Demonstration of peeling off Cinnamon Spice press-on nails from the pinky and ring fingers.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 9.3,
+        "usable": {
+          "min": 0.0,
+          "max": 9.3,
+          "sweet_spot": 1.0
+        },
+        "action_climax": {
+          "t": 2.0,
+          "action": "peeling the dark brown press-on nail off the pinky finger"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "removal_lift",
+        "subject": "both_hands",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "indoor_bright",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "left",
+          "bottom"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hands in bright sunlight with harsh diagonal shadow, peeling off glossy dark brown almond nails",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 6,
+          "proof": 7,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "nail removal",
+          "peeling off press ons",
+          "cinnamon spice",
+          "brown almond nails",
+          "easy removal",
+          "no damage"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

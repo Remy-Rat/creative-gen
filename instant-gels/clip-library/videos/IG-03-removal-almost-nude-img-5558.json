@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "path": "03_Removal/Almost Nude/IMG_5558.MOV",
+    "category": "removal",
+    "shade": "Almost Nude",
+    "duration": 6.3,
+    "tokens_in": 1942,
+    "tokens_out": 658,
+    "cost": 0.0088
+  },
+  "record": {
+    "clip_id": "IG-03-removal-almost-nude-img-5558",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Almost Nude",
+    "shade_matches_folder": true,
+    "colour_finish": "sheer pinkish nude glossy",
+    "shape": "squoval",
+    "method": "tabs",
+    "has_speech": false,
+    "summary": "Peeling off an Almost Nude press-on nail from the index finger, showing clean, damage-free removal.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 6.3,
+        "usable": {
+          "min": 0.0,
+          "max": 6.3,
+          "sweet_spot": 2.5
+        },
+        "action_climax": {
+          "t": 3.0,
+          "action": "The press-on nail is completely peeled off the index finger"
+        },
+        "creative_role": [
+          "demo",
+          "proof"
+        ],
+        "creative_stage": "Proof",
+        "process_step": "removal_lift",
+        "subject": "both_hands",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "indoor_bright",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 3.0,
+            "desc": "Soft peel sound as the nail is lifted off"
+          }
+        ],
+        "visual_fingerprint": "Sunlight and shadow on a white background with a hand peeling off a sheer nude press-on nail",
+        "claims_shown": [
+          "reusable"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 8,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "removal",
+          "peel off",
+          "almost nude",
+          "squoval",
+          "easy removal",
+          "damage free"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

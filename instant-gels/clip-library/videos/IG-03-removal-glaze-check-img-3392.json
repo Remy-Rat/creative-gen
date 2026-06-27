@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "path": "03_Removal/Glaze Check/IMG_3392.MOV",
+    "category": "removal",
+    "shade": "Glaze Check",
+    "duration": 13.6,
+    "tokens_in": 1969,
+    "tokens_out": 610,
+    "cost": 0.0084
+  },
+  "record": {
+    "clip_id": "IG-03-removal-glaze-check-img-3392",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Glaze Check",
+    "shade_matches_folder": true,
+    "colour_finish": "pearl chrome pink",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of a hand showing a glazed pink almond nail next to a bare natural nail.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 13.6,
+        "usable": {
+          "min": 0.0,
+          "max": 13.6,
+          "sweet_spot": 3.0
+        },
+        "action_climax": {
+          "t": 3.0,
+          "action": "touching and presenting the glazed almond nail next to the bare natural nail"
+        },
+        "creative_role": [
+          "problem",
+          "lifestyle"
+        ],
+        "creative_stage": "Problem",
+        "process_step": "removal_cleanup",
+        "subject": "both_hands",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_bright",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand with glazed pink nails and one bare middle nail on a white background with a diagonal shadow",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 7,
+          "hook": 5,
+          "proof": 4,
+          "standalone": 5,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "glaze check",
+          "glazed nails",
+          "pearl chrome",
+          "natural nail comparison",
+          "removal residue",
+          "almond shape"
+        ],
+        "confidence": 0.8,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

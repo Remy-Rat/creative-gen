@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "path": "03_Removal/Ruby Rush/IMG_1488.MOV",
+    "category": "removal",
+    "shade": "Ruby Rush",
+    "duration": 4.7,
+    "tokens_in": 1372,
+    "tokens_out": 615,
+    "cost": 0.0076
+  },
+  "record": {
+    "clip_id": "IG-03-removal-ruby-rush-img-1488",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Ruby Rush",
+    "shade_matches_folder": true,
+    "colour_finish": "ruby red and black magnetic cat-eye",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hand with red magnetic nails places a white bowl of water on a table.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 4.7,
+        "usable": {
+          "min": 1.0,
+          "max": 4.7,
+          "sweet_spot": 1.5
+        },
+        "action_climax": {
+          "t": 1.5,
+          "action": "placing bowl of water on table"
+        },
+        "creative_role": [
+          "demo",
+          "transition"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "removal_soak",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "tabletop",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "top",
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Scalloped white bowl with water held by hand with red magnetic nails",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 6,
+          "proof": 4,
+          "standalone": 5,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "ruby rush",
+          "magnetic nails",
+          "cat eye nails",
+          "removal soak",
+          "warm water bowl",
+          "almond nails",
+          "red nails"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

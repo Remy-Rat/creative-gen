@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "path": "03_Removal/French Press/IMG_5911.MOV",
+    "category": "removal",
+    "shade": "French Press",
+    "duration": 3.3,
+    "tokens_in": 1240,
+    "tokens_out": 630,
+    "cost": 0.0075
+  },
+  "record": {
+    "clip_id": "IG-03-removal-french-press-img-5911",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "n/a",
+    "shade_matches_folder": false,
+    "colour_finish": "n/a",
+    "shape": "unknown",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Water droplets splash into a white bowl of clear water, creating ripples from a top-down perspective.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 3.3,
+        "usable": {
+          "min": 0.0,
+          "max": 3.3,
+          "sweet_spot": 1.0
+        },
+        "action_climax": {
+          "t": 1.0,
+          "action": "water droplets hit the surface creating ripples"
+        },
+        "creative_role": [
+          "transition",
+          "cta_support"
+        ],
+        "creative_stage": "Transition",
+        "process_step": "removal_soak",
+        "subject": "product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "white_background",
+        "nail_position": "none",
+        "text_safe_zones": [
+          "bottom",
+          "left",
+          "right"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 1.0,
+            "desc": "water droplets splashing into bowl"
+          }
+        ],
+        "visual_fingerprint": "top-down view of water dripping into a white ceramic bowl on a white surface with a shadow",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 1,
+          "hook": 5,
+          "proof": 1,
+          "standalone": 3,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "water dripping",
+          "ripples",
+          "bowl of water",
+          "removal soak prep",
+          "asmr water",
+          "top down water"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

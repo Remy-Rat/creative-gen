@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "path": "05_Durability/Ruby Rush_Scratch 2.MOV",
+    "category": "durability",
+    "shade": "-",
+    "duration": 11.1,
+    "tokens_in": 2601,
+    "tokens_out": 716,
+    "cost": 0.0103
+  },
+  "record": {
+    "clip_id": "IG-05-durability-ruby-rush-scratch-2",
+    "product_line": "instant_gels",
+    "category": "durability",
+    "shade": "Ruby Rush",
+    "shade_matches_folder": true,
+    "colour_finish": "ruby red metallic chrome ombre",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hand scratches a weathered wooden railing to test durability, revealing flawless metallic red chrome ombre nails.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 11.1,
+        "usable": {
+          "min": 0.0,
+          "max": 11.1,
+          "sweet_spot": 4.5,
+          "sweet_spot_end": 7.5
+        },
+        "action_climax": {
+          "t": 5.5,
+          "action": "revealing flawless metallic red chrome nails after scratching wood"
+        },
+        "creative_role": [
+          "proof",
+          "lifestyle"
+        ],
+        "creative_stage": "Proof",
+        "process_step": "n/a",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "handheld",
+        "motion_level": "moderate",
+        "setting": "outdoor garden with tulips",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "other",
+        "asmr_moments": [
+          {
+            "t": 1.5,
+            "desc": "scratching rough wood with nails"
+          },
+          {
+            "t": 8.0,
+            "desc": "scratching rough wood with nails"
+          }
+        ],
+        "visual_fingerprint": "hand with gold ring scratching weathered grey wood railing with red tulips in background",
+        "claims_shown": [
+          "chip_resistant"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 9,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "scratch test",
+          "durability test",
+          "ruby rush",
+          "metallic red",
+          "chrome nails",
+          "almond nails",
+          "wood scratch",
+          "outdoor reveal"
+        ],
+        "confidence": 1.0,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

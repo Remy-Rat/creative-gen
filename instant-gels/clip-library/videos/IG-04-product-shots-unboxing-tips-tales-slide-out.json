@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "path": "04_Product Shots/Unboxing/Tips & Tales_Slide out.MOV",
+    "category": "product_shots",
+    "shade": "Unboxing",
+    "duration": 14.8,
+    "tokens_in": 2040,
+    "tokens_out": 686,
+    "cost": 0.0092
+  },
+  "record": {
+    "clip_id": "IG-04-product-shots-unboxing-tips-tales-slide-out",
+    "product_line": "instant_gels",
+    "category": "product_shots",
+    "shade": "Tips & Tales",
+    "shade_matches_folder": false,
+    "colour_finish": "nude base with white French tip glossy",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A hand slides a tray of Tips & Tales French tip press-on nails out of its purple packaging.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 14.8,
+        "usable": {
+          "min": 0.0,
+          "max": 10.0,
+          "sweet_spot": 6.5
+        },
+        "action_climax": {
+          "t": 6.5,
+          "action": "tray is fully slid out of the purple sleeve revealing the full set of nails"
+        },
+        "creative_role": [
+          "reveal"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "n/a",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "studio_white",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "left",
+          "top"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 5.0,
+            "desc": "plastic tray sliding out of cardboard sleeve"
+          }
+        ],
+        "visual_fingerprint": "hand sliding a clear plastic tray of French tip press-on nails out of a purple cardboard sleeve under bright sunlight",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 10,
+          "hook": 7,
+          "proof": 1,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "unboxing",
+          "reveal",
+          "slide out",
+          "french tip",
+          "tips and tales",
+          "almond shape",
+          "product shot",
+          "packaging",
+          "aesthetic"
+        ],
+        "confidence": 1.0,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

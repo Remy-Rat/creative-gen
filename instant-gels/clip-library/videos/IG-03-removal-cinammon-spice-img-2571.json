@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "path": "03_Removal/Cinammon Spice/IMG_2571.MOV",
+    "category": "removal",
+    "shade": "Cinammon Spice",
+    "duration": 4.5,
+    "tokens_in": 1376,
+    "tokens_out": 641,
+    "cost": 0.0078
+  },
+  "record": {
+    "clip_id": "IG-03-removal-cinammon-spice-img-2571",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Cinammon Spice",
+    "shade_matches_folder": true,
+    "colour_finish": "dark brown glossy and bronze glitter",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A dark brown press-on nail is peeled off the ring finger, demonstrating easy removal.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 4.5,
+        "usable": {
+          "min": 0.0,
+          "max": 4.5,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 2.0,
+          "action": "The press-on nail pops off completely, revealing the natural nail underneath"
+        },
+        "creative_role": [
+          "demo",
+          "transition"
+        ],
+        "creative_stage": "Transformation",
+        "process_step": "removal_lift",
+        "subject": "both_hands",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "studio_white_background",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Two hands over a white surface with a diagonal shadow; left hand peels a dark brown almond nail off the right ring finger.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 7,
+          "proof": 7,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "nail removal",
+          "peeling off press on nails",
+          "how to remove press on nails",
+          "cinnamon spice",
+          "almond nails",
+          "brown nails",
+          "soft gel nails"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

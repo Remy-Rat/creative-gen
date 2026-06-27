@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "path": "03_Removal/Dancing in Stars/IMG_2983.MOV",
+    "category": "removal",
+    "shade": "Dancing in Stars",
+    "duration": 6.8,
+    "tokens_in": 1507,
+    "tokens_out": 602,
+    "cost": 0.0077
+  },
+  "record": {
+    "clip_id": "IG-03-removal-dancing-in-stars-img-2983",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Dancing in Stars",
+    "shade_matches_folder": true,
+    "colour_finish": "sheer pink with fine silver shimmer",
+    "shape": "almond",
+    "method": "tabs",
+    "has_speech": false,
+    "summary": "Close-up of peeling off a sheer glittery press-on nail from the thumb.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 6.8,
+        "usable": {
+          "min": 0.0,
+          "max": 6.8,
+          "sweet_spot": 1.0
+        },
+        "action_climax": {
+          "t": 5.0,
+          "action": "nail pops off completely"
+        },
+        "creative_role": [
+          "demo",
+          "proof"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "removal_lift",
+        "subject": "both_hands",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white surface with harsh sunlight shadow",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Hands in bright sunlight peeling a sheer glittery press-on nail off the thumb.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 6,
+          "proof": 7,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "nail removal",
+          "peeling off press on",
+          "dancing in stars",
+          "sheer glitter nails",
+          "easy removal"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "path": "05_Durability/Tips & Tales_Can.MOV",
+    "category": "durability",
+    "shade": "-",
+    "duration": 13.0,
+    "tokens_in": 2862,
+    "tokens_out": 667,
+    "cost": 0.0103
+  },
+  "record": {
+    "clip_id": "IG-05-durability-tips-tales-can",
+    "product_line": "instant_gels",
+    "category": "durability",
+    "shade": "Tips & Tales",
+    "shade_matches_folder": true,
+    "colour_finish": "nude glossy with white abstract french tips",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hand with abstract French almond nails opens a metal pull-tab can to demonstrate nail strength.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 13.0,
+        "usable": {
+          "min": 0.0,
+          "max": 13.0,
+          "sweet_spot": 0.0
+        },
+        "action_climax": {
+          "t": 6.5,
+          "action": "pulling the metal tab to open the can"
+        },
+        "creative_role": [
+          "proof"
+        ],
+        "creative_stage": "Proof",
+        "process_step": "n/a",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "handheld",
+        "motion_level": "moderate",
+        "setting": "indoor",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "other",
+        "asmr_moments": [
+          {
+            "t": 5.5,
+            "desc": "metal tab popping and can opening click"
+          }
+        ],
+        "visual_fingerprint": "Close-up of hand with abstract French almond nails opening a yellow canned food tin on a wooden surface.",
+        "claims_shown": [
+          "chip_resistant"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 9,
+          "standalone": 8,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "can opening",
+          "nail strength test",
+          "durability proof",
+          "french tip almond",
+          "tips and tales",
+          "tough nails",
+          "no chipping"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

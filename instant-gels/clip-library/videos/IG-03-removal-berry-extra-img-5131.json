@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "path": "03_Removal/Berry Extra/IMG_5131.MOV",
+    "category": "removal",
+    "shade": "Berry Extra",
+    "duration": 8.5,
+    "tokens_in": 1636,
+    "tokens_out": 615,
+    "cost": 0.008
+  },
+  "record": {
+    "clip_id": "IG-03-removal-berry-extra-img-5131",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Berry Extra",
+    "shade_matches_folder": true,
+    "colour_finish": "berry red glossy",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hand with glossy berry red nails holds GLAMRDiP REMOVE and HEAL bottles in bright sunlight.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 8.5,
+        "usable": {
+          "min": 0.0,
+          "max": 7.0,
+          "sweet_spot": 3.0
+        },
+        "action_climax": {
+          "t": 7.0,
+          "action": "hand removes the HEAL bottle from the frame"
+        },
+        "creative_role": [
+          "cta_support"
+        ],
+        "creative_stage": "Benefit",
+        "process_step": "n/a",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "indoor_bright",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "bottom_left"
+        ],
+        "products_visible": [
+          "remove_solution",
+          "heal_oil"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Hand with deep berry red nails holding purple REMOVE and HEAL bottles over a white bowl in bright sunlight.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 4,
+          "proof": 3,
+          "standalone": 5,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "berry extra",
+          "removal solution",
+          "heal oil",
+          "cuticle oil",
+          "purple bottles",
+          "hand holding products",
+          "almond nails",
+          "red nails"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

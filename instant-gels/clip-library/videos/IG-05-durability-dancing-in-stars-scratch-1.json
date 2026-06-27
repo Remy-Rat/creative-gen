@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "path": "05_Durability/Dancing in Stars_Scratch 1.MOV",
+    "category": "durability",
+    "shade": "-",
+    "duration": 3.8,
+    "tokens_in": 1679,
+    "tokens_out": 661,
+    "cost": 0.0085
+  },
+  "record": {
+    "clip_id": "IG-05-durability-dancing-in-stars-scratch-1",
+    "product_line": "instant_gels",
+    "category": "durability",
+    "shade": "Dancing in Stars",
+    "shade_matches_folder": false,
+    "colour_finish": "shimmery soft pink",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hand running and scratching almond-shaped shimmery pink nails against rough wooden fence slats to test durability.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 3.8,
+        "usable": {
+          "min": 0.0,
+          "max": 3.8,
+          "sweet_spot": 1.0
+        },
+        "action_climax": {
+          "t": 1.5,
+          "action": "nails scratching firmly against the rough wood grain"
+        },
+        "creative_role": [
+          "proof",
+          "hook"
+        ],
+        "creative_stage": "Proof",
+        "process_step": "n/a",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "tracking",
+        "motion_level": "moderate",
+        "setting": "outdoor",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left",
+          "top_left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "other",
+        "asmr_moments": [
+          {
+            "t": 0.5,
+            "desc": "nails scratching against rough wooden slats"
+          }
+        ],
+        "visual_fingerprint": "hand with light pink shimmery almond nails scratching dark brown wooden fence slats",
+        "claims_shown": [
+          "chip_resistant"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 8,
+          "proof": 9,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "scratch test",
+          "durability test",
+          "wood scratch",
+          "dancing in stars",
+          "almond nails",
+          "pink shimmer nails",
+          "nail strength"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

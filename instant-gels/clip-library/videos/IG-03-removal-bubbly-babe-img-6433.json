@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "path": "03_Removal/Bubbly Babe/IMG_6433.MOV",
+    "category": "removal",
+    "shade": "Bubbly Babe",
+    "duration": 4.3,
+    "tokens_in": 1311,
+    "tokens_out": 646,
+    "cost": 0.0078
+  },
+  "record": {
+    "clip_id": "IG-03-removal-bubbly-babe-img-6433",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Bubbly Babe",
+    "shade_matches_folder": true,
+    "colour_finish": "sheer pink glossy",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A hand places a white ceramic bowl of water on a white surface, preparing for removal soak.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 4.3,
+        "usable": {
+          "min": 0.0,
+          "max": 4.3,
+          "sweet_spot": 0.5,
+          "sweet_spot_end": 3.0
+        },
+        "action_climax": {
+          "t": 1.5,
+          "action": "placing the bowl of water on the table"
+        },
+        "creative_role": [
+          "demo",
+          "transition"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "removal_soak",
+        "subject": "hand_and_product",
+        "framing": "medium",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_bright",
+        "nail_position": "top",
+        "text_safe_zones": [
+          "bottom",
+          "center",
+          "right"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 1.5,
+            "desc": "soft clink of ceramic bowl placing on surface"
+          }
+        ],
+        "visual_fingerprint": "ceramic bowl of water placed on white surface under bright sunlight casting a shadow",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 7,
+          "product_visibility": 3,
+          "hook": 4,
+          "proof": 3,
+          "standalone": 4,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "removal soak",
+          "bowl of water",
+          "removing press on nails",
+          "bubbly babe",
+          "soaking nails"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

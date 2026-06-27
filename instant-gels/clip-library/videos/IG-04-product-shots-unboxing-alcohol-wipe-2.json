@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "path": "04_Product Shots/Unboxing/Alcohol Wipe 2.MOV",
+    "category": "product_shots",
+    "shade": "Unboxing",
+    "duration": 3.9,
+    "tokens_in": 1308,
+    "tokens_out": 687,
+    "cost": 0.0081
+  },
+  "record": {
+    "clip_id": "IG-04-product-shots-unboxing-alcohol-wipe-2",
+    "product_line": "instant_gels",
+    "category": "product_shots",
+    "shade": "nude",
+    "shade_matches_folder": false,
+    "colour_finish": "nude glossy",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of hands tearing open a purple GLAMRDiP prep pad packet with a nude nail kit in the background.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 3.9,
+        "usable": {
+          "min": 0.0,
+          "max": 3.9,
+          "sweet_spot": 0.5
+        },
+        "action_climax": {
+          "t": 1.0,
+          "action": "tearing open the prep pad packet"
+        },
+        "creative_role": [
+          "demo",
+          "cta_support"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "prep_cleanse",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "studio",
+        "nail_position": "bottom_left",
+        "text_safe_zones": [
+          "top",
+          "bottom_right"
+        ],
+        "products_visible": [
+          "prep_pad",
+          "press_on_set",
+          "cuticle_stick",
+          "smooth_moves_file"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 0.8,
+            "desc": "tearing paper sound of the prep pad packet"
+          }
+        ],
+        "visual_fingerprint": "hands tearing open a purple GLAMRDiP prep pad packet next to a nude almond press-on nail tray",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 6,
+          "proof": 4,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "prep pad",
+          "tearing packet",
+          "nail prep",
+          "alcohol wipe",
+          "unboxing",
+          "nude nails",
+          "almond nails",
+          "prep cleanse"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

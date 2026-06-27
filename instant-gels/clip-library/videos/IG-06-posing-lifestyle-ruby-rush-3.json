@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "path": "06_Posing & Lifestyle/Ruby Rush_3.MOV",
+    "category": "posing_lifestyle",
+    "shade": "-",
+    "duration": 2.8,
+    "tokens_in": 1237,
+    "tokens_out": 603,
+    "cost": 0.0073
+  },
+  "record": {
+    "clip_id": "IG-06-posing-lifestyle-ruby-rush-3",
+    "product_line": "instant_gels",
+    "category": "posing_lifestyle",
+    "shade": "Ruby Rush",
+    "shade_matches_folder": false,
+    "colour_finish": "ruby red chrome",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of a hand wearing Ruby Rush almond nails, posing against a brick background.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 2.8,
+        "usable": {
+          "min": 0.0,
+          "max": 2.8,
+          "sweet_spot": 1.0
+        },
+        "action_climax": {
+          "t": 1.0,
+          "action": "hand tilting slightly to catch the light on the red chrome finish"
+        },
+        "creative_role": [
+          "reveal",
+          "lifestyle"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "outdoor brick pavement background with white knit sweater cuff",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "left",
+          "bottom"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "deep metallic red chrome almond nails with a white knit sweater cuff against grey brick pavement",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 1,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "ruby rush",
+          "red chrome nails",
+          "almond press ons",
+          "metallic red nails",
+          "sweater weather aesthetic",
+          "fall manicure"
+        ],
+        "confidence": 1.0,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

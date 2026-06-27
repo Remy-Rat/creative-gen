@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "path": "06_Posing & Lifestyle/W Product/Bubbly Babe_ 1.MOV",
+    "category": "posing_lifestyle",
+    "shade": "W Product",
+    "duration": 4.4,
+    "tokens_in": 1315,
+    "tokens_out": 646,
+    "cost": 0.0078
+  },
+  "record": {
+    "clip_id": "IG-06-posing-lifestyle-w-product-bubbly-babe-1",
+    "product_line": "instant_gels",
+    "category": "posing_lifestyle",
+    "shade": "Bubbly Babe",
+    "shade_matches_folder": true,
+    "colour_finish": "sheer pearlescent nude",
+    "shape": "squoval",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A close-up of a hand with a shimmering nude manicure holding a Bubbly Babe Instant Gels box.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 4.4,
+        "usable": {
+          "min": 0.0,
+          "max": 4.4,
+          "sweet_spot": 1.5
+        },
+        "action_climax": {
+          "t": 2.0,
+          "action": "hand holding the product box under bright lighting showing off the shimmer"
+        },
+        "creative_role": [
+          "lifestyle",
+          "payoff"
+        ],
+        "creative_stage": "Lifestyle",
+        "process_step": "n/a",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "indoor_bright_sunlight",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "A hand wearing a diamond eternity ring and shimmering nude nails holds a purple-trimmed GLAMRDiP Instant Gels box.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 6,
+          "proof": 5,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "Bubbly Babe",
+          "shimmer nude nails",
+          "squoval nails",
+          "product packaging",
+          "hand model",
+          "diamond ring",
+          "aesthetic b-roll"
+        ],
+        "confidence": 1.0,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

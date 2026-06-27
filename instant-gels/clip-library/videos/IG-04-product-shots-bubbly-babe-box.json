@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "path": "04_Product Shots/Bubbly Babe_Box.MOV",
+    "category": "product_shots",
+    "shade": "-",
+    "duration": 2.9,
+    "tokens_in": 1242,
+    "tokens_out": 615,
+    "cost": 0.0074
+  },
+  "record": {
+    "clip_id": "IG-04-product-shots-bubbly-babe-box",
+    "product_line": "instant_gels",
+    "category": "product_shots",
+    "shade": "Bubbly Babe",
+    "shade_matches_folder": true,
+    "colour_finish": "nude glossy",
+    "shape": "squoval",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hand holding GLAMRDiP Instant Gels box in Bubbly Babe shade under direct sunlight.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 2.9,
+        "usable": {
+          "min": 0.0,
+          "max": 2.9,
+          "sweet_spot": 0.5
+        },
+        "action_climax": {
+          "t": 1.0,
+          "action": "Static display of product packaging under bright sunlight"
+        },
+        "creative_role": [
+          "reveal",
+          "hook"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "n/a",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "indoor sunlight",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "bottom"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Hand holding purple-bordered box with nude press-on nails under sharp shadow.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 6,
+          "proof": 1,
+          "standalone": 5,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "product packaging",
+          "bubbly babe",
+          "nude nails",
+          "instant gels",
+          "press-on box"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

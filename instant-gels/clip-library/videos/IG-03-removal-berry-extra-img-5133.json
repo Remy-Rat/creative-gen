@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "path": "03_Removal/Berry Extra/IMG_5133.MOV",
+    "category": "removal",
+    "shade": "Berry Extra",
+    "duration": 8.5,
+    "tokens_in": 1636,
+    "tokens_out": 646,
+    "cost": 0.0083
+  },
+  "record": {
+    "clip_id": "IG-03-removal-berry-extra-img-5133",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "n/a",
+    "shade_matches_folder": false,
+    "colour_finish": "n/a",
+    "shape": "n/a",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Top-down close-up of a white striped mug filled with warm water and oil as a drop is added.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 8.5,
+        "usable": {
+          "min": 0.0,
+          "max": 8.5,
+          "sweet_spot": 3.5,
+          "duration": 8.5
+        },
+        "action_climax": {
+          "t": 5.0,
+          "action": "liquid drop falls into the mug creating ripples among the oil bubbles"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "removal_soak",
+        "subject": "product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white_background",
+        "nail_position": "none",
+        "text_safe_zones": [
+          "bottom",
+          "left",
+          "right"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 5.0,
+            "desc": "soft droplet splash sound in water"
+          }
+        ],
+        "visual_fingerprint": "top-down view of a white striped ceramic mug filled with water and floating oil droplets on a white surface",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 2,
+          "hook": 5,
+          "proof": 3,
+          "standalone": 4,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "removal soak",
+          "warm soapy water",
+          "oil droplets",
+          "nail removal prep",
+          "remover solution",
+          "asmr drip"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

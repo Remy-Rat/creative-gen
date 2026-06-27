@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "path": "03_Removal/Glaze Check/IMG_3387.MOV",
+    "category": "removal",
+    "shade": "Glaze Check",
+    "duration": 12.7,
+    "tokens_in": 1903,
+    "tokens_out": 625,
+    "cost": 0.0085
+  },
+  "record": {
+    "clip_id": "IG-03-removal-glaze-check-img-3387",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Glaze Check",
+    "shade_matches_folder": true,
+    "colour_finish": "glossy sheer pink",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A hand with glossy pink almond nails soaking in a white mug of warm water for removal.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 12.7,
+        "usable": {
+          "min": 0.0,
+          "max": 12.7,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 2.0,
+          "action": "submerging fingers into the water"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "removal_soak",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "indoor_bright",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom",
+          "right"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "water",
+        "asmr_moments": [
+          {
+            "t": 2.0,
+            "desc": "soft water splashing and swirling sounds as fingers submerge"
+          }
+        ],
+        "visual_fingerprint": "hand with pink almond nails dipping into a white mug of water under bright sunlight",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 6,
+          "proof": 5,
+          "standalone": 6,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "removal soak",
+          "warm water removal",
+          "glaze check",
+          "almond nails",
+          "soaking nails",
+          "nail care routine"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

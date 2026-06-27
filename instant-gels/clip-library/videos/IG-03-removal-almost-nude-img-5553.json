@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "path": "03_Removal/Almost Nude/IMG_5553.MOV",
+    "category": "removal",
+    "shade": "Almost Nude",
+    "duration": 6.8,
+    "tokens_in": 1506,
+    "tokens_out": 652,
+    "cost": 0.0081
+  },
+  "record": {
+    "clip_id": "IG-03-removal-almost-nude-img-5553",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "n/a",
+    "shade_matches_folder": false,
+    "colour_finish": "n/a",
+    "shape": "n/a",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up overhead shot of a drop of liquid falling into a white bowl of water and oil, creating ripples.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 6.8,
+        "usable": {
+          "min": 0.0,
+          "max": 6.8,
+          "sweet_spot": 2.5,
+          "duration": 4.3
+        },
+        "action_climax": {
+          "t": 3.5,
+          "action": "liquid droplet falls into the bowl creating concentric ripples"
+        },
+        "creative_role": [
+          "transition",
+          "cta_support"
+        ],
+        "creative_stage": "Transition",
+        "process_step": "removal_soak",
+        "subject": "product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "minimalist white background with harsh shadow",
+        "nail_position": "none",
+        "text_safe_zones": [
+          "bottom",
+          "left",
+          "right"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 3.5,
+            "desc": "soft water droplet splash and ripple sound"
+          }
+        ],
+        "visual_fingerprint": "overhead view of a scalloped white ceramic bowl filled with water and oil droplets under direct sunlight",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 2,
+          "hook": 6,
+          "proof": 2,
+          "standalone": 4,
+          "edit_flexibility": 9
+        },
+        "search_tags": [
+          "removal soak",
+          "water ripples",
+          "oil and water",
+          "nail removal prep",
+          "aesthetic transition",
+          "asmr splash"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

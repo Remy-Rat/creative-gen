@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "path": "06_Posing & Lifestyle/Purple Cat Eye_1.MOV",
+    "category": "posing_lifestyle",
+    "shade": "-",
+    "duration": 6.5,
+    "tokens_in": 1504,
+    "tokens_out": 644,
+    "cost": 0.0081
+  },
+  "record": {
+    "clip_id": "IG-06-posing-lifestyle-purple-cat-eye-1",
+    "product_line": "instant_gels",
+    "category": "posing_lifestyle",
+    "shade": "Purple Cat Eye",
+    "shade_matches_folder": false,
+    "colour_finish": "purple magnetic cat eye glitter",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A single hand with purple cat-eye almond nails poses in bright sunlight casting a sharp shadow.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 6.5,
+        "usable": {
+          "min": 0.8,
+          "max": 6.5,
+          "sweet_spot": 1.0,
+          "sweet_spot_end": 5.0
+        },
+        "action_climax": {
+          "t": 1.2,
+          "action": "hand settles into sunlight revealing cat-eye shimmer"
+        },
+        "creative_role": [
+          "lifestyle",
+          "reveal"
+        ],
+        "creative_stage": "Lifestyle",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_sunlight",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "purple cat eye almond nails on hand with white sleeve and diamond ring in bright sunlight",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 3,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "purple cat eye",
+          "magnetic nails",
+          "almond nails",
+          "sunlight shadow",
+          "sparkle",
+          "glitter nails",
+          "aesthetic hand pose",
+          "white sleeve",
+          "diamond ring"
+        ],
+        "confidence": 1.0,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

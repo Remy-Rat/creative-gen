@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "path": "05_Durability/Glaze Check_Scratch 1.MOV",
+    "category": "durability",
+    "shade": "-",
+    "duration": 5.5,
+    "tokens_in": 1942,
+    "tokens_out": 643,
+    "cost": 0.0087
+  },
+  "record": {
+    "clip_id": "IG-05-durability-glaze-check-scratch-1",
+    "product_line": "instant_gels",
+    "category": "durability",
+    "shade": "glazed pink chrome",
+    "shade_matches_folder": false,
+    "colour_finish": "glazed pink chrome",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hand scratches dark wood with glazed pink almond nails, then reveals them completely undamaged and shiny.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 5.5,
+        "usable": {
+          "min": 0.0,
+          "max": 5.5,
+          "sweet_spot": 3.0
+        },
+        "action_climax": {
+          "t": 3.5,
+          "action": "hand turns to reveal flawless glazed pink nails after scratching wood"
+        },
+        "creative_role": [
+          "proof"
+        ],
+        "creative_stage": "Proof",
+        "process_step": "n/a",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "handheld",
+        "motion_level": "moderate",
+        "setting": "outdoor",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "other",
+        "asmr_moments": [
+          {
+            "t": 0.5,
+            "desc": "nails scratching against rough dark wood"
+          }
+        ],
+        "visual_fingerprint": "glazed pink chrome almond nails scratching dark wooden fence slats outdoors",
+        "claims_shown": [
+          "chip_resistant"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 9,
+          "standalone": 8,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "scratch test",
+          "durability test",
+          "glazed pink",
+          "chrome nails",
+          "almond nails",
+          "wood scratch",
+          "chip resistant proof"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

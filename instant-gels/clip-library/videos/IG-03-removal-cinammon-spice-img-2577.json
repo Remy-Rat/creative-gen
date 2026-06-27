@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "path": "03_Removal/Cinammon Spice/IMG_2577.MOV",
+    "category": "removal",
+    "shade": "Cinammon Spice",
+    "duration": 3.1,
+    "tokens_in": 1244,
+    "tokens_out": 605,
+    "cost": 0.0073
+  },
+  "record": {
+    "clip_id": "IG-03-removal-cinammon-spice-img-2577",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "n/a",
+    "shade_matches_folder": false,
+    "colour_finish": "natural nails with oil",
+    "shape": "round",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of natural nails with cuticle oil post-removal, showing healthy nail beds under bright sunlight.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 3.1,
+        "usable": {
+          "min": 0.0,
+          "max": 3.1,
+          "sweet_spot": 0.5
+        },
+        "action_climax": {
+          "t": 1.5,
+          "action": "hand holding still under bright sunlight"
+        },
+        "creative_role": [
+          "proof"
+        ],
+        "creative_stage": "Transformation",
+        "process_step": "removal_cleanup",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "indoor_daylight",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left",
+          "top_left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "shiny natural nails with cuticle oil and strong shadow on white surface",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 1,
+          "hook": 4,
+          "proof": 7,
+          "standalone": 4,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "natural nails",
+          "post removal",
+          "healthy nails",
+          "cuticle oil",
+          "nail care",
+          "sunlight shadow"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

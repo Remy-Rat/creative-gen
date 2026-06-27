@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "path": "03_Removal/Almost Nude/IMG_5567.MOV",
+    "category": "removal",
+    "shade": "Almost Nude",
+    "duration": 4.3,
+    "tokens_in": 1308,
+    "tokens_out": 643,
+    "cost": 0.0077
+  },
+  "record": {
+    "clip_id": "IG-03-removal-almost-nude-img-5567",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Almost Nude",
+    "shade_matches_folder": true,
+    "colour_finish": "sheer glossy nude",
+    "shape": "round",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of a hand showing healthy, glossy natural-looking nails under bright sunlight with sharp shadows.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 4.3,
+        "usable": {
+          "min": 0.0,
+          "max": 4.3,
+          "sweet_spot": 1.5,
+          "sweet_spot_end": 4.0
+        },
+        "action_climax": {
+          "t": 2.5,
+          "action": "hand turns to reveal four healthy-looking glossy nails"
+        },
+        "creative_role": [
+          "proof",
+          "payoff"
+        ],
+        "creative_stage": "Proof",
+        "process_step": "removal_cleanup",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_daylight",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand with glossy nails in bright sunlight casting a sharp shadow on a white surface",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 6,
+          "hook": 6,
+          "proof": 8,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "healthy nails",
+          "post removal",
+          "natural nails",
+          "cuticle oil",
+          "almost nude",
+          "sunlight shadow",
+          "bare nails",
+          "aesthetic hands"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

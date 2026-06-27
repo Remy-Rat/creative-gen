@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "path": "03_Removal/French Press/IMG_5909.MOV",
+    "category": "removal",
+    "shade": "French Press",
+    "duration": 3.6,
+    "tokens_in": 1306,
+    "tokens_out": 666,
+    "cost": 0.008
+  },
+  "record": {
+    "clip_id": "IG-03-removal-french-press-img-5909",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "French Press",
+    "shade_matches_folder": true,
+    "colour_finish": "classic french tip glossy",
+    "shape": "squoval",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A hand with French Press nails places a bowl of water and dips a finger to soak.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 3.6,
+        "usable": {
+          "min": 0.8,
+          "max": 3.6,
+          "sweet_spot": 1.5
+        },
+        "action_climax": {
+          "t": 2.0,
+          "action": "dipping finger into the water bowl"
+        },
+        "creative_role": [
+          "demo",
+          "transition"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "removal_soak",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "white tabletop with a ceramic bowl",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 1.2,
+            "desc": "ceramic bowl placing on table sound"
+          },
+          {
+            "t": 2.1,
+            "desc": "finger dipping into water splash sound"
+          }
+        ],
+        "visual_fingerprint": "White ceramic bowl with floral pattern on the side, filled with water, placed on a white surface under bright sunlight casting sharp shadows.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 7,
+          "hook": 6,
+          "proof": 5,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "french press",
+          "removal soak",
+          "warm water soak",
+          "nail removal",
+          "french tip press ons",
+          "aesthetic asmr"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

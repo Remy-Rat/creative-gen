@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "path": "03_Removal/Glaze Check/IMG_3391.MOV",
+    "category": "removal",
+    "shade": "Glaze Check",
+    "duration": 8.4,
+    "tokens_in": 1572,
+    "tokens_out": 643,
+    "cost": 0.0081
+  },
+  "record": {
+    "clip_id": "IG-03-removal-glaze-check-img-3391",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Glaze Check",
+    "shade_matches_folder": true,
+    "colour_finish": "glazed pearl pink",
+    "shape": "almond",
+    "method": "tabs",
+    "has_speech": false,
+    "summary": "A glazed pink press-on nail is peeled off the index finger, demonstrating easy damage-free removal.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 8.4,
+        "usable": {
+          "min": 0.0,
+          "max": 8.4,
+          "sweet_spot": 4.5
+        },
+        "action_climax": {
+          "t": 4.5,
+          "action": "peeling off the press-on nail from the index finger"
+        },
+        "creative_role": [
+          "demo",
+          "proof"
+        ],
+        "creative_stage": "Transformation",
+        "process_step": "removal_lift",
+        "subject": "both_hands",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "studio_white",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Glazed pink almond nails on a hand over a white background with a diagonal shadow on the left. Another hand peels off the index nail.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 8,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "removal",
+          "peel off",
+          "how to remove press on nails",
+          "glazed pink nails",
+          "glaze check",
+          "almond nails",
+          "easy removal"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

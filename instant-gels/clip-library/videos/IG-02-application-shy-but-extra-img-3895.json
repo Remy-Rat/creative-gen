@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "path": "02_Application/Shy But Extra/IMG_3895.MOV",
+    "category": "application",
+    "shade": "Shy But Extra",
+    "duration": 8.1,
+    "tokens_in": 1574,
+    "tokens_out": 619,
+    "cost": 0.0079
+  },
+  "record": {
+    "clip_id": "IG-02-application-shy-but-extra-img-3895",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Shy But Extra",
+    "shade_matches_folder": true,
+    "colour_finish": "pearl chrome",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of applied pearl chrome almond nails catching direct sunlight with the product tray in the background.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 8.1,
+        "usable": {
+          "min": 0.0,
+          "max": 8.1,
+          "sweet_spot": 1.0
+        },
+        "action_climax": {
+          "t": 4.0,
+          "action": "hand subtly tilts to catch the sunlight on the pearl chrome finish"
+        },
+        "creative_role": [
+          "reveal",
+          "payoff",
+          "lifestyle"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_daylight",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "pearl chrome almond nails in bright sunlight with sharp shadow on white background",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "pearl chrome nails",
+          "almond shape nails",
+          "shy but extra",
+          "sunlight shadow",
+          "aesthetic nails",
+          "press on reveal"
+        ],
+        "confidence": 1.0,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

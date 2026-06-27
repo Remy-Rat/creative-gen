@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "path": "06_Posing & Lifestyle/Dancing in Stars_3.MOV",
+    "category": "posing_lifestyle",
+    "shade": "-",
+    "duration": 4.5,
+    "tokens_in": 1372,
+    "tokens_out": 626,
+    "cost": 0.0077
+  },
+  "record": {
+    "clip_id": "IG-06-posing-lifestyle-dancing-in-stars-3",
+    "product_line": "instant_gels",
+    "category": "posing_lifestyle",
+    "shade": "Dancing in Stars",
+    "shade_matches_folder": false,
+    "colour_finish": "shimmering silver-pink glitter",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of a hand with shimmering glitter almond nails posing under direct sunlight and shadow.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 4.5,
+        "usable": {
+          "min": 0.0,
+          "max": 4.5,
+          "sweet_spot": 1.0,
+          "sweet_spot_end": 3.5
+        },
+        "action_climax": {
+          "t": 2.0,
+          "action": "hand subtly tilts to catch the sunlight, highlighting the glitter shimmer"
+        },
+        "creative_role": [
+          "reveal",
+          "lifestyle"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor daylight with sharp shadow",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "glittery almond nails catching sunlight next to a sharp diagonal shadow on a white sleeve",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 3,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "glitter nails",
+          "shimmer",
+          "almond nails",
+          "dancing in stars",
+          "sunlight shadow",
+          "aesthetic hand pose",
+          "neutral sparkle"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

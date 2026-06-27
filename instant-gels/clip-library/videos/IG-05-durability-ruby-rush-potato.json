@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "path": "05_Durability/Ruby Rush_Potato.MOV",
+    "category": "durability",
+    "shade": "-",
+    "duration": 15.2,
+    "tokens_in": 3884,
+    "tokens_out": 685,
+    "cost": 0.012
+  },
+  "record": {
+    "clip_id": "IG-05-durability-ruby-rush-potato",
+    "product_line": "instant_gels",
+    "category": "durability",
+    "shade": "Ruby Rush",
+    "shade_matches_folder": true,
+    "colour_finish": "ruby red magnetic cat eye",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Scratching a potato with deep red magnetic cat-eye press-on nails to demonstrate durability, followed by a hand reveal.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 15.2,
+        "usable": {
+          "min": 0.0,
+          "max": 15.2,
+          "sweet_spot": 0.0
+        },
+        "action_climax": {
+          "t": 11.5,
+          "action": "hand turns over to reveal the glossy red cat-eye nails in direct sunlight"
+        },
+        "creative_role": [
+          "proof",
+          "reveal"
+        ],
+        "creative_stage": "Proof",
+        "process_step": "n/a",
+        "subject": "both_hands",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "indoor_daylight",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "other",
+        "asmr_moments": [
+          {
+            "t": 0.5,
+            "desc": "crisp scratching sound of nails scraping potato skin"
+          }
+        ],
+        "visual_fingerprint": "hands scratching a raw potato with deep red cat-eye nails under bright direct sunlight",
+        "claims_shown": [
+          "chip_resistant"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 9,
+          "standalone": 8,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "potato scratch test",
+          "ruby rush",
+          "cat eye nails",
+          "magnetic nails",
+          "durability test",
+          "asmr scratching",
+          "red almond nails"
+        ],
+        "confidence": 1.0,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

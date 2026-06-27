@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "path": "05_Durability/Almost Nude_Scratch 1.MOV",
+    "category": "durability",
+    "shade": "-",
+    "duration": 9.8,
+    "tokens_in": 1703,
+    "tokens_out": 670,
+    "cost": 0.0086
+  },
+  "record": [
+    {
+      "clip_id": "IG-05-durability-almost-nude-scratch-1",
+      "product_line": "instant_gels",
+      "category": "durability",
+      "shade": "Almost Nude",
+      "shade_matches_folder": false,
+      "colour_finish": "mauve pink glossy",
+      "shape": "almond",
+      "method": "n/a",
+      "has_speech": false,
+      "summary": "Model scratches a rough white stucco wall with her Almost Nude almond press-on nails to show durability.",
+      "asmr": true,
+      "segments": [
+        {
+          "t_start": 0.0,
+          "t_end": 9.8,
+          "usable": {
+            "min": 0.0,
+            "max": 9.8,
+            "sweet_spot": 1.0,
+            "sweet_spot_end": 9.0
+          },
+          "action_climax": {
+            "t": 2.5,
+            "action": "scratching the rough textured wall with nails"
+          },
+          "creative_role": [
+            "hook",
+            "proof"
+          ],
+          "creative_stage": "Proof",
+          "process_step": "n/a",
+          "subject": "single_hand",
+          "framing": "close_up",
+          "camera": "handheld",
+          "motion_level": "moderate",
+          "setting": "outdoor_rough_wall",
+          "nail_position": "right",
+          "text_safe_zones": [
+            "left"
+          ],
+          "products_visible": [
+            "press_on_set"
+          ],
+          "durability_test": "other",
+          "asmr_moments": [
+            {
+              "t": 1.5,
+              "desc": "nails scratching rough stucco wall"
+            }
+          ],
+          "visual_fingerprint": "hand scratching a rough white textured wall with mauve pink almond nails",
+          "claims_shown": [
+            "chip_resistant"
+          ],
+          "safety_sensitive": false,
+          "scores": {
+            "visual_quality": 9,
+            "product_visibility": 9,
+            "hook": 8,
+            "proof": 9,
+            "standalone": 8,
+            "edit_flexibility": 8
+          },
+          "search_tags": [
+            "scratch test",
+            "durability",
+            "almost nude",
+            "almond nails",
+            "mauve pink",
+            "stucco wall",
+            "scratching sound",
+            "asmr"
+          ],
+          "confidence": 1.0,
+          "human_review": false
+        }
+      ]
+    }
+  ],
+  "compliance": null
+}

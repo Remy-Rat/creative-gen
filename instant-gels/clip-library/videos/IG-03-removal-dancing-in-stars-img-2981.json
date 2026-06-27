@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "path": "03_Removal/Dancing in Stars/IMG_2981.MOV",
+    "category": "removal",
+    "shade": "Dancing in Stars",
+    "duration": 4.4,
+    "tokens_in": 1309,
+    "tokens_out": 627,
+    "cost": 0.0076
+  },
+  "record": {
+    "clip_id": "IG-03-removal-dancing-in-stars-img-2981",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Dancing in Stars",
+    "shade_matches_folder": true,
+    "colour_finish": "sheer pink shimmer",
+    "shape": "round",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of a hand in direct sunlight, showing a damaged index fingernail with peeling at the tip.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 4.4,
+        "usable": {
+          "min": 0.0,
+          "max": 4.4,
+          "sweet_spot": 1.0,
+          "sweet_spot_end": 4.0
+        },
+        "action_climax": {
+          "t": 1.5,
+          "action": "hand opens to reveal peeling nail damage on the index finger"
+        },
+        "creative_role": [
+          "problem"
+        ],
+        "creative_stage": "Problem",
+        "process_step": "n/a",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_sunlight",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "left",
+          "bottom"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand in bright sunlight with harsh shadow showing peeling damage on the index fingernail",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 5,
+          "hook": 8,
+          "proof": 3,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "nail damage",
+          "peeling nails",
+          "damaged nails",
+          "natural nails",
+          "dancing in stars",
+          "sheer pink",
+          "sunlight shadow"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "path": "03_Removal/Tips & Tales/IMG_1998.MOV",
+    "category": "removal",
+    "shade": "Tips & Tales",
+    "duration": 7.4,
+    "tokens_in": 1506,
+    "tokens_out": 630,
+    "cost": 0.0079
+  },
+  "record": {
+    "clip_id": "IG-03-removal-tips-tales-img-1998",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Tips & Tales",
+    "shade_matches_folder": true,
+    "colour_finish": "sheer pink natural",
+    "shape": "round",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Static close-up of a healthy, natural-looking sheer pink nail in bright sunlight with clean shadow aesthetics.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 7.4,
+        "usable": {
+          "min": 0.0,
+          "max": 7.4,
+          "sweet_spot": 1.0,
+          "sweet_spot_end": 5.0
+        },
+        "action_climax": {
+          "t": 3.0,
+          "action": "static display of healthy natural-looking nail under direct sunlight"
+        },
+        "creative_role": [
+          "proof",
+          "payoff"
+        ],
+        "creative_stage": "Proof",
+        "process_step": "n/a",
+        "subject": "single_nail",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "indoor",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "healthy sheer pink thumb nail held up in bright sunlight with a diagonal shadow on the left white background",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 6,
+          "hook": 4,
+          "proof": 8,
+          "standalone": 5,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "healthy natural nail",
+          "post removal",
+          "no damage",
+          "sunlight aesthetic",
+          "bare nail look",
+          "tips and tales",
+          "sheer pink"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

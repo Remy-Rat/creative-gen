@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "path": "03_Removal/Tips & Tales/IMG_1977.MOV",
+    "category": "removal",
+    "shade": "Tips & Tales",
+    "duration": 5.9,
+    "tokens_in": 1440,
+    "tokens_out": 612,
+    "cost": 0.0077
+  },
+  "record": {
+    "clip_id": "IG-03-removal-tips-tales-img-1977",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Tips & Tales",
+    "shade_matches_folder": true,
+    "colour_finish": "french manicure with white tips and nude base",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A hand with French tip press-on nails brings a white bowl into frame under bright diagonal sunlight.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 5.9,
+        "usable": {
+          "min": 0.0,
+          "max": 5.9,
+          "sweet_spot": 3.0
+        },
+        "action_climax": {
+          "t": 3.0,
+          "action": "hand holds the white bowl steady under direct sunlight, showcasing the thumb nail"
+        },
+        "creative_role": [
+          "lifestyle",
+          "transition"
+        ],
+        "creative_stage": "Transition",
+        "process_step": "removal_soak",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "handheld",
+        "motion_level": "moderate",
+        "setting": "indoor_daylight",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left",
+          "bottom"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "french tip nails holding a white ceramic bowl under harsh diagonal sunlight shadow",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 7,
+          "hook": 5,
+          "proof": 4,
+          "standalone": 5,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "french tip",
+          "tips and tales",
+          "removal soak",
+          "warm water bowl",
+          "aesthetic hands",
+          "almond nails"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

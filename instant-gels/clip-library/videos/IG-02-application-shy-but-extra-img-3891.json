@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "path": "02_Application/Shy But Extra/IMG_3891.MOV",
+    "category": "application",
+    "shade": "Shy But Extra",
+    "duration": 13.9,
+    "tokens_in": 3006,
+    "tokens_out": 657,
+    "cost": 0.0104
+  },
+  "record": {
+    "clip_id": "IG-02-application-shy-but-extra-img-3891",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Shy But Extra",
+    "shade_matches_folder": true,
+    "colour_finish": "pearl chrome",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of pressing down a pearl chrome almond press-on nail to secure it during application.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 13.9,
+        "usable": {
+          "min": 0.0,
+          "max": 13.9,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 3.0,
+          "action": "pressing and holding the applied pearl chrome nail at the cuticle"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "press_hold",
+        "subject": "both_hands",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white tabletop with aesthetic shadow lines",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "pearl chrome almond nails on right hand with left hand fingers pressing the index nail, tray of nails on the left under shadow lines",
+        "claims_shown": [
+          "press_on_and_go"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 7,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "pearl chrome nails",
+          "almond press-on nails",
+          "pressing nail down",
+          "application demo",
+          "shy but extra",
+          "glamrdip instant gels"
+        ],
+        "confidence": 1.0,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

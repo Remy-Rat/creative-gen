@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "path": "05_Durability/French Press_Potato.MOV",
+    "category": "durability",
+    "shade": "-",
+    "duration": 6.6,
+    "tokens_in": 2067,
+    "tokens_out": 660,
+    "cost": 0.009
+  },
+  "record": {
+    "clip_id": "IG-05-durability-french-press-potato",
+    "product_line": "instant_gels",
+    "category": "durability",
+    "shade": "French Press",
+    "shade_matches_folder": true,
+    "colour_finish": "classic french glossy",
+    "shape": "squoval",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A hand with French Press nails scratches a potato skin to demonstrate durability, then reveals flawless tips.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 6.6,
+        "usable": {
+          "min": 0.0,
+          "max": 6.6,
+          "sweet_spot": 3.5
+        },
+        "action_climax": {
+          "t": 4.0,
+          "action": "hand turns to reveal flawless French manicure after scratching potato"
+        },
+        "creative_role": [
+          "proof"
+        ],
+        "creative_stage": "Proof",
+        "process_step": "n/a",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "indoor_sunlight",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "other",
+        "asmr_moments": [
+          {
+            "t": 0.5,
+            "desc": "scratching potato skin sound"
+          }
+        ],
+        "visual_fingerprint": "hand scratching potato skin under harsh sunlight, revealing perfect French manicure",
+        "claims_shown": [
+          "chip_resistant"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 9,
+          "standalone": 8,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "potato scratch test",
+          "durability test",
+          "french press",
+          "french manicure",
+          "scratch resistant",
+          "strong press ons"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "revise",
+    "issues": [
+      "The tagged claim 'chip_resistant' is not visually demonstrated in the video."
+    ]
+  }
+}

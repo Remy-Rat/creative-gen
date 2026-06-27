@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "path": "03_Removal/French Press/IMG_5914.MOV",
+    "category": "removal",
+    "shade": "French Press",
+    "duration": 4.2,
+    "tokens_in": 1306,
+    "tokens_out": 655,
+    "cost": 0.0079
+  },
+  "record": {
+    "clip_id": "IG-03-removal-french-press-img-5914",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "French Press",
+    "shade_matches_folder": true,
+    "colour_finish": "classic white french tip with glossy nude base",
+    "shape": "squoval",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A metal tool gently lifts and pops off a French Press instant gel nail from the thumb.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 4.2,
+        "usable": {
+          "min": 0.0,
+          "max": 4.2,
+          "sweet_spot": 2.5
+        },
+        "action_climax": {
+          "t": 3.0,
+          "action": "the press-on nail pops off the thumb completely"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "removal_lift",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "studio",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 3.0,
+            "desc": "soft click sound as the nail pops off"
+          }
+        ],
+        "visual_fingerprint": "french manicure thumb being pried off with a metal cuticle tool against a white background with harsh shadow",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 8,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "removal",
+          "french press",
+          "french manicure",
+          "pop off",
+          "nail removal",
+          "cuticle pusher",
+          "squoval"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

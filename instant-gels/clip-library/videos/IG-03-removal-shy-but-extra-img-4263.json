@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "path": "03_Removal/Shy But Extra/IMG_4263.MOV",
+    "category": "removal",
+    "shade": "Shy But Extra",
+    "duration": 3.3,
+    "tokens_in": 1244,
+    "tokens_out": 646,
+    "cost": 0.0077
+  },
+  "record": {
+    "clip_id": "IG-03-removal-shy-but-extra-img-4263",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Shy But Extra",
+    "shade_matches_folder": true,
+    "colour_finish": "milky pink glossy",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A hand places a white scalloped bowl of water onto a white surface to prepare for nail removal.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 3.3,
+        "usable": {
+          "min": 0.0,
+          "max": 3.3,
+          "sweet_spot": 0.5,
+          "sweet_spot_end": 3.0
+        },
+        "action_climax": {
+          "t": 1.2,
+          "action": "bowl placed on surface with water rippling"
+        },
+        "creative_role": [
+          "transition"
+        ],
+        "creative_stage": "Transition",
+        "process_step": "removal_soak",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white tabletop with harsh sunlight shadow",
+        "nail_position": "top",
+        "text_safe_zones": [
+          "bottom",
+          "right"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 1.2,
+            "desc": "ceramic bowl clinking gently on table"
+          }
+        ],
+        "visual_fingerprint": "white scalloped bowl with rippling water placed on white surface under harsh sunlight shadow",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 5,
+          "hook": 4,
+          "proof": 3,
+          "standalone": 4,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "nail removal setup",
+          "warm water soak",
+          "scalloped bowl",
+          "aesthetic transition",
+          "shy but extra",
+          "almond nails"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "path": "03_Removal/Bubbly Babe/IMG_6435.MOV",
+    "category": "removal",
+    "shade": "Bubbly Babe",
+    "duration": 3.4,
+    "tokens_in": 1245,
+    "tokens_out": 638,
+    "cost": 0.0076
+  },
+  "record": {
+    "clip_id": "IG-03-removal-bubbly-babe-img-6435",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "n/a",
+    "shade_matches_folder": false,
+    "colour_finish": "n/a",
+    "shape": "n/a",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A purple GLAMRDiP bottle dripping removal solution into a white bowl of water, creating ripples.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 3.4,
+        "usable": {
+          "min": 0.0,
+          "max": 3.4,
+          "sweet_spot": 1.0
+        },
+        "action_climax": {
+          "t": 1.5,
+          "action": "liquid dripping from the purple bottle into the water bowl, creating ripples"
+        },
+        "creative_role": [
+          "demo",
+          "transition"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "removal_soak",
+        "subject": "product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white background overhead",
+        "nail_position": "none",
+        "text_safe_zones": [
+          "bottom",
+          "right",
+          "left"
+        ],
+        "products_visible": [
+          "remove_solution"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 1.0,
+            "desc": "liquid dripping into water bowl"
+          }
+        ],
+        "visual_fingerprint": "purple GLAMRDiP bottle dripping liquid into a white bowl of water with ripples",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 6,
+          "proof": 3,
+          "standalone": 4,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "removal solution",
+          "dripping liquid",
+          "water bowl",
+          "purple bottle",
+          "removal process",
+          "asmr ripples"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

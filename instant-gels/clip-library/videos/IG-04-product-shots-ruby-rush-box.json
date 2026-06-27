@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "path": "04_Product Shots/Ruby Rush_Box.MOV",
+    "category": "product_shots",
+    "shade": "-",
+    "duration": 15.3,
+    "tokens_in": 2030,
+    "tokens_out": 631,
+    "cost": 0.0087
+  },
+  "record": {
+    "clip_id": "IG-04-product-shots-ruby-rush-box",
+    "product_line": "instant_gels",
+    "category": "product_shots",
+    "shade": "Ruby Rush",
+    "shade_matches_folder": false,
+    "colour_finish": "ruby red jelly glossy",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hands holding a box of Ruby Rush Instant Gels, tilting it slightly to catch the sunlight.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 15.3,
+        "usable": {
+          "min": 0.0,
+          "max": 15.3,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 7.0,
+          "action": "tilting the box to show the holographic sticker and glossy red nails"
+        },
+        "creative_role": [
+          "reveal",
+          "cta_support"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "n/a",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "studio_white",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "bottom"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hands holding a purple-trimmed transparent box of deep red almond-shaped press-on nails under bright sunlight",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 10,
+          "hook": 6,
+          "proof": 1,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "Ruby Rush",
+          "product box",
+          "unboxing",
+          "almond nails",
+          "jelly red nails",
+          "aesthetic product shot",
+          "sunlight shadow"
+        ],
+        "confidence": 1.0,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

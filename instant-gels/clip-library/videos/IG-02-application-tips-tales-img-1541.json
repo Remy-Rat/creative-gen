@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "path": "02_Application/Tips & Tales/IMG_1541.MOV",
+    "category": "application",
+    "shade": "Tips & Tales",
+    "duration": 31.8,
+    "tokens_in": 3157,
+    "tokens_out": 710,
+    "cost": 0.0111
+  },
+  "record": {
+    "clip_id": "IG-02-application-tips-tales-img-1541",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Tips & Tales",
+    "shade_matches_folder": true,
+    "colour_finish": "sheer nude pink with white french tips",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of a thumb nail being thoroughly cleansed with an alcohol prep pad before press-on application.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 31.8,
+        "usable": {
+          "min": 0.0,
+          "max": 31.8,
+          "sweet_spot": 10.0
+        },
+        "action_climax": {
+          "t": 15.0,
+          "action": "wiping the nail plate thoroughly with the prep pad"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "prep_cleanse",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "indoor_bright",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left",
+          "top_left"
+        ],
+        "products_visible": [
+          "prep_pad",
+          "press_on_set",
+          "cuticle_stick",
+          "smooth_moves_file"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 2.0,
+            "desc": "Soft squeaking sound of prep pad wiping the natural nail"
+          }
+        ],
+        "visual_fingerprint": "A thumb nail being wiped with a white prep pad under bright direct sunlight, with a tray of French tip press-on nails visible on the left.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 7,
+          "hook": 5,
+          "proof": 4,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "nail prep",
+          "prep pad",
+          "cleansing nail",
+          "alcohol wipe",
+          "manicure prep",
+          "natural nail",
+          "french tip press ons"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "path": "02_Application/Shy But Extra/IMG_3888.MOV",
+    "category": "application",
+    "shade": "Shy But Extra",
+    "duration": 20.9,
+    "tokens_in": 3930,
+    "tokens_out": 646,
+    "cost": 0.0117
+  },
+  "record": {
+    "clip_id": "IG-02-application-shy-but-extra-img-3888",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Shy But Extra",
+    "shade_matches_folder": true,
+    "colour_finish": "pearl chrome",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Sizing and pressing a pearl chrome almond press-on nail onto the thumb.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 20.9,
+        "usable": {
+          "min": 0.0,
+          "max": 20.9,
+          "sweet_spot": 7.0
+        },
+        "action_climax": {
+          "t": 19.0,
+          "action": "releasing pressure to reveal the applied pearl chrome nail"
+        },
+        "creative_role": [
+          "demo",
+          "reveal"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "press_hold",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white tabletop with natural sunlight shadow",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Thumb nail application with a pearl chrome almond nail under bright sunlight shadows, tray in background.",
+        "claims_shown": [
+          "press_on_and_go"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 8,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "press on nail application",
+          "pearl chrome nails",
+          "almond nails",
+          "nail application close up",
+          "instant gels tutorial"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

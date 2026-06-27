@@ -1,0 +1,353 @@
+{
+  "meta": {
+    "path": "07. Fast Motion Edits/Fast Motion Edit V7.mp4",
+    "category": "fast_motion",
+    "shade": "-",
+    "duration": 7.4,
+    "tokens_in": 2541,
+    "tokens_out": 2802,
+    "cost": 0.029
+  },
+  "record": {
+    "clip_id": "IG-07-fast-motion-edits-fast-motion-edit-v7",
+    "product_line": "instant_gels",
+    "category": "fast_motion",
+    "shade": "multiple",
+    "shade_matches_folder": false,
+    "colour_finish": "multiple",
+    "shape": "multiple",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Fast-paced compilation showcasing various GLAMRDiP Instant Gel shades and shapes against a lush green background.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 1.23,
+        "usable": {
+          "min": 0.0,
+          "max": 1.23,
+          "sweet_spot": 0.6
+        },
+        "action_climax": {
+          "t": 0.6,
+          "action": "hand tilt showing cat-eye shimmer"
+        },
+        "creative_role": [
+          "hook",
+          "reveal"
+        ],
+        "creative_stage": "Hook",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "outdoor_garden",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand with white sleeve showing cat-eye pink almond nails against green leaves",
+        "claims_shown": [
+          "swap_styles"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 5,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "cat-eye pink",
+          "almond nails",
+          "outdoor lighting",
+          "white sleeve",
+          "hand model"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      },
+      {
+        "t_start": 1.23,
+        "t_end": 2.47,
+        "usable": {
+          "min": 1.23,
+          "max": 2.47,
+          "sweet_spot": 1.8
+        },
+        "action_climax": {
+          "t": 1.8,
+          "action": "reveal of vibrant magenta nails"
+        },
+        "creative_role": [
+          "reveal"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "outdoor_garden",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand with white sleeve showing hot pink glossy almond nails against green leaves",
+        "claims_shown": [
+          "swap_styles"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "hot pink",
+          "magenta",
+          "almond nails",
+          "outdoor lighting",
+          "white sleeve"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      },
+      {
+        "t_start": 2.47,
+        "t_end": 3.7,
+        "usable": {
+          "min": 2.47,
+          "max": 3.7,
+          "sweet_spot": 3.1
+        },
+        "action_climax": {
+          "t": 3.1,
+          "action": "reveal of French manicure squoval nails"
+        },
+        "creative_role": [
+          "reveal"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "outdoor_garden",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand with white sleeve showing French manicure squoval nails against green leaves",
+        "claims_shown": [
+          "swap_styles"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "French manicure",
+          "squoval nails",
+          "outdoor lighting",
+          "white sleeve"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      },
+      {
+        "t_start": 3.7,
+        "t_end": 4.93,
+        "usable": {
+          "min": 3.7,
+          "max": 4.93,
+          "sweet_spot": 4.3
+        },
+        "action_climax": {
+          "t": 4.3,
+          "action": "reveal of sheer milky pink squoval nails"
+        },
+        "creative_role": [
+          "reveal"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "outdoor_garden",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand with white sleeve showing sheer milky pink squoval nails against green leaves",
+        "claims_shown": [
+          "swap_styles"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "milky pink",
+          "nude nails",
+          "squoval nails",
+          "outdoor lighting",
+          "white sleeve"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      },
+      {
+        "t_start": 4.93,
+        "t_end": 6.13,
+        "usable": {
+          "min": 4.93,
+          "max": 6.13,
+          "sweet_spot": 5.5
+        },
+        "action_climax": {
+          "t": 5.5,
+          "action": "reveal of light pink almond nails"
+        },
+        "creative_role": [
+          "reveal"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "outdoor_garden",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand with white sleeve showing light pink almond nails against green leaves",
+        "claims_shown": [
+          "swap_styles"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "light pink",
+          "almond nails",
+          "outdoor lighting",
+          "white sleeve"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      },
+      {
+        "t_start": 6.13,
+        "t_end": 7.4,
+        "usable": {
+          "min": 6.13,
+          "max": 7.4,
+          "sweet_spot": 6.7
+        },
+        "action_climax": {
+          "t": 6.7,
+          "action": "reveal of glittery pink almond nails"
+        },
+        "creative_role": [
+          "reveal",
+          "cta_support"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "outdoor_garden",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand with white sleeve showing glittery pink almond nails against green leaves",
+        "claims_shown": [
+          "swap_styles"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "glitter pink",
+          "almond nails",
+          "outdoor lighting",
+          "white sleeve"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

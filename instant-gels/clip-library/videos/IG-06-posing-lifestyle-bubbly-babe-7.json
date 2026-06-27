@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "path": "06_Posing & Lifestyle/Bubbly Babe_7.MOV",
+    "category": "posing_lifestyle",
+    "shade": "-",
+    "duration": 4.4,
+    "tokens_in": 1308,
+    "tokens_out": 618,
+    "cost": 0.0075
+  },
+  "record": {
+    "clip_id": "IG-06-posing-lifestyle-bubbly-babe-7",
+    "product_line": "instant_gels",
+    "category": "posing_lifestyle",
+    "shade": "Bubbly Babe",
+    "shade_matches_folder": false,
+    "colour_finish": "milky pink glossy",
+    "shape": "squoval",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of a hand with milky pink nails resting on grass with daisies.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 4.4,
+        "usable": {
+          "min": 0.0,
+          "max": 4.4,
+          "sweet_spot": 1.5
+        },
+        "action_climax": {
+          "t": 2.0,
+          "action": "still pose showing nails against daisy background"
+        },
+        "creative_role": [
+          "lifestyle",
+          "payoff"
+        ],
+        "creative_stage": "Lifestyle",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "outdoor grass with daisies",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "right",
+          "bottom_right"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand with eternity ring and pink nails resting on white sleeve over daisy grass",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 8,
+          "hook": 6,
+          "proof": 3,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "bubbly babe",
+          "milky pink",
+          "daisies",
+          "outdoor aesthetic",
+          "spring nails",
+          "hand model",
+          "eternity ring"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

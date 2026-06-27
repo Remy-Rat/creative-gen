@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "path": "02_Application/Shy But Extra/IMG_3898.MOV",
+    "category": "application",
+    "shade": "Shy But Extra",
+    "duration": 3.9,
+    "tokens_in": 1310,
+    "tokens_out": 641,
+    "cost": 0.0077
+  },
+  "record": {
+    "clip_id": "IG-02-application-shy-but-extra-img-3898",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Shy But Extra",
+    "shade_matches_folder": true,
+    "colour_finish": "pearl chrome iridescent pinkish white",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A hand reveals a fresh set of pearl chrome almond press-on nails next to their packaging.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 3.9,
+        "usable": {
+          "min": 0.0,
+          "max": 3.9,
+          "sweet_spot": 1.5
+        },
+        "action_climax": {
+          "t": 1.5,
+          "action": "hand fully extends to reveal the pearl chrome almond nails"
+        },
+        "creative_role": [
+          "reveal",
+          "payoff"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_daylight",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "smooth_moves_file",
+          "cuticle_stick"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand revealing pearl chrome almond nails next to a clear plastic tray with remaining nails and a purple file",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "pearl chrome",
+          "iridescent",
+          "almond nails",
+          "final reveal",
+          "aesthetic hands",
+          "sunlight shadow",
+          "shy but extra"
+        ],
+        "confidence": 1.0,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

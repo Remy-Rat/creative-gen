@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "path": "04_Product Shots/Unboxing/Almost Nude_Slide Out.MOV",
+    "category": "product_shots",
+    "shade": "Unboxing",
+    "duration": 9.7,
+    "tokens_in": 1709,
+    "tokens_out": 671,
+    "cost": 0.0086
+  },
+  "record": {
+    "clip_id": "IG-04-product-shots-unboxing-almost-nude-slide-out",
+    "product_line": "instant_gels",
+    "category": "product_shots",
+    "shade": "Almost Nude",
+    "shade_matches_folder": false,
+    "colour_finish": "sheer nude glossy",
+    "shape": "coffin",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hand slides off the purple sleeve from a clear tray of Almost Nude press-on nails.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 9.7,
+        "usable": {
+          "min": 0.0,
+          "max": 9.7,
+          "sweet_spot": 0.0,
+          "sweet_spot_end": 4.0
+        },
+        "action_climax": {
+          "t": 2.0,
+          "action": "sleeve is completely slid off the tray"
+        },
+        "creative_role": [
+          "reveal"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "n/a",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_daylight",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom",
+          "top_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 1.5,
+            "desc": "sleeve sliding off plastic tray"
+          }
+        ],
+        "visual_fingerprint": "hand sliding purple paper sleeve off a clear plastic tray of nude coffin-shaped press-on nails under bright sunlight",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 1,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "unboxing",
+          "slide out",
+          "packaging reveal",
+          "almost nude",
+          "coffin nails",
+          "press-on tray",
+          "aesthetic lighting"
+        ],
+        "confidence": 1.0,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

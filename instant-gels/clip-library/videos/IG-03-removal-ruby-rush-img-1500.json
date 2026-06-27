@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "path": "03_Removal/Ruby Rush/IMG_1500.MOV",
+    "category": "removal",
+    "shade": "Ruby Rush",
+    "duration": 4.8,
+    "tokens_in": 1809,
+    "tokens_out": 685,
+    "cost": 0.0089
+  },
+  "record": {
+    "clip_id": "IG-03-removal-ruby-rush-img-1500",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Ruby Rush",
+    "shade_matches_folder": true,
+    "colour_finish": "ruby red magnetic cat-eye",
+    "shape": "almond",
+    "method": "tabs",
+    "has_speech": false,
+    "summary": "Hand peeling off a ruby red magnetic almond press-on nail, revealing the natural nail.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 4.8,
+        "usable": {
+          "min": 0.0,
+          "max": 4.8,
+          "sweet_spot": 0.5,
+          "sweet_spot_end": 4.0
+        },
+        "action_climax": {
+          "t": 3.0,
+          "action": "nail is completely peeled off, revealing the natural nail"
+        },
+        "creative_role": [
+          "demo",
+          "proof"
+        ],
+        "creative_stage": "Transformation",
+        "process_step": "removal_lift",
+        "subject": "single_hand",
+        "framing": "extreme_close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white background with shadow",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "left",
+          "bottom"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 2.5,
+            "desc": "soft peeling sound of the press-on nail lifting"
+          }
+        ],
+        "visual_fingerprint": "Close-up of fingers peeling off a glossy red cat-eye almond nail under direct sunlight.",
+        "claims_shown": [
+          "swap_styles"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 8,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "nail removal",
+          "peeling press on",
+          "ruby rush",
+          "cat eye nails",
+          "magnetic red",
+          "almond nails"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

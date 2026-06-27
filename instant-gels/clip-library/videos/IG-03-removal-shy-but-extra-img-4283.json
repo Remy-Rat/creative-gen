@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "path": "03_Removal/Shy But Extra/IMG_4283.MOV",
+    "category": "removal",
+    "shade": "Shy But Extra",
+    "duration": 6.3,
+    "tokens_in": 1442,
+    "tokens_out": 577,
+    "cost": 0.0074
+  },
+  "record": {
+    "clip_id": "IG-03-removal-shy-but-extra-img-4283",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "none",
+    "shade_matches_folder": false,
+    "colour_finish": "bare natural nails",
+    "shape": "round",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of bare natural nails on both hands showing post-removal dryness.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 6.3,
+        "usable": {
+          "min": 0.0,
+          "max": 6.3,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 3.0,
+          "action": "hands holding still under direct light"
+        },
+        "creative_role": [
+          "problem"
+        ],
+        "creative_stage": "Problem",
+        "process_step": "removal_cleanup",
+        "subject": "both_hands",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "indoor",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "bottom"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Two hands showing bare, slightly dry natural nails under warm lighting.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 7,
+          "product_visibility": 1,
+          "hook": 4,
+          "proof": 3,
+          "standalone": 3,
+          "edit_flexibility": 6
+        },
+        "search_tags": [
+          "bare nails",
+          "natural nails",
+          "post removal",
+          "nail damage",
+          "before state"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

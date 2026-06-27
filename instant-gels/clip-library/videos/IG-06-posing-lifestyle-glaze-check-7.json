@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "path": "06_Posing & Lifestyle/Glaze Check_7.MOV",
+    "category": "posing_lifestyle",
+    "shade": "-",
+    "duration": 4.7,
+    "tokens_in": 1371,
+    "tokens_out": 596,
+    "cost": 0.0074
+  },
+  "record": {
+    "clip_id": "IG-06-posing-lifestyle-glaze-check-7",
+    "product_line": "instant_gels",
+    "category": "posing_lifestyle",
+    "shade": "Glaze",
+    "shade_matches_folder": false,
+    "colour_finish": "pearl chrome pink",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A close-up of a hand posing with glazed pink almond press-on nails against a green foliage background.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 4.7,
+        "usable": {
+          "min": 0.0,
+          "max": 4.7,
+          "sweet_spot": 0.5
+        },
+        "action_climax": {
+          "t": 2.0,
+          "action": "hand subtly tilting to catch the light on the glazed finish"
+        },
+        "creative_role": [
+          "lifestyle",
+          "reveal"
+        ],
+        "creative_stage": "Lifestyle",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "outdoor_garden",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom",
+          "right"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand with white sleeve showing glazed pink almond nails against green leaves",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "glazed nails",
+          "pearl chrome",
+          "almond nails",
+          "pink chrome",
+          "lifestyle posing",
+          "hand model",
+          "clean girl aesthetic"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "path": "06_Posing & Lifestyle/Glaze Check_1.MOV",
+    "category": "posing_lifestyle",
+    "shade": "-",
+    "duration": 5.7,
+    "tokens_in": 1437,
+    "tokens_out": 615,
+    "cost": 0.0077
+  },
+  "record": {
+    "clip_id": "IG-06-posing-lifestyle-glaze-check-1",
+    "product_line": "instant_gels",
+    "category": "posing_lifestyle",
+    "shade": "Glaze",
+    "shade_matches_folder": false,
+    "colour_finish": "glazed pearl pink",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A single hand with glazed pink almond nails slowly unfurls from a white sleeve under direct sunlight.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 5.7,
+        "usable": {
+          "min": 0.0,
+          "max": 5.7,
+          "sweet_spot": 1.0,
+          "sweet_spot_end": 4.5
+        },
+        "action_climax": {
+          "t": 1.5,
+          "action": "hand fully opens to reveal the glazed almond nails"
+        },
+        "creative_role": [
+          "reveal",
+          "lifestyle"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_sunlight",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand with white sleeve and diamond ring unfurling to show glazed pink almond nails in bright sunlight",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 5,
+          "standalone": 8,
+          "edit_flexibility": 9
+        },
+        "search_tags": [
+          "glazed nails",
+          "almond nails",
+          "pink chrome",
+          "hand posing",
+          "sunlight shadow",
+          "white sleeve",
+          "diamond ring"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

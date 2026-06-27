@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "path": "06_Posing & Lifestyle/Almost Nude_6.MOV",
+    "category": "posing_lifestyle",
+    "shade": "-",
+    "duration": 5.3,
+    "tokens_in": 1371,
+    "tokens_out": 630,
+    "cost": 0.0077
+  },
+  "record": {
+    "clip_id": "IG-06-posing-lifestyle-almost-nude-6",
+    "product_line": "instant_gels",
+    "category": "posing_lifestyle",
+    "shade": "Almost Nude",
+    "shade_matches_folder": false,
+    "colour_finish": "glossy dusty rose nude",
+    "shape": "squoval",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of a hand with glossy dusty rose nude squoval press-on nails posing against purple flowers.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 5.3,
+        "usable": {
+          "min": 0.0,
+          "max": 5.3,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 2.5,
+          "action": "hand holding still, showcasing the glossy finish of the nails against vibrant purple flowers"
+        },
+        "creative_role": [
+          "lifestyle",
+          "payoff"
+        ],
+        "creative_stage": "Lifestyle",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "outdoor_garden",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom",
+          "right"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand with dusty rose nails and white sleeve posing against purple rhododendron flowers",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 6,
+          "proof": 5,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "almost nude",
+          "squoval nails",
+          "pink nails",
+          "nude nails",
+          "purple flowers background",
+          "white sleeve",
+          "hand posing",
+          "aesthetic nails"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

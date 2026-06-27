@@ -113,48 +113,55 @@ def index_one(client,types,cat,path):
     cid='IG-'+re.sub(r'[^A-Za-z0-9]+','-',str(rel.with_suffix(''))).strip('-').lower()
     d=dur(str(path)); c=dict(category=cat,shade=shade,filename=path.name,dur=round(d,1),cuts=cuts(str(path)),clip_id=cid)
     f=retry(lambda:client.files.upload(file=str(path)))
-    waited=0
-    while f.state.name=='PROCESSING' and waited<90: time.sleep(2); waited+=2; f=client.files.get(name=f.name)
-    if f.state.name!='ACTIVE': raise RuntimeError('upload '+f.state.name)
-    r=retry(lambda:client.models.generate_content(model=MODEL,contents=[f,prompt(c)],
-       config=types.GenerateContentConfig(system_instruction=SYS,temperature=0.1,response_mime_type='application/json')))
-    tin=r.usage_metadata.prompt_token_count or 0; tout=r.usage_metadata.candidates_token_count or 0; cst=cost(r.usage_metadata)
-    try: data=json.loads(r.text)
-    except Exception as e: data={'_parse_error':str(e),'raw':r.text}
-    segs=data.get('segments',[]) if isinstance(data,dict) else []
-    comp=None
-    if any(s.get('safety_sensitive') or [x for x in s.get('claims_shown',[]) if x!='none'] for s in segs):
-        cp=("Approved IG claims ONLY: 2_weeks_wear,chip_resistant,no_uv_no_led,press_on_and_go,reusable,zero_edge,swap_styles. "
-            "Glue=cyanoacrylate. Mark verdict 'revise' ONLY if a tagged claim is NOT visually demonstrated by THIS video or a safety flag is wrong; else 'ok'. "
-            f"Tags: {json.dumps([{'claims':s.get('claims_shown'),'safety':s.get('safety_sensitive')} for s in segs])}. "
-            'Return JSON {"verdict":"ok|revise","issues":[]}.')
-        cr=retry(lambda:client.models.generate_content(model=MODEL,contents=[f,cp],config=types.GenerateContentConfig(temperature=0.0,response_mime_type='application/json')))
-        tin+=cr.usage_metadata.prompt_token_count or 0; tout+=cr.usage_metadata.candidates_token_count or 0; cst+=cost(cr.usage_metadata)
-        try: comp=json.loads(cr.text)
-        except: comp={'raw':cr.text}
-    try: client.files.delete(name=f.name)   # free storage so uploads don't back up
-    except: pass
-    return dict(cid=cid,rel=str(rel),cat=cat,shade=shade,dur=round(d,1),data=data,comp=comp,tin=tin,tout=tout,cost=cst)
+    try:
+        waited=0
+        while f.state.name=='PROCESSING' and waited<90: time.sleep(2); waited+=2; f=client.files.get(name=f.name)
+        if f.state.name!='ACTIVE': raise RuntimeError('upload '+f.state.name)
+        r=retry(lambda:client.models.generate_content(model=MODEL,contents=[f,prompt(c)],
+           config=types.GenerateContentConfig(system_instruction=SYS,temperature=0.1,response_mime_type='application/json')))
+        tin=r.usage_metadata.prompt_token_count or 0; tout=r.usage_metadata.candidates_token_count or 0; cst=cost(r.usage_metadata)
+        try: data=json.loads(r.text)
+        except Exception as e: data={'_parse_error':str(e),'raw':r.text}
+        segs=[s for s in (data.get('segments',[]) if isinstance(data,dict) else []) if isinstance(s,dict)]
+        comp=None
+        if any(s.get('safety_sensitive') or [x for x in s.get('claims_shown',[]) if x!='none'] for s in segs):
+            cp=("Approved IG claims ONLY: 2_weeks_wear,chip_resistant,no_uv_no_led,press_on_and_go,reusable,zero_edge,swap_styles. "
+                "Glue=cyanoacrylate. Mark verdict 'revise' ONLY if a tagged claim is NOT visually demonstrated by THIS video or a safety flag is wrong; else 'ok'. "
+                f"Tags: {json.dumps([{'claims':s.get('claims_shown'),'safety':s.get('safety_sensitive')} for s in segs])}. "
+                'Return JSON {"verdict":"ok|revise","issues":[]}.')
+            cr=retry(lambda:client.models.generate_content(model=MODEL,contents=[f,cp],config=types.GenerateContentConfig(temperature=0.0,response_mime_type='application/json')))
+            tin+=cr.usage_metadata.prompt_token_count or 0; tout+=cr.usage_metadata.candidates_token_count or 0; cst+=cost(cr.usage_metadata)
+            try: comp=json.loads(cr.text)
+            except: comp={'raw':cr.text}
+        return dict(cid=cid,rel=str(rel),cat=cat,shade=shade,dur=round(d,1),data=data,comp=comp,tin=tin,tout=tout,cost=cst)
+    finally:
+        try: client.files.delete(name=f.name)   # always free storage, even on error
+        except: pass
 
 def save(cx,res):
-    d=res['data']; cid=res['cid']; segs=d.get('segments',[]) if isinstance(d,dict) else []
+    raw=res['data']; cid=res['cid']; d=raw if isinstance(raw,dict) else {}
+    segs=[s for s in d.get('segments',[]) if isinstance(s,dict)]
     sidecar=dict(meta=dict(path=res['rel'],category=res['cat'],shade=res['shade'],duration=res['dur'],
-        tokens_in=res['tin'],tokens_out=res['tout'],cost=round(res['cost'],4)),record=d,compliance=res['comp'])
+        tokens_in=res['tin'],tokens_out=res['tout'],cost=round(res['cost'],4)),record=raw,compliance=res['comp'])
     (SIDE/(cid+'.json')).write_text(json.dumps(sidecar,indent=2))
     cx.execute("INSERT OR REPLACE INTO videos VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",(cid,res['rel'],res['cat'],
         d.get('shade'),1 if d.get('shade_matches_folder') else 0,d.get('colour_finish'),d.get('shape'),d.get('method'),
         1 if d.get('asmr') else 0,d.get('summary'),res['dur'],len(segs),res['tin'],res['tout'],round(res['cost'],4),
-        json.dumps(res['comp']) if res['comp'] else None,time.strftime('%Y-%m-%dT%H:%M:%S'),json.dumps(d)))
+        json.dumps(res['comp']) if res['comp'] else None,time.strftime('%Y-%m-%dT%H:%M:%S'),json.dumps(raw)))
     cx.execute("DELETE FROM segments WHERE clip_id=?",(cid,))
     for i,s in enumerate(segs):
-        sc=s.get('scores',{}); cl=s.get('action_climax',{})
-        cx.execute("INSERT OR REPLACE INTO segments VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
-         (f"{cid}-s{i+1:02d}",cid,s.get('t_start'),s.get('t_end'),json.dumps(s.get('creative_role')),s.get('creative_stage'),
-          s.get('process_step'),s.get('framing'),s.get('camera'),s.get('motion_level'),s.get('nail_position'),
-          json.dumps(s.get('text_safe_zones')),s.get('colour_finish') or d.get('colour_finish'),json.dumps(s.get('products_visible')),
-          json.dumps(s.get('claims_shown')),1 if s.get('safety_sensitive') else 0,s.get('durability_test'),
-          cl.get('t'),cl.get('action'),s.get('visual_fingerprint'),sc.get('visual_quality'),sc.get('hook'),sc.get('proof'),
-          s.get('confidence'),1 if s.get('human_review') else 0))
+        try:
+            sc=s.get('scores') if isinstance(s.get('scores'),dict) else {}
+            cl=s.get('action_climax') if isinstance(s.get('action_climax'),dict) else {}
+            cx.execute("INSERT OR REPLACE INTO segments VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)",
+             (f"{cid}-s{i+1:02d}",cid,s.get('t_start'),s.get('t_end'),json.dumps(s.get('creative_role')),s.get('creative_stage'),
+              s.get('process_step'),s.get('framing'),s.get('camera'),s.get('motion_level'),s.get('nail_position'),
+              json.dumps(s.get('text_safe_zones')),s.get('colour_finish') or d.get('colour_finish'),json.dumps(s.get('products_visible')),
+              json.dumps(s.get('claims_shown')),1 if s.get('safety_sensitive') else 0,s.get('durability_test'),
+              cl.get('t'),cl.get('action'),s.get('visual_fingerprint'),sc.get('visual_quality'),sc.get('hook'),sc.get('proof'),
+              s.get('confidence'),1 if s.get('human_review') else 0))
+        except Exception:
+            continue
     cx.commit()
 
 def main():

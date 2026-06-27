@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "path": "03_Removal/Dancing in Stars/IMG_2984.MOV",
+    "category": "removal",
+    "shade": "Dancing in Stars",
+    "duration": 5.7,
+    "tokens_in": 1441,
+    "tokens_out": 627,
+    "cost": 0.0078
+  },
+  "record": {
+    "clip_id": "IG-03-removal-dancing-in-stars-img-2984",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "Dancing in Stars",
+    "shade_matches_folder": true,
+    "colour_finish": "bare natural nails",
+    "shape": "round",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of bare natural nails after removal, inspecting a small spot of residue on the index finger.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 5.7,
+        "usable": {
+          "min": 0.0,
+          "max": 5.7,
+          "sweet_spot": 1.0,
+          "sweet_spot_end": 4.5
+        },
+        "action_climax": {
+          "t": 3.0,
+          "action": "thumb rubbing the residue on the index finger nail"
+        },
+        "creative_role": [
+          "problem",
+          "proof"
+        ],
+        "creative_stage": "Proof",
+        "process_step": "removal_cleanup",
+        "subject": "both_hands",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_studio",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "two hands close up, natural nails, thumb rubbing index finger nail with a small white residue spot under bright sunlight shadow",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 7,
+          "product_visibility": 3,
+          "hook": 4,
+          "proof": 6,
+          "standalone": 4,
+          "edit_flexibility": 6
+        },
+        "search_tags": [
+          "natural nails",
+          "after removal",
+          "nail health",
+          "glue residue",
+          "bare nails",
+          "removal cleanup"
+        ],
+        "confidence": 0.8,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

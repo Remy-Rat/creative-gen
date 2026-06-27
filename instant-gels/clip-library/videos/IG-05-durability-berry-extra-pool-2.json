@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "path": "05_Durability/Berry Extra_Pool 2.MOV",
+    "category": "durability",
+    "shade": "-",
+    "duration": 5.7,
+    "tokens_in": 1436,
+    "tokens_out": 612,
+    "cost": 0.0077
+  },
+  "record": {
+    "clip_id": "IG-05-durability-berry-extra-pool-2",
+    "product_line": "instant_gels",
+    "category": "durability",
+    "shade": "Berry Extra",
+    "shade_matches_folder": true,
+    "colour_finish": "bright berry pink glossy",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A hand with glossy berry pink almond nails is held over shimmering blue pool water.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 5.7,
+        "usable": {
+          "min": 0.0,
+          "max": 5.7,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 2.5,
+          "action": "hand held still over shimmering pool water showcasing the vibrant pink nails"
+        },
+        "creative_role": [
+          "lifestyle",
+          "proof"
+        ],
+        "creative_stage": "Lifestyle",
+        "process_step": "n/a",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "outdoor_pool",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "water",
+        "asmr_moments": [],
+        "visual_fingerprint": "A hand with bright berry pink almond nails and a silver heart ring hovering over clear blue pool water.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 8,
+          "hook": 8,
+          "proof": 6,
+          "standalone": 8,
+          "edit_flexibility": 9
+        },
+        "search_tags": [
+          "berry extra",
+          "pink nails",
+          "almond nails",
+          "pool water",
+          "waterproof",
+          "summer aesthetic",
+          "hand model",
+          "heart ring"
+        ],
+        "confidence": 1.0,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

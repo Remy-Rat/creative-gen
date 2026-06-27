@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "path": "03_Removal/All Eyes on Me/IMG_3826.MOV",
+    "category": "removal",
+    "shade": "All Eyes on Me",
+    "duration": 9.7,
+    "tokens_in": 1708,
+    "tokens_out": 645,
+    "cost": 0.0084
+  },
+  "record": {
+    "clip_id": "IG-03-removal-all-eyes-on-me-img-3826",
+    "product_line": "instant_gels",
+    "category": "removal",
+    "shade": "All Eyes on Me",
+    "shade_matches_folder": true,
+    "colour_finish": "nude glossy",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Model holds Glamrdip Remove solution and Heal cuticle oil bottles next to a white bowl.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 9.7,
+        "usable": {
+          "min": 0.0,
+          "max": 8.0,
+          "sweet_spot": 4.0
+        },
+        "action_climax": {
+          "t": 4.0,
+          "action": "holding remove and heal bottles steady"
+        },
+        "creative_role": [
+          "cta_support",
+          "transition"
+        ],
+        "creative_stage": "Transition",
+        "process_step": "removal_soak",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "indoor_daylight",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "remove_solution",
+          "heal_oil"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Hands with nude almond nails holding purple Glamrdip Remove bottle and small Heal oil bottle next to a white scalloped bowl under bright sunlight with sharp shadows.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 5,
+          "proof": 3,
+          "standalone": 6,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "removal products",
+          "remove solution",
+          "heal oil",
+          "nude nails",
+          "almond nails",
+          "scalloped bowl",
+          "sunlight shadow"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}
