@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "path": "01_Hooks & Attention Clips/Purple Cat Eye_Flowers 1.MOV",
+    "category": "hooks",
+    "shade": "-",
+    "duration": 5.4,
+    "tokens_in": 1374,
+    "tokens_out": 624,
+    "cost": 0.0077
+  },
+  "record": {
+    "clip_id": "IG-01-hooks-attention-clips-purple-cat-eye-flowers-1",
+    "product_line": "instant_gels",
+    "category": "hooks",
+    "shade": "Purple Cat Eye",
+    "shade_matches_folder": false,
+    "colour_finish": "purple cat eye shimmer",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of a hand with purple cat-eye almond nails resting on vibrant pink rhododendron flowers.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 5.4,
+        "usable": {
+          "min": 0.0,
+          "max": 5.4,
+          "sweet_spot": 1.0
+        },
+        "action_climax": {
+          "t": 0.0,
+          "action": "static display of shimmering cat-eye nails against pink flowers"
+        },
+        "creative_role": [
+          "hook",
+          "lifestyle"
+        ],
+        "creative_stage": "Hook",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "outdoor",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand with purple cat eye nails and diamond ring resting on pink rhododendron flowers",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 1,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "purple cat eye",
+          "almond nails",
+          "flowers",
+          "rhododendron",
+          "lifestyle hook",
+          "aesthetic nails",
+          "sparkle nails",
+          "spring nails"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

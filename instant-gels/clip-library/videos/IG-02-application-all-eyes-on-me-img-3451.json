@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "path": "02_Application/All Eyes on Me/IMG_3451.MOV",
+    "category": "application",
+    "shade": "All Eyes on Me",
+    "duration": 11.0,
+    "tokens_in": 2606,
+    "tokens_out": 625,
+    "cost": 0.0095
+  },
+  "record": {
+    "clip_id": "IG-02-application-all-eyes-on-me-img-3451",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "All Eyes on Me",
+    "shade_matches_folder": true,
+    "colour_finish": "glossy nude",
+    "shape": "almond",
+    "method": "glue",
+    "has_speech": false,
+    "summary": "Applying glue to the underside of an All Eyes on Me almond press-on nail.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 11.0,
+        "usable": {
+          "min": 0.0,
+          "max": 11.0,
+          "sweet_spot": 4.0
+        },
+        "action_climax": {
+          "t": 6.0,
+          "action": "squeezing glue onto the nail"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "glue_apply",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_bright",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "nailed_it_glue"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Hand holding nude almond nail while squeezing purple glue tube onto its underside.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": true,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 6,
+          "proof": 5,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "glue application",
+          "how to apply press ons",
+          "nude almond nails",
+          "nailed it glue"
+        ],
+        "confidence": 1.0,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

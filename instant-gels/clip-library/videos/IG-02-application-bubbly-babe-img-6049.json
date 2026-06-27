@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "path": "02_Application/Bubbly Babe/IMG_6049.MOV",
+    "category": "application",
+    "shade": "Bubbly Babe",
+    "duration": 18.5,
+    "tokens_in": 2302,
+    "tokens_out": 622,
+    "cost": 0.0091
+  },
+  "record": {
+    "clip_id": "IG-02-application-bubbly-babe-img-6049",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Bubbly Babe",
+    "shade_matches_folder": true,
+    "colour_finish": "sheer nude glossy",
+    "shape": "squoval",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Sizing a sheer nude press-on nail over a natural fingernail.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 18.5,
+        "usable": {
+          "min": 0.0,
+          "max": 18.5,
+          "sweet_spot": 2.0,
+          "sweet_spot_end": 16.0
+        },
+        "action_climax": {
+          "t": 6.0,
+          "action": "placing press-on nail over index finger to check size"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "size_match",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white table with harsh sunlight shadows",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand on right sizing sheer nude nail with tray on left under direct sunlight",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 5,
+          "proof": 4,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "sizing press on nails",
+          "bubbly babe",
+          "sheer nude nails",
+          "size matching",
+          "instant gels application"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "path": "02_Application/Dancing in Stars/IMG_2617.MOV",
+    "category": "application",
+    "shade": "Dancing in Stars",
+    "duration": 5.0,
+    "tokens_in": 1816,
+    "tokens_out": 610,
+    "cost": 0.0082
+  },
+  "record": {
+    "clip_id": "IG-02-application-dancing-in-stars-img-2617",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Dancing in Stars",
+    "shade_matches_folder": true,
+    "colour_finish": "silver glitter",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Pressing a silver glitter almond press-on nail onto the index finger.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 5.0,
+        "usable": {
+          "min": 0.0,
+          "max": 5.0,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 2.5,
+          "action": "releasing pressure to reveal the applied glitter nail"
+        },
+        "creative_role": [
+          "demo",
+          "reveal"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "press_hold",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "studio",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Silver glitter nail pressed onto index finger next to a clear tray of nails.",
+        "claims_shown": [
+          "press_on_and_go"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 6,
+          "proof": 7,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "silver glitter nail",
+          "almond press-on",
+          "nail application",
+          "pressing nail",
+          "dancing in stars"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "path": "02_Application/Purple Cat Eye/IMG_4325.MOV",
+    "category": "application",
+    "shade": "Purple Cat Eye",
+    "duration": 21.6,
+    "tokens_in": 2498,
+    "tokens_out": 675,
+    "cost": 0.0098
+  },
+  "record": {
+    "clip_id": "IG-02-application-purple-cat-eye-img-4325",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Purple Cat Eye",
+    "shade_matches_folder": true,
+    "colour_finish": "purple cat eye shimmer",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Cleansing a natural thumb nail with an alcohol prep pad next to a purple cat eye press-on set.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 21.6,
+        "usable": {
+          "min": 1.5,
+          "max": 20.0,
+          "sweet_spot": 3.0
+        },
+        "action_climax": {
+          "t": 3.0,
+          "action": "wiping the natural nail surface with the prep pad"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "prep_cleanse",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "white table with harsh sunlight shadow",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "prep_pad",
+          "press_on_set",
+          "cuticle_stick",
+          "smooth_moves_file"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 2.5,
+            "desc": "soft squeak of prep pad rubbing natural nail"
+          }
+        ],
+        "visual_fingerprint": "natural thumb nail being wiped with a white prep pad next to a purple cat eye press-on set",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 8,
+          "hook": 6,
+          "proof": 5,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "prep cleanse",
+          "alcohol wipe",
+          "nail prep",
+          "purple cat eye",
+          "natural nail",
+          "application prep"
+        ],
+        "confidence": 1.0,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

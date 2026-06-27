@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "path": "02_Application/Ruby Rush/IMG_1076.MOV",
+    "category": "application",
+    "shade": "Ruby Rush",
+    "duration": 8.8,
+    "tokens_in": 1636,
+    "tokens_out": 614,
+    "cost": 0.008
+  },
+  "record": {
+    "clip_id": "IG-02-application-ruby-rush-img-1076",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Ruby Rush",
+    "shade_matches_folder": true,
+    "colour_finish": "ruby red magnetic cat eye",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Both hands showing off Ruby Rush magnetic cat-eye almond nails shifting under direct sunlight.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 8.8,
+        "usable": {
+          "min": 0.0,
+          "max": 8.8,
+          "sweet_spot": 3.0
+        },
+        "action_climax": {
+          "t": 3.5,
+          "action": "hands shifting to catch the magnetic cat-eye shimmer in the sunlight"
+        },
+        "creative_role": [
+          "reveal",
+          "payoff"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "both_hands",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_daylight",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "both hands with deep red magnetic cat-eye almond nails shifting under direct sunlight on a white surface with a sharp shadow",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "ruby rush",
+          "cat eye nails",
+          "magnetic nails",
+          "almond nails",
+          "red shimmer nails",
+          "final reveal",
+          "sunlight shimmer"
+        ],
+        "confidence": 1.0,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

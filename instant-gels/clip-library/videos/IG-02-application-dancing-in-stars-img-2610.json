@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "path": "02_Application/Dancing in Stars/IMG_2610.MOV",
+    "category": "application",
+    "shade": "Dancing in Stars",
+    "duration": 25.0,
+    "tokens_in": 2696,
+    "tokens_out": 690,
+    "cost": 0.0103
+  },
+  "record": {
+    "clip_id": "IG-02-application-dancing-in-stars-img-2610",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Dancing in Stars",
+    "shade_matches_folder": true,
+    "colour_finish": "sheer pink nude",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Model holds a purple GLAMRDiP nail file against her natural thumb nail to demonstrate prep.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 25.0,
+        "usable": {
+          "min": 0.0,
+          "max": 25.0,
+          "sweet_spot": 3.0,
+          "sweet_spot_end": 20.0
+        },
+        "action_climax": {
+          "t": 3.0,
+          "action": "holding the purple file against the thumb nail"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "prep_buff",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white background with harsh sunlight shadow",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "smooth_moves_file",
+          "press_on_set",
+          "cuticle_stick"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "A close-up of a thumb with a natural nail, a purple GLAMRDiP nail file held next to it, and a tray of press-on nails in the background on a white surface with a sharp shadow.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 5,
+          "proof": 4,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "GLAMRDiP",
+          "prep",
+          "nail file",
+          "smooth moves file",
+          "natural nail",
+          "application prep",
+          "aesthetic shadow"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

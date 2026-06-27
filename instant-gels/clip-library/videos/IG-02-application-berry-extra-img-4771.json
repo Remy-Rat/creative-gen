@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "path": "02_Application/Berry Extra/IMG_4771.MOV",
+    "category": "application",
+    "shade": "Berry Extra",
+    "duration": 12.9,
+    "tokens_in": 2870,
+    "tokens_out": 674,
+    "cost": 0.0104
+  },
+  "record": {
+    "clip_id": "IG-02-application-berry-extra-img-4771",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Berry Extra",
+    "shade_matches_folder": true,
+    "colour_finish": "glossy berry red",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Demonstration of pressing and holding a glossy berry red press-on nail on the pinky finger.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 12.9,
+        "usable": {
+          "min": 0.0,
+          "max": 12.9,
+          "sweet_spot": 0.0,
+          "sweet_spot_end": 5.0
+        },
+        "action_climax": {
+          "t": 2.0,
+          "action": "pressing and holding the pinky nail"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "press_hold",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "studio",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "A hand with glossy berry red almond nails on a white surface next to a tray of matching press-on nails, with fingers pressing down on the pinky nail.",
+        "claims_shown": [
+          "press_on_and_go"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 6,
+          "proof": 7,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "berry extra",
+          "red nails",
+          "almond nails",
+          "press-on application",
+          "pressing nail",
+          "instant gels"
+        ],
+        "confidence": 1.0,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "path": "01_Hooks & Attention Clips/Shy But Extra_Flower 2.MOV",
+    "category": "hooks",
+    "shade": "-",
+    "duration": 5.2,
+    "tokens_in": 1375,
+    "tokens_out": 637,
+    "cost": 0.0078
+  },
+  "record": {
+    "clip_id": "IG-01-hooks-attention-clips-shy-but-extra-flower-2",
+    "product_line": "instant_gels",
+    "category": "hooks",
+    "shade": "Shy But Extra",
+    "shade_matches_folder": false,
+    "colour_finish": "pearl chrome white",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of a hand with pearl chrome almond nails holding a yellow dandelion flower outdoors.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 5.2,
+        "usable": {
+          "min": 0.0,
+          "max": 5.2,
+          "sweet_spot": 1.0
+        },
+        "action_climax": {
+          "t": 2.0,
+          "action": "holding yellow dandelion in bright sunlight"
+        },
+        "creative_role": [
+          "hook",
+          "lifestyle"
+        ],
+        "creative_stage": "Hook",
+        "process_step": "n/a",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "outdoor_nature",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "left",
+          "bottom_left",
+          "top_left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "A hand with pearl chrome almond nails holding a bright yellow dandelion flower against a blurry green foliage background in bright sunlight.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 8,
+          "hook": 8,
+          "proof": 3,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "pearl chrome nails",
+          "glazed donut nails",
+          "almond nails",
+          "holding flower",
+          "dandelion",
+          "outdoor aesthetic",
+          "spring nails",
+          "summer nails",
+          "sunlight"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

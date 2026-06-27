@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "path": "02_Application/Bubbly Babe/IMG_6039.MOV",
+    "category": "application",
+    "shade": "Bubbly Babe",
+    "duration": 23.8,
+    "tokens_in": 2632,
+    "tokens_out": 659,
+    "cost": 0.0099
+  },
+  "record": {
+    "clip_id": "IG-02-application-bubbly-babe-img-6039",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Bubbly Babe",
+    "shade_matches_folder": true,
+    "colour_finish": "nude glossy",
+    "shape": "round",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Using a wooden cuticle stick to push back the cuticle on a bare thumb nail.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 23.8,
+        "usable": {
+          "min": 1.5,
+          "max": 22.0,
+          "sweet_spot": 4.0
+        },
+        "action_climax": {
+          "t": 12.0,
+          "action": "pushing back cuticle with wooden stick"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "prep_pushback",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white table with bright sunlight",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "top",
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "cuticle_stick",
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 4.0,
+            "desc": "cuticle stick scraping nail"
+          }
+        ],
+        "visual_fingerprint": "Bare thumb prepped with wooden stick under bright sunlight, nude press-on tray in background.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 7,
+          "hook": 5,
+          "proof": 5,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "prep",
+          "cuticle stick",
+          "nail prep",
+          "pushing cuticles",
+          "bubbly babe",
+          "instant gels"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

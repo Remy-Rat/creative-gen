@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "path": "02_Application/Glaze Check/IMG_3046.MOV",
+    "category": "application",
+    "shade": "Glaze Check",
+    "duration": 8.6,
+    "tokens_in": 2343,
+    "tokens_out": 696,
+    "cost": 0.0098
+  },
+  "record": {
+    "clip_id": "IG-02-application-glaze-check-img-3046",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Glaze Check",
+    "shade_matches_folder": true,
+    "colour_finish": "sheer pearlescent pink",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Demonstrating the press and hold application step of a Glaze Check almond press-on nail on a thumb.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 8.6,
+        "usable": {
+          "min": 0.0,
+          "max": 8.6,
+          "sweet_spot": 1.0,
+          "sweet_spot_end": 8.0
+        },
+        "action_climax": {
+          "t": 3.0,
+          "action": "pressing and holding the press-on nail onto the thumb"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "press_hold",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white tabletop with bright sunlight and shadows",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "A thumb on the right side of the frame being pressed with a sheer pink almond press-on nail, with the rest of the set visible in its tray on the left under bright sunlight.",
+        "claims_shown": [
+          "press_on_and_go"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 8,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "glaze check",
+          "almond nails",
+          "press on application",
+          "press and hold",
+          "thumb nail",
+          "sheer pink",
+          "glazed nails"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

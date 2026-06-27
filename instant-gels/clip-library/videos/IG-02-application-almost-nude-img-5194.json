@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "path": "02_Application/Almost Nude/IMG_5194.MOV",
+    "category": "application",
+    "shade": "Almost Nude",
+    "duration": 4.0,
+    "tokens_in": 1308,
+    "tokens_out": 688,
+    "cost": 0.0082
+  },
+  "record": {
+    "clip_id": "IG-02-application-almost-nude-img-5194",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Almost Nude",
+    "shade_matches_folder": true,
+    "colour_finish": "nude glossy",
+    "shape": "round",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hands pulling an alcohol prep pad out of its purple packet next to a nude press-on nail set.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 4.0,
+        "usable": {
+          "min": 0.0,
+          "max": 4.0,
+          "sweet_spot": 1.0
+        },
+        "action_climax": {
+          "t": 1.5,
+          "action": "pulling the white prep pad completely out of the purple packet"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "prep_cleanse",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor bright natural light",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "bottom_left",
+          "top_left"
+        ],
+        "products_visible": [
+          "prep_pad",
+          "press_on_set",
+          "cuticle_stick",
+          "smooth_moves_file"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 0.5,
+            "desc": "Soft rustle of pulling the alcohol prep pad out of the paper packet"
+          }
+        ],
+        "visual_fingerprint": "Hands holding a purple GLAMRDiP prep pad packet in bright sunlight, pulling out a white wipe next to a tray of Almost Nude press-on nails",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 5,
+          "proof": 4,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "prep pad",
+          "alcohol wipe",
+          "nail prep",
+          "almost nude",
+          "instant gels",
+          "application tutorial",
+          "cleansing nail"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

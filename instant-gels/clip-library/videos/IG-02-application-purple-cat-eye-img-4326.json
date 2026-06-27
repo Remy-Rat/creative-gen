@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "path": "02_Application/Purple Cat Eye/IMG_4326.MOV",
+    "category": "application",
+    "shade": "Purple Cat Eye",
+    "duration": 9.8,
+    "tokens_in": 2470,
+    "tokens_out": 671,
+    "cost": 0.0097
+  },
+  "record": {
+    "clip_id": "IG-02-application-purple-cat-eye-img-4326",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Purple Cat Eye",
+    "shade_matches_folder": true,
+    "colour_finish": "purple cat eye shimmer",
+    "shape": "coffin",
+    "method": "glue",
+    "has_speech": false,
+    "summary": "Applying Nailed It Glue to the back of a Purple Cat Eye press-on nail.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 9.8,
+        "usable": {
+          "min": 0.0,
+          "max": 9.8,
+          "sweet_spot": 4.0
+        },
+        "action_climax": {
+          "t": 5.0,
+          "action": "squeezing glue onto the back of the press-on nail"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "glue_apply",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white background with soft shadows and a press-on set tray in the background",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "nailed_it_glue"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "A hand holding a purple cat-eye press-on nail while squeezing glue onto its underside, with a purple kit tray in the background.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": true,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 6,
+          "proof": 5,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "glue application",
+          "purple cat eye",
+          "instant gels",
+          "press-on nails",
+          "how to apply press-on nails",
+          "nail glue"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

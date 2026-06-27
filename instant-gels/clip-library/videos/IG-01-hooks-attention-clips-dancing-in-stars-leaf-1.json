@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "path": "01_Hooks & Attention Clips/Dancing in Stars_Leaf 1.MOV",
+    "category": "hooks",
+    "shade": "-",
+    "duration": 5.4,
+    "tokens_in": 1374,
+    "tokens_out": 631,
+    "cost": 0.0077
+  },
+  "record": {
+    "clip_id": "IG-01-hooks-attention-clips-dancing-in-stars-leaf-1",
+    "product_line": "instant_gels",
+    "category": "hooks",
+    "shade": "Dancing in Stars",
+    "shade_matches_folder": false,
+    "colour_finish": "glittery pink nude",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A close-up of a hand with sparkling glittery pink almond nails against a green leaf background.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 5.4,
+        "usable": {
+          "min": 0.0,
+          "max": 5.4,
+          "sweet_spot": 1.5
+        },
+        "action_climax": {
+          "t": 2.5,
+          "action": "hand turns to fully display the sparkling glittery nails in direct sunlight"
+        },
+        "creative_role": [
+          "hook",
+          "reveal",
+          "lifestyle"
+        ],
+        "creative_stage": "Hook",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "outdoor_garden",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand with glittery pink almond nails touching a green and yellow leaf, then turning to show the full manicure in sunlight",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 8,
+          "hook": 8,
+          "proof": 1,
+          "standalone": 8,
+          "edit_flexibility": 9
+        },
+        "search_tags": [
+          "glitter nails",
+          "pink glitter",
+          "almond nails",
+          "outdoor lighting",
+          "sunlight sparkle",
+          "nature background",
+          "hand model",
+          "aesthetic nails"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

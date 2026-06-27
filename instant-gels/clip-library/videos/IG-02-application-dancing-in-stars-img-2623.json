@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "path": "02_Application/Dancing in Stars/IMG_2623.MOV",
+    "category": "application",
+    "shade": "Dancing in Stars",
+    "duration": 8.2,
+    "tokens_in": 2208,
+    "tokens_out": 635,
+    "cost": 0.009
+  },
+  "record": {
+    "clip_id": "IG-02-application-dancing-in-stars-img-2623",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Dancing in Stars",
+    "shade_matches_folder": true,
+    "colour_finish": "silver glitter shimmer",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hand with silver glitter nails next to kit, pinching pinky cuticle to show seamless fit.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 8.2,
+        "usable": {
+          "min": 0.0,
+          "max": 8.2,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 3.5,
+          "action": "pinching pinky nail cuticle"
+        },
+        "creative_role": [
+          "reveal",
+          "demo"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white surface with kit tray",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Silver glitter almond nails next to clear plastic tray on white background.",
+        "claims_shown": [
+          "zero_edge"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 6,
+          "proof": 7,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "silver glitter nails",
+          "almond press ons",
+          "cuticle fit",
+          "dancing in stars",
+          "glamrdip instant gels"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

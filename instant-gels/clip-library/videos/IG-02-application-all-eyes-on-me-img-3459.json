@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "path": "02_Application/All Eyes on Me/IMG_3459.MOV",
+    "category": "application",
+    "shade": "All Eyes on Me",
+    "duration": 7.4,
+    "tokens_in": 1510,
+    "tokens_out": 652,
+    "cost": 0.0081
+  },
+  "record": {
+    "clip_id": "IG-02-application-all-eyes-on-me-img-3459",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "All Eyes on Me",
+    "shade_matches_folder": true,
+    "colour_finish": "magnetic shimmer nude",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hand tilting thumb to show shifting shimmer effect of All Eyes on Me press-on nail.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 7.4,
+        "usable": {
+          "min": 0.0,
+          "max": 7.4,
+          "sweet_spot": 1.0,
+          "sweet_spot_end": 6.0
+        },
+        "action_climax": {
+          "t": 2.0,
+          "action": "shimmer effect shifting in direct sunlight"
+        },
+        "creative_role": [
+          "reveal",
+          "payoff",
+          "lifestyle"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor daylight",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left",
+          "top_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Thumb with shimmering nude cat-eye nail tilting in direct sunlight, casting a shadow, with a tray of press-on nails in the background.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "cat eye nail",
+          "shimmer press on",
+          "all eyes on me",
+          "almond nails",
+          "nude shimmer",
+          "velvet nails",
+          "magnetic gel nails"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

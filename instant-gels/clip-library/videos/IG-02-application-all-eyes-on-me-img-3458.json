@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "path": "02_Application/All Eyes on Me/IMG_3458.MOV",
+    "category": "application",
+    "shade": "All Eyes on Me",
+    "duration": 16.6,
+    "tokens_in": 3404,
+    "tokens_out": 690,
+    "cost": 0.0113
+  },
+  "record": {
+    "clip_id": "IG-02-application-all-eyes-on-me-img-3458",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "All Eyes on Me",
+    "shade_matches_folder": true,
+    "colour_finish": "shimmering champagne pink",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of hand pressing down on a shimmering champagne pink almond press-on nail to secure the bond.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 16.6,
+        "usable": {
+          "min": 0.0,
+          "max": 16.6,
+          "sweet_spot": 1.0
+        },
+        "action_climax": {
+          "t": 5.0,
+          "action": "pressing down firmly on the pinky nail cuticle area"
+        },
+        "creative_role": [
+          "demo",
+          "proof"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "press_hold",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white background with harsh sunlight shadow",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand with shimmering cat-eye almond nails on the right, pressing the pinky nail, with the clear plastic nail tray on the left under bright sunlight",
+        "claims_shown": [
+          "press_on_and_go"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 8,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "all eyes on me",
+          "shimmer nails",
+          "cat eye nails",
+          "velvet nails",
+          "pressing on nail",
+          "application demo",
+          "almond nails",
+          "neutral shimmer"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

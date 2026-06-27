@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "path": "02_Application/Dancing in Stars/IMG_2627.MOV",
+    "category": "application",
+    "shade": "Dancing in Stars",
+    "duration": 7.1,
+    "tokens_in": 1507,
+    "tokens_out": 617,
+    "cost": 0.0078
+  },
+  "record": {
+    "clip_id": "IG-02-application-dancing-in-stars-img-2627",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Dancing in Stars",
+    "shade_matches_folder": true,
+    "colour_finish": "glittery champagne nude",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hand shows single glittery thumb nail, then rotates to reveal full set next to packaging.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 7.1,
+        "usable": {
+          "min": 0.0,
+          "max": 7.1,
+          "sweet_spot": 4.5
+        },
+        "action_climax": {
+          "t": 5.5,
+          "action": "hand rotates to reveal full set of glittery nails"
+        },
+        "creative_role": [
+          "reveal",
+          "payoff"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "bright indoor studio with soft shadows",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Glittery champagne almond nails shown next to a clear plastic nail tray under bright light.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "glitter nails",
+          "champagne glitter",
+          "almond nails",
+          "final reveal",
+          "dancing in stars"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

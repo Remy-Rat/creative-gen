@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "path": "02_Application/Berry Extra/IMG_4764.MOV",
+    "category": "application",
+    "shade": "Berry Extra",
+    "duration": 10.8,
+    "tokens_in": 2606,
+    "tokens_out": 678,
+    "cost": 0.01
+  },
+  "record": {
+    "clip_id": "IG-02-application-berry-extra-img-4764",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Berry Extra",
+    "shade_matches_folder": true,
+    "colour_finish": "glossy berry red",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Pressing a glossy berry red instant gel nail onto a bare thumb next to the product tray.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 10.8,
+        "usable": {
+          "min": 0.0,
+          "max": 10.8,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 9.0,
+          "action": "final reveal of the applied glossy berry nail on the thumb"
+        },
+        "creative_role": [
+          "demo",
+          "reveal"
+        ],
+        "creative_stage": "Transformation",
+        "process_step": "press_hold",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "short",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 2.5,
+            "desc": "skin contact and pressing sound"
+          }
+        ],
+        "visual_fingerprint": "A bare thumb nail on the right gets a glossy berry red press-on nail applied and pressed down, with a tray of matching pink nails on the left under bright sunlight shadow.",
+        "claims_shown": [
+          "press_on_and_go"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 8,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "berry extra",
+          "application",
+          "press on",
+          "pink nails",
+          "nail application",
+          "asmr",
+          "close up"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

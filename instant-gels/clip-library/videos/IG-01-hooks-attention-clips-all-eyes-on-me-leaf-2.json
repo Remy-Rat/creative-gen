@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "path": "01_Hooks & Attention Clips/All Eyes on Me_Leaf 2.MOV",
+    "category": "hooks",
+    "shade": "-",
+    "duration": 4.8,
+    "tokens_in": 1377,
+    "tokens_out": 607,
+    "cost": 0.0075
+  },
+  "record": {
+    "clip_id": "IG-01-hooks-attention-clips-all-eyes-on-me-leaf-2",
+    "product_line": "instant_gels",
+    "category": "hooks",
+    "shade": "All Eyes on Me",
+    "shade_matches_folder": false,
+    "colour_finish": "pearl chrome",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of iridescent pearl chrome almond nails touching vibrant green leaves in bright outdoor sunlight.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 4.8,
+        "usable": {
+          "min": 0.0,
+          "max": 4.8,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 2.5,
+          "action": "Extreme close-up of the thumb nail showcasing the pearl chrome finish against a green leaf"
+        },
+        "creative_role": [
+          "hook",
+          "lifestyle"
+        ],
+        "creative_stage": "Hook",
+        "process_step": "n/a",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "outdoor_garden",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Hand with pearl chrome nails touching bright green leaves outdoors, white sleeve visible.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 8,
+          "hook": 8,
+          "proof": 2,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "pearl chrome nails",
+          "almond nails",
+          "outdoor aesthetic",
+          "nature hook",
+          "all eyes on me",
+          "glamrdip instant gels"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

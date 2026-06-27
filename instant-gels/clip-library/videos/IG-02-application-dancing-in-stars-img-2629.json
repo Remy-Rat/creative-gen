@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "path": "02_Application/Dancing in Stars/IMG_2629.MOV",
+    "category": "application",
+    "shade": "Dancing in Stars",
+    "duration": 5.3,
+    "tokens_in": 1375,
+    "tokens_out": 638,
+    "cost": 0.0078
+  },
+  "record": {
+    "clip_id": "IG-02-application-dancing-in-stars-img-2629",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Dancing in Stars",
+    "shade_matches_folder": true,
+    "colour_finish": "glittery champagne nude",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hand enters frame to reveal a completed glittery champagne almond manicure next to its packaging.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 5.3,
+        "usable": {
+          "min": 0.0,
+          "max": 5.3,
+          "sweet_spot": 1.5
+        },
+        "action_climax": {
+          "t": 1.5,
+          "action": "hand flattens to fully reveal the glittery manicure"
+        },
+        "creative_role": [
+          "reveal",
+          "payoff"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "bright sunlit white tabletop",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Glittery almond nails on a hand entering from the right next to a clear plastic press-on tray under harsh sunlight.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "glitter nails",
+          "champagne glitter",
+          "almond press-ons",
+          "final reveal",
+          "sunlight aesthetic",
+          "nail tray"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

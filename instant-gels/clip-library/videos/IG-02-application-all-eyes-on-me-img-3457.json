@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "path": "02_Application/All Eyes on Me/IMG_3457.MOV",
+    "category": "application",
+    "shade": "All Eyes on Me",
+    "duration": 12.1,
+    "tokens_in": 2744,
+    "tokens_out": 688,
+    "cost": 0.0103
+  },
+  "record": {
+    "clip_id": "IG-02-application-all-eyes-on-me-img-3457",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "All Eyes on Me",
+    "shade_matches_folder": true,
+    "colour_finish": "shimmering champagne nude",
+    "shape": "almond",
+    "method": "tabs",
+    "has_speech": false,
+    "summary": "Close-up of pressing down a shimmering champagne almond press-on nail under bright, direct sunlight.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 12.1,
+        "usable": {
+          "min": 0.0,
+          "max": 12.1,
+          "sweet_spot": 1.0,
+          "sweet_spot_end": 11.0
+        },
+        "action_climax": {
+          "t": 3.0,
+          "action": "pressing down firmly on the index finger nail to secure the press-on"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "press_hold",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_daylight",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left",
+          "top_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "A hand with shimmering champagne almond nails being pressed down, with a tray of press-on nails in the background under bright sunlight.",
+        "claims_shown": [
+          "press_on_and_go"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 8,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "press on nails application",
+          "all eyes on me",
+          "shimmer nails",
+          "almond nails",
+          "press and hold",
+          "sunlight aesthetic"
+        ],
+        "confidence": 1.0,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

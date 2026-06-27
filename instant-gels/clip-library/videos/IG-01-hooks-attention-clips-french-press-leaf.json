@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "path": "01_Hooks & Attention Clips/French Press_Leaf.MOV",
+    "category": "hooks",
+    "shade": "-",
+    "duration": 4.4,
+    "tokens_in": 1301,
+    "tokens_out": 609,
+    "cost": 0.0074
+  },
+  "record": {
+    "clip_id": "IG-01-hooks-attention-clips-french-press-leaf",
+    "product_line": "instant_gels",
+    "category": "hooks",
+    "shade": "French Press",
+    "shade_matches_folder": false,
+    "colour_finish": "french manicure glossy",
+    "shape": "squoval",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A hand with a French manicure press-on nail set touches a green leaf outdoors in bright sunlight.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 4.4,
+        "usable": {
+          "min": 0.0,
+          "max": 4.4,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 2.5,
+          "action": "hand turns to fully display the French manicure nails against the green leaf background"
+        },
+        "creative_role": [
+          "hook",
+          "lifestyle"
+        ],
+        "creative_stage": "Hook",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "outdoors",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand with French manicure touching a green leaf in bright sunlight, wearing a white sleeve",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 3,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "french manicure",
+          "french press",
+          "outdoor lighting",
+          "sunlight",
+          "green leaf",
+          "aesthetic nails",
+          "squoval nails",
+          "white tips"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

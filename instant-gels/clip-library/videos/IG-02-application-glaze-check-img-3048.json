@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "path": "02_Application/Glaze Check/IMG_3048.MOV",
+    "category": "application",
+    "shade": "Glaze Check",
+    "duration": 12.0,
+    "tokens_in": 2736,
+    "tokens_out": 649,
+    "cost": 0.0099
+  },
+  "record": {
+    "clip_id": "IG-02-application-glaze-check-img-3048",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Glaze Check",
+    "shade_matches_folder": true,
+    "colour_finish": "pearl chrome pink",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hand with Glaze Check almond nails having the cuticle edge pressed to show a seamless fit.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 12.0,
+        "usable": {
+          "min": 0.0,
+          "max": 12.0,
+          "sweet_spot": 3.5
+        },
+        "action_climax": {
+          "t": 3.5,
+          "action": "pinching cuticle edge of index nail to show seamless fit"
+        },
+        "creative_role": [
+          "demo",
+          "proof"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "position_at_cuticle",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor bright natural light with shadows",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Right hand with almond Glaze Check nails on white surface, box on left.",
+        "claims_shown": [
+          "zero_edge"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 6,
+          "proof": 8,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "glaze check",
+          "almond nails",
+          "cuticle fit",
+          "seamless application",
+          "press on nails",
+          "pink chrome"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

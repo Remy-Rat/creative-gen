@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "path": "02_Application/Dancing in Stars/IMG_2630.MOV",
+    "category": "application",
+    "shade": "Dancing in Stars",
+    "duration": 5.4,
+    "tokens_in": 1375,
+    "tokens_out": 615,
+    "cost": 0.0076
+  },
+  "record": {
+    "clip_id": "IG-02-application-dancing-in-stars-img-2630",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Dancing in Stars",
+    "shade_matches_folder": true,
+    "colour_finish": "silver glitter shimmer",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of both hands showcasing sparkly silver glitter almond press-on nails over the kit box.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 5.4,
+        "usable": {
+          "min": 0.0,
+          "max": 5.4,
+          "sweet_spot": 1.5
+        },
+        "action_climax": {
+          "t": 2.0,
+          "action": "hands shifting slightly to catch the light on the glitter finish"
+        },
+        "creative_role": [
+          "reveal",
+          "payoff"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "both_hands",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor studio lighting",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Both hands crossed showing silver glitter almond nails over a clear plastic nail organizer box.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "glitter nails",
+          "silver shimmer",
+          "almond nails",
+          "final reveal",
+          "hand model",
+          "sparkly press-ons"
+        ],
+        "confidence": 1.0,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

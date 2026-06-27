@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "path": "02_Application/Cinammon Spice/IMG_2155.MOV",
+    "category": "application",
+    "shade": "Cinammon Spice",
+    "duration": 13.1,
+    "tokens_in": 1905,
+    "tokens_out": 680,
+    "cost": 0.009
+  },
+  "record": {
+    "clip_id": "IG-02-application-cinammon-spice-img-2155",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Cinnamon Spice",
+    "shade_matches_folder": true,
+    "colour_finish": "metallic copper chrome",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Filing natural thumb nail edge with a purple GLAMRDIP file during prep, with Cinnamon Spice nails in background.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 13.1,
+        "usable": {
+          "min": 0.0,
+          "max": 12.0,
+          "sweet_spot": 1.5
+        },
+        "action_climax": {
+          "t": 1.5,
+          "action": "filing the edge of the natural thumb nail"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "prep_shape",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_bright",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "top",
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "smooth_moves_file",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 1.2,
+            "desc": "scratchy sound of nail file on natural nail edge"
+          }
+        ],
+        "visual_fingerprint": "close up of thumb nail being filed with purple GLAMRDIP file, copper nails in tray on left",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 5,
+          "proof": 4,
+          "standalone": 6,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "nail prep",
+          "filing nails",
+          "purple nail file",
+          "cinnamon spice",
+          "metallic copper nails",
+          "prep step"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

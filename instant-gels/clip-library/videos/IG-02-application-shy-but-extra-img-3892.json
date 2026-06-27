@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "path": "02_Application/Shy But Extra/IMG_3892.MOV",
+    "category": "application",
+    "shade": "Shy But Extra",
+    "duration": 17.2,
+    "tokens_in": 3402,
+    "tokens_out": 628,
+    "cost": 0.0108
+  },
+  "record": {
+    "clip_id": "IG-02-application-shy-but-extra-img-3892",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Shy But Extra",
+    "shade_matches_folder": true,
+    "colour_finish": "pearl chrome",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of hands pressing down a pearl chrome almond press-on nail near the cuticle.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 17.2,
+        "usable": {
+          "min": 0.0,
+          "max": 17.2,
+          "sweet_spot": 3.0
+        },
+        "action_climax": {
+          "t": 3.0,
+          "action": "pressing down on the cuticle of the middle finger nail"
+        },
+        "creative_role": [
+          "demo",
+          "proof"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "press_hold",
+        "subject": "both_hands",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "short",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Pearl chrome almond nails on a hand with another hand pressing the cuticle area, tray in background",
+        "claims_shown": [
+          "press_on_and_go"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 6,
+          "proof": 7,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "shy but extra",
+          "pearl chrome",
+          "almond nails",
+          "press on application",
+          "pressing nail",
+          "cuticle fit"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

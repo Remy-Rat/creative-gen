@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "path": "02_Application/French Press/IMG_5604.MOV",
+    "category": "application",
+    "shade": "French Press",
+    "duration": 3.3,
+    "tokens_in": 1240,
+    "tokens_out": 622,
+    "cost": 0.0075
+  },
+  "record": {
+    "clip_id": "IG-02-application-french-press-img-5604",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "French Press",
+    "shade_matches_folder": true,
+    "colour_finish": "glossy french manicure with nude base and white tips",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A hand holds an opened purple prep pad packet over a French Press instant gel kit box.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 3.3,
+        "usable": {
+          "min": 0.0,
+          "max": 3.3,
+          "sweet_spot": 1.5
+        },
+        "action_climax": {
+          "t": 1.0,
+          "action": "holding open prep pad packet"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "prep_cleanse",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_bright",
+        "nail_position": "bottom_right",
+        "text_safe_zones": [
+          "top",
+          "left"
+        ],
+        "products_visible": [
+          "prep_pad",
+          "press_on_set",
+          "cuticle_stick",
+          "smooth_moves_file"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand holding purple prep pad packet over french press nail kit in bright sunlight",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 4,
+          "proof": 3,
+          "standalone": 5,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "prep pad",
+          "alcohol wipe",
+          "french press",
+          "nail prep",
+          "application prep",
+          "prep cleanse",
+          "purple packet"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

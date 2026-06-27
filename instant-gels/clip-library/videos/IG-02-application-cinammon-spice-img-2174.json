@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "path": "02_Application/Cinammon Spice/IMG_2174.MOV",
+    "category": "application",
+    "shade": "Cinammon Spice",
+    "duration": 4.3,
+    "tokens_in": 1310,
+    "tokens_out": 638,
+    "cost": 0.0077
+  },
+  "record": {
+    "clip_id": "IG-02-application-cinammon-spice-img-2174",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Cinnamon Spice",
+    "shade_matches_folder": true,
+    "colour_finish": "bronze magnetic cat-eye shimmer",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hand tilts to showcase the shifting magnetic cat-eye effect on bronze almond nails next to packaging.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 4.3,
+        "usable": {
+          "min": 0.0,
+          "max": 4.3,
+          "sweet_spot": 1.0,
+          "sweet_spot_end": 3.5
+        },
+        "action_climax": {
+          "t": 1.5,
+          "action": "hand tilts to shift the magnetic cat-eye light reflection"
+        },
+        "creative_role": [
+          "reveal",
+          "payoff"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "studio_white",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "cuticle_stick"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Bronze magnetic cat-eye almond nails tilting under direct light next to plastic tray",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "cat eye nails",
+          "magnetic nails",
+          "cinnamon spice",
+          "almond nails",
+          "brown shimmer nails",
+          "nail reveal",
+          "press-on nails"
+        ],
+        "confidence": 1.0,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

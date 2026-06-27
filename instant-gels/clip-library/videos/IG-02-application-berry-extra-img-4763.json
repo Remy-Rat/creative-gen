@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "path": "02_Application/Berry Extra/IMG_4763.MOV",
+    "category": "application",
+    "shade": "Berry Extra",
+    "duration": 4.0,
+    "tokens_in": 1306,
+    "tokens_out": 624,
+    "cost": 0.0076
+  },
+  "record": {
+    "clip_id": "IG-02-application-berry-extra-img-4763",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Berry Extra",
+    "shade_matches_folder": true,
+    "colour_finish": "glossy berry red",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Sizing a glossy berry red press-on nail over a bare thumb with the set tray in background.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 4.0,
+        "usable": {
+          "min": 0.0,
+          "max": 4.0,
+          "sweet_spot": 1.5
+        },
+        "action_climax": {
+          "t": 1.5,
+          "action": "placing the press-on nail over the bare thumb"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "size_match",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white background with bright sunlight shadow",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "top",
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Bare thumb on right, bright pink press-on tray on left, hand placing a single pink nail over thumb.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 6,
+          "proof": 5,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "berry extra",
+          "sizing",
+          "application demo",
+          "press-on nails",
+          "almond shape",
+          "pink nails"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "path": "02_Application/Ruby Rush/IMG_1066.MOV",
+    "category": "application",
+    "shade": "Ruby Rush",
+    "duration": 12.1,
+    "tokens_in": 2738,
+    "tokens_out": 653,
+    "cost": 0.01
+  },
+  "record": {
+    "clip_id": "IG-02-application-ruby-rush-img-1066",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Ruby Rush",
+    "shade_matches_folder": true,
+    "colour_finish": "ruby red magnetic cat-eye",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Stop-motion magic application of Ruby Rush red magnetic cat-eye press-on nails.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 12.1,
+        "usable": {
+          "min": 0.0,
+          "max": 12.1,
+          "sweet_spot": 5.0
+        },
+        "action_climax": {
+          "t": 5.0,
+          "action": "instant transition to applied red cat-eye nail"
+        },
+        "creative_role": [
+          "hook",
+          "transition",
+          "demo"
+        ],
+        "creative_stage": "Transition",
+        "process_step": "press_hold",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "white surface with harsh shadow",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Stop-motion transitions between bare nail and red magnetic cat-eye nail under direct sunlight shadow.",
+        "claims_shown": [
+          "press_on_and_go"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 5,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "ruby rush",
+          "cat eye nails",
+          "magnetic red",
+          "stop motion application",
+          "magic transition",
+          "press on nails"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

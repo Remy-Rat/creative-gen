@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "path": "04_Product Shots/Unboxing/Adhesives.MOV",
+    "category": "product_shots",
+    "shade": "Unboxing",
+    "duration": 9.6,
+    "tokens_in": 2466,
+    "tokens_out": 721,
+    "cost": 0.0102
+  },
+  "record": {
+    "clip_id": "IG-04-product-shots-unboxing-adhesives",
+    "product_line": "instant_gels",
+    "category": "product_shots",
+    "shade": "n/a",
+    "shade_matches_folder": false,
+    "colour_finish": "n/a",
+    "shape": "unknown",
+    "method": "tabs",
+    "has_speech": false,
+    "summary": "Close-up of hands holding and displaying GLAMRDiP adhesive tabs and a mini glue tube under bright sunlight.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 9.6,
+        "usable": {
+          "min": 0.0,
+          "max": 9.6,
+          "sweet_spot": 1.5,
+          "sweet_spot_end": 7.5
+        },
+        "action_climax": {
+          "t": 1.5,
+          "action": "holding up the mini glue tube next to the adhesive tabs sheet"
+        },
+        "creative_role": [
+          "cta_support"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "n/a",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_daylight",
+        "nail_position": "none",
+        "text_safe_zones": [
+          "top",
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "adhesive_tabs",
+          "nailed_it_glue",
+          "prep_pad",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 1.0,
+            "desc": "soft plastic rustling and handling sounds"
+          }
+        ],
+        "visual_fingerprint": "hands holding a sheet of clear adhesive tabs and a purple mini glue tube over a purple kit box in bright sunlight",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": true,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 5,
+          "proof": 4,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "adhesive tabs",
+          "nail glue",
+          "unboxing",
+          "kit contents",
+          "press-on accessories",
+          "application options",
+          "glamrdip instant gels"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

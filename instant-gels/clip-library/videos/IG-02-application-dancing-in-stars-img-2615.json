@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "path": "02_Application/Dancing in Stars/IMG_2615.MOV",
+    "category": "application",
+    "shade": "Dancing in Stars",
+    "duration": 19.5,
+    "tokens_in": 2366,
+    "tokens_out": 628,
+    "cost": 0.0092
+  },
+  "record": {
+    "clip_id": "IG-02-application-dancing-in-stars-img-2615",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Dancing in Stars",
+    "shade_matches_folder": true,
+    "colour_finish": "glittery champagne nude",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Dry-fitting a glittery champagne almond press-on nail onto the thumb cuticle.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 19.5,
+        "usable": {
+          "min": 0.0,
+          "max": 19.5,
+          "sweet_spot": 1.0,
+          "sweet_spot_end": 18.0
+        },
+        "action_climax": {
+          "t": 2.0,
+          "action": "pressing nail onto thumb cuticle"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "position_at_cuticle",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white table with sunlight shadow",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hands dry-fitting a glittery almond nail on thumb over a white background with a nail tray",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "glitter press on",
+          "almond nail application",
+          "cuticle alignment",
+          "dancing in stars",
+          "nude glitter nails"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

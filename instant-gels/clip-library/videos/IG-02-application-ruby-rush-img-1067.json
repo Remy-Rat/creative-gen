@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "path": "02_Application/Ruby Rush/IMG_1067.MOV",
+    "category": "application",
+    "shade": "Ruby Rush",
+    "duration": 30.5,
+    "tokens_in": 5246,
+    "tokens_out": 668,
+    "cost": 0.0139
+  },
+  "record": {
+    "clip_id": "IG-02-application-mystic-mirage-img-1067",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Mystic Mirage",
+    "shade_matches_folder": false,
+    "colour_finish": "red black magnetic cat eye",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Demonstrating the alignment and application of a red magnetic cat-eye press-on nail on a bare index finger.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 30.5,
+        "usable": {
+          "min": 0.0,
+          "max": 30.5,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 9.5,
+          "action": "pressing the nail firmly onto the index finger"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "position_at_cuticle",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor studio",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Red magnetic cat-eye nails on hand, index finger bare, placing loose nail on index finger next to Mystic Mirage box.",
+        "claims_shown": [
+          "press_on_and_go"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 6,
+          "proof": 7,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "mystic mirage",
+          "cat eye nails",
+          "magnetic red nails",
+          "application demo",
+          "dry fit",
+          "press on alignment"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

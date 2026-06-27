@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "path": "02_Application/Bubbly Babe/IMG_6048.MOV",
+    "category": "application",
+    "shade": "Bubbly Babe",
+    "duration": 19.2,
+    "tokens_in": 3663,
+    "tokens_out": 691,
+    "cost": 0.0117
+  },
+  "record": {
+    "clip_id": "IG-02-application-bubbly-babe-img-6048",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Bubbly Babe",
+    "shade_matches_folder": true,
+    "colour_finish": "nude glossy with subtle shimmer",
+    "shape": "squoval",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Demonstrating the seamless cuticle fit of Bubbly Babe squoval press-on nails under bright sunlight.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 19.2,
+        "usable": {
+          "min": 0.0,
+          "max": 19.2,
+          "sweet_spot": 1.0
+        },
+        "action_climax": {
+          "t": 2.0,
+          "action": "placing the instant gel nail at the cuticle of the thumb to demonstrate fit"
+        },
+        "creative_role": [
+          "demo",
+          "proof"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "size_match",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_sunlight",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "A thumb with a nude squoval nail is shown, with a hand placing a matching nail tip over it to demonstrate cuticle fit, next to a kit box in bright sunlight.",
+        "claims_shown": [
+          "zero_edge"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 8,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "bubbly babe",
+          "squoval",
+          "size match",
+          "cuticle fit",
+          "zero edge",
+          "nude nails",
+          "application demo"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

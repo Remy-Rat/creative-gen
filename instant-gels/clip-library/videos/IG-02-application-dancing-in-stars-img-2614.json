@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "path": "02_Application/Dancing in Stars/IMG_2614.MOV",
+    "category": "application",
+    "shade": "Dancing in Stars",
+    "duration": 15.5,
+    "tokens_in": 3131,
+    "tokens_out": 651,
+    "cost": 0.0106
+  },
+  "record": {
+    "clip_id": "IG-02-application-dancing-in-stars-img-2614",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Dancing in Stars",
+    "shade_matches_folder": true,
+    "colour_finish": "sheer pink with micro-shimmer",
+    "shape": "almond",
+    "method": "glue",
+    "has_speech": false,
+    "summary": "Applying glue to a natural thumb nail with a tray of sheer pink press-on nails nearby.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 15.5,
+        "usable": {
+          "min": 0.0,
+          "max": 15.5,
+          "sweet_spot": 3.0
+        },
+        "action_climax": {
+          "t": 6.0,
+          "action": "squeezing glue droplet onto natural nail"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "glue_apply",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white table with direct sunlight shadow",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "top",
+          "left"
+        ],
+        "products_visible": [
+          "nailed_it_glue",
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Squeezing glue from purple tube onto natural thumb nail next to a tray of sheer pink nails.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": true,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 5,
+          "proof": 4,
+          "standalone": 5,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "glue application",
+          "nail prep",
+          "how to apply press ons",
+          "sheer pink nails",
+          "dancing in stars",
+          "nailed it glue"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

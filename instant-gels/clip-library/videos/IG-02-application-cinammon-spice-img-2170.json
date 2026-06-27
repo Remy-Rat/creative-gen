@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "path": "02_Application/Cinammon Spice/IMG_2170.MOV",
+    "category": "application",
+    "shade": "Cinammon Spice",
+    "duration": 12.5,
+    "tokens_in": 2874,
+    "tokens_out": 648,
+    "cost": 0.0101
+  },
+  "record": {
+    "clip_id": "IG-02-application-cinammon-spice-img-2170",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Cinnamon Spice",
+    "shade_matches_folder": true,
+    "colour_finish": "magnetic bronze cat eye",
+    "shape": "almond",
+    "method": "glue",
+    "has_speech": false,
+    "summary": "Close-up of pressing down a magnetic bronze cat-eye press-on nail to secure the bond.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 12.5,
+        "usable": {
+          "min": 0.0,
+          "max": 12.5,
+          "sweet_spot": 1.0
+        },
+        "action_climax": {
+          "t": 2.0,
+          "action": "pressing down firmly on the cat-eye nail to secure the bond"
+        },
+        "creative_role": [
+          "demo",
+          "proof"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "press_hold",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "studio",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "A hand with shimmering magnetic bronze almond nails being pressed down by fingers, with the product tray visible on the left under bright sunlight.",
+        "claims_shown": [
+          "press_on_and_go"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 8,
+          "standalone": 8,
+          "edit_flexibility": 9
+        },
+        "search_tags": [
+          "Cinnamon Spice",
+          "cat eye nails",
+          "magnetic nails",
+          "pressing press on",
+          "application demo",
+          "almond nails",
+          "brown glitter nails"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

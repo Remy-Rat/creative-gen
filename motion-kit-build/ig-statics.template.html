@@ -1,0 +1,212 @@
+<title>Instant Gels — Static Ad Concepts (trial)</title>
+<meta name="description" content="A trial board of static ecommerce ad concepts for GLAMRDiP Instant Gels, over real product frames.">
+<style>
+:root{
+ --paper:#efe9f2;--paper2:#e6dded;--ink:#241a2c;--ink2:#4a3d57;--mut:#7c6f8a;
+ --plum:#6b3fa0;--plum-deep:#4a2b71;--lilac:#b98fe0;--lilac-soft:#efe2fb;
+ --gold:#b78a32;--gold-soft:#e7c47d;--cream:#fbf7f2;--mint:#1f7a5a;--rose:#d2557a;
+ --serif:Georgia,"Times New Roman",serif;--sans:"Helvetica Neue",Helvetica,Arial,sans-serif;
+ --ui:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;--mono:ui-monospace,Menlo,monospace;
+}
+*{box-sizing:border-box}
+body{margin:0;background:radial-gradient(120% 70% at 50% 0%,#f6f1f8,var(--paper) 60%);color:var(--ink);font-family:var(--ui);-webkit-font-smoothing:antialiased;line-height:1.5}
+.wrap{max-width:1180px;margin:0 auto;padding:0 22px}
+header{padding:52px 0 26px;border-bottom:1px solid #ddd1e6}
+.eyebrow{margin:0 0 14px;color:var(--plum);font:12px var(--mono);letter-spacing:.3em;text-transform:uppercase}
+h1{margin:0;font:800 clamp(32px,5.5vw,54px)/1 var(--sans);letter-spacing:-.03em}
+.lede{max-width:64ch;margin:16px 0 0;color:var(--ink2);font-size:16px}
+.note{margin-top:16px;padding:10px 14px;border-left:3px solid var(--gold);background:#fff;border-radius:0 10px 10px 0;font-size:13px;color:var(--ink2)}
+.board{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:30px 26px;padding:34px 0 70px}
+figure.item{margin:0;display:flex;flex-direction:column;gap:11px}
+.cap{display:flex;align-items:baseline;gap:9px}.cap .n{font:11px var(--mono);color:var(--plum);letter-spacing:.06em}.cap .t{font-weight:700;font-size:14px}.cap .w{color:var(--mut);font-size:12.5px;margin-left:auto;text-align:right;max-width:54%}
+
+/* ===== AD FRAME (4:5) ===== */
+.ad{position:relative;aspect-ratio:4/5;border-radius:18px;overflow:hidden;background:#0f0913;box-shadow:0 18px 40px -16px rgba(40,20,55,.5),0 2px 8px rgba(40,20,55,.12)}
+.ad img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.ad .imgtop{position:absolute;left:0;right:0;top:0}
+.tick{color:var(--mint);font-weight:800;margin-right:6px}
+.btn{display:inline-block;background:var(--gold-soft);color:#3a2a0c;font:800 13px var(--sans);padding:9px 16px;border-radius:999px}
+.kbtn{display:inline-block;background:var(--plum);color:#fff;font:800 13px var(--sans);padding:9px 16px;border-radius:999px}
+
+/* 1 BENEFIT: image top, cream panel bottom */
+.benefit .imgtop{height:60%}
+.benefit .panel{position:absolute;left:0;right:0;bottom:0;height:42%;background:var(--cream);padding:18px 20px;display:flex;flex-direction:column;justify-content:center;gap:11px}
+.benefit h3{margin:0;font:800 23px/1.02 var(--sans);letter-spacing:-.02em}
+.benefit ul{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:5px;font:600 13.5px var(--sans);color:var(--ink2)}
+.benefit .foot{display:flex;align-items:center;justify-content:space-between;margin-top:3px}
+.benefit .price{font:800 14px var(--sans)}.benefit .price s{color:var(--mut);font-weight:500;margin-right:6px}
+
+/* 2 REVIEW: image top, white panel with quote */
+.review .imgtop{height:54%}
+.review .panel{position:absolute;left:0;right:0;bottom:0;height:48%;background:#fff;padding:20px;display:flex;flex-direction:column;justify-content:center;gap:9px}
+.review .stars{color:var(--gold);letter-spacing:2px;font-size:15px}
+.review q{margin:0;font:500 19px/1.28 var(--serif);quotes:none;letter-spacing:-.01em}
+.review .who{display:flex;align-items:center;gap:8px;color:var(--mut);font-size:12px}
+.review .who b{color:var(--ink)}.review .vf{margin-left:auto;color:var(--plum);font:10px var(--mono);letter-spacing:.06em}
+
+/* 3 PROBLEM->SOLUTION: full bleed, text in clear zones */
+.problem .scrim{position:absolute;inset:0;background:linear-gradient(180deg,rgba(20,10,28,.6),rgba(20,10,28,.05) 38%,rgba(20,10,28,.1) 60%,rgba(20,10,28,.72))}
+.problem .hookline{position:absolute;top:7%;left:22px;right:22px;color:#fff;font:800 26px/1.08 var(--sans);letter-spacing:-.02em;text-shadow:0 2px 12px rgba(0,0,0,.5)}
+.problem .solve{position:absolute;left:22px;right:22px;bottom:8%;color:#fff}
+.problem .solve p{margin:0 0 12px;font:600 16px/1.3 var(--sans)}.problem .solve p b{color:var(--gold-soft)}
+
+/* 4 OLD vs NEW: small image band + comparison */
+.compare .imgtop{height:30%}
+.compare .panel{position:absolute;left:0;right:0;bottom:0;height:70%;background:var(--cream);padding:18px}
+.compare h3{margin:0 0 12px;font:800 19px/1 var(--sans);text-align:center;letter-spacing:-.01em}
+.compare .cols{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.compare .col{border-radius:12px;padding:12px 12px 14px}
+.compare .old{background:#efe7ee}.compare .new{background:linear-gradient(160deg,var(--plum),#8255bd);color:#fff}
+.compare .col h4{margin:0 0 9px;font:800 12px var(--sans);letter-spacing:.02em}
+.compare .old h4{color:var(--mut)}
+.compare .col ul{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:7px;font:600 12px/1.2 var(--sans)}
+.compare .old li{color:var(--ink2)}.compare .old li:before{content:"✕ ";color:var(--rose)}
+.compare .new li:before{content:"✓ ";color:var(--gold-soft)}
+
+/* 5 EDITORIAL */
+.edit .imgtop{height:50%}
+.edit .panel{position:absolute;left:0;right:0;bottom:0;height:52%;background:#fff;padding:20px;display:flex;flex-direction:column;gap:11px;justify-content:center}
+.edit .kick{font:11px var(--mono);letter-spacing:.18em;text-transform:uppercase;color:var(--plum)}
+.edit h3{margin:0;font:600 22px/1.16 var(--serif);letter-spacing:-.01em}
+.edit ul{margin:0;padding:0 0 0 2px;list-style:none;display:flex;flex-direction:column;gap:5px;font:500 13px var(--sans);color:var(--ink2)}
+.edit li:before{content:"— ";color:var(--lilac)}
+.edit a{font:700 13px var(--sans);color:var(--plum);text-decoration:none;border-bottom:2px solid var(--lilac);align-self:flex-start;padding-bottom:1px}
+
+/* 6 BEFORE/AFTER split */
+.ba .half{position:absolute;top:0;bottom:14%;width:50%;overflow:hidden}.ba .half img{position:absolute;inset:0;width:200%;height:100%;object-fit:cover}
+.ba .l{left:0}.ba .l img{left:0}.ba .r{right:0}.ba .r img{right:0;left:auto}
+.ba .lab{position:absolute;top:13px;padding:4px 9px;border-radius:999px;font:800 10px var(--sans);letter-spacing:.04em}
+.ba .lb{left:12px;background:rgba(20,12,26,.62);color:#fff}.ba .la{right:12px;background:var(--gold-soft);color:#3a2a0c}
+.ba .divider{position:absolute;top:0;bottom:14%;left:50%;width:2px;background:#fff;transform:translateX(-50%);box-shadow:0 0 10px rgba(0,0,0,.4)}
+.ba .strip{position:absolute;left:0;right:0;bottom:0;height:14%;background:var(--plum);color:#fff;display:flex;align-items:center;justify-content:center;gap:10px;font:800 14px var(--sans)}
+.ba .strip em{font-style:normal;color:var(--gold-soft)}
+
+/* 7 FOUNDER POV */
+.founder{background:linear-gradient(165deg,#7a4cb3,var(--plum-deep))}
+.founder .body{position:absolute;inset:0;padding:26px 24px;display:flex;flex-direction:column;justify-content:center;gap:18px}
+.founder .quote{margin:0;color:#fff;font:600 25px/1.22 var(--serif);letter-spacing:-.01em}
+.founder .quote span{background:var(--iri,linear-gradient(110deg,#f0dcff,#cfeaf0));-webkit-background-clip:text;background-clip:text;color:transparent}
+.founder .by{display:flex;align-items:center;gap:10px;color:#e9dcf7}
+.founder .ph{width:38px;height:38px;border-radius:50%;background-size:cover;background-position:center;border:1px solid rgba(255,255,255,.5)}
+.founder .by b{color:#fff;font-size:13px;display:block}.founder .by span{font-size:11px}
+
+/* 8 OFFER STACK */
+.offer .imgtop{height:46%}
+.offer .panel{position:absolute;left:0;right:0;bottom:0;height:56%;background:var(--cream);padding:18px 20px;display:flex;flex-direction:column;gap:9px;justify-content:center}
+.offer .badge{align-self:flex-start;background:var(--gold-soft);color:#3a2a0c;font:800 10px var(--mono);letter-spacing:.08em;padding:4px 9px;border-radius:999px}
+.offer h3{margin:0;font:800 21px/1.02 var(--sans);letter-spacing:-.02em}
+.offer ul{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:4px;font:600 13px var(--sans);color:var(--ink2)}
+.offer li:before{content:"+ ";color:var(--plum);font-weight:800}
+.offer .foot{display:flex;align-items:center;justify-content:space-between;margin-top:4px}
+.offer .save{font:800 13px var(--sans);color:var(--plum)}
+
+footer{padding:30px 0 80px;color:var(--mut);font-size:13px;border-top:1px solid #ddd1e6}
+@media (max-width:560px){.cap .w{display:none}}
+</style>
+
+<header><div class="wrap">
+ <p class="eyebrow">Trial board · static creatives · 4:5 (Meta feed)</p>
+ <h1>Instant Gels — static ad concepts</h1>
+ <p class="lede">A quick test of the overlay concepts as standalone static images — the kind you'd run for cold and retargeting ecommerce traffic. Each is one uncrowded composition with the nails kept visible. Concepts only; not part of the video builder.</p>
+ <div class="note"><b>Placeholders to swap:</b> prices, review names/counts and the founder photo are illustrative. Claims are from the approved list. This is a feel-test — the real version is exactly what Higgsfield product shots + precise text placement would let us art-direct.</div>
+</div></header>
+
+<main class="wrap"><div class="board">
+
+ <figure class="item">
+  <div class="ad benefit">
+   <img class="imgtop" src="{{EYES}}" alt="">
+   <div class="panel">
+    <h3>Salon-gel nails.<br>Zero salon time.</h3>
+    <ul><li><span class="tick">✓</span>No UV or LED lamp</li><li><span class="tick">✓</span>2 weeks wear with glue</li><li><span class="tick">✓</span>Press on &amp; go · 32 shades</li></ul>
+    <div class="foot"><span class="price"><s>$—</s>Starter set $49*</span><span class="btn">Shop now</span></div>
+   </div>
+  </div>
+  <figcaption class="cap"><span class="n">01</span><span class="t">Benefit card</span><span class="w">cold traffic · context to evaluate</span></figcaption>
+ </figure>
+
+ <figure class="item">
+  <div class="ad review">
+   <img class="imgtop" src="{{NUDE}}" alt="">
+   <div class="panel">
+    <div class="stars">★★★★★</div>
+    <q>I cancelled my salon appointments after the second set.</q>
+    <div class="who"><b>Sophie</b> · verified buyer<span class="vf">4.8★ · 2,000+*</span></div>
+   </div>
+  </div>
+  <figcaption class="cap"><span class="n">02</span><span class="t">Customer review</span><span class="w">mid-funnel · specific outcome</span></figcaption>
+ </figure>
+
+ <figure class="item">
+  <div class="ad problem">
+   <img src="{{RUBY}}" alt="">
+   <div class="scrim"></div>
+   <div class="hookline">Still booking salon gels<br>every three weeks?</div>
+   <div class="solve"><p>The salon-gel look at home — <b>no appointment, no lamp.</b></p><span class="btn">Try Instant Gels</span></div>
+  </div>
+  <figcaption class="cap"><span class="n">03</span><span class="t">Problem → solution</span><span class="w">prospecting · self-identify</span></figcaption>
+ </figure>
+
+ <figure class="item">
+  <div class="ad compare">
+   <img class="imgtop" src="{{glaze GLAZE}}" alt="">
+   <div class="panel">
+    <h3>Salon habit vs Instant Gels</h3>
+    <div class="cols">
+     <div class="col old"><h4>THE SALON</h4><ul><li>Book weeks ahead</li><li>$60+ each visit</li><li>1–2 hours, every time</li><li>UV lamp</li></ul></div>
+     <div class="col new"><h4>INSTANT GELS</h4><ul><li>Do it tonight</li><li>Reuse &amp; reapply</li><li>~10 minutes</li><li>No lamp, ever</li></ul></div>
+    </div>
+   </div>
+  </div>
+  <figcaption class="cap"><span class="n">04</span><span class="t">Old way vs new way</span><span class="w">crowded category · decision frame</span></figcaption>
+ </figure>
+
+ <figure class="item">
+  <div class="ad edit">
+   <img class="imgtop" src="{{berry BERRY}}" alt="">
+   <div class="panel">
+    <div class="kick">The breakdown</div>
+    <h3>Why at-home gels chip in days — and what actually lasts</h3>
+    <ul><li>Standard polish skips the cure</li><li>Pre-cured gel holds its finish</li><li>6-layer GelStack, no lamp needed</li></ul>
+    <a href="#">Read the difference →</a>
+   </div>
+  </div>
+  <figcaption class="cap"><span class="n">05</span><span class="t">Editorial / mini-article</span><span class="w">education-first · higher AOV</span></figcaption>
+ </figure>
+
+ <figure class="item">
+  <div class="ad ba">
+   <div class="half l"><img src="{{apply APPLY}}" alt=""></div>
+   <div class="half r"><img src="{{eyes2 EYES}}" alt=""></div>
+   <div class="divider"></div>
+   <span class="lab lb">BARE</span><span class="lab la">INSTANT GEL</span>
+   <div class="strip">10 minutes. <em>No lamp.</em></div>
+  </div>
+  <figcaption class="cap"><span class="n">06</span><span class="t">Before / after</span><span class="w">immediate, believable contrast</span></figcaption>
+ </figure>
+
+ <figure class="item">
+  <div class="ad founder">
+   <div class="body">
+    <p class="quote">We made Instant Gels because <span>“at-home”</span> should never mean they look at-home.</p>
+    <div class="by"><span class="ph" style="background-image:url({{glaze2 GLAZE}})"></span><span><b>Remy · founder, GLAMRDiP</b><span>on why press-ons had to be better</span></span></div>
+   </div>
+  </div>
+  <figcaption class="cap"><span class="n">07</span><span class="t">Founder POV</span><span class="w">belief-led · reason to exist</span></figcaption>
+ </figure>
+
+ <figure class="item">
+  <div class="ad offer">
+   <img class="imgtop" src="{{PACK}}" alt="">
+   <div class="panel">
+    <span class="badge">LAUNCH OFFER</span>
+    <h3>The complete<br>Instant Gel set</h3>
+    <ul><li>Gels + glue + adhesive tabs</li><li>File, cuticle stick &amp; prep pads</li><li>Pick from 32 shades</li></ul>
+    <div class="foot"><span class="save">Save $XX this week*</span><span class="kbtn">Shop the set</span></div>
+   </div>
+  </div>
+  <figcaption class="cap"><span class="n">08</span><span class="t">Offer / bundle</span><span class="w">warm traffic · launches</span></figcaption>
+ </figure>
+
+</div></main>
+<footer><div class="wrap">Trial static concepts over real Instant Gels frames. Placeholders (price, review counts, founder photo) to be swapped. Claims per <code>product-info/02_CLAIMS_AND_COMPLIANCE.md</code>.</div></footer>

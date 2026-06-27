@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "path": "01_Hooks & Attention Clips/Ruby Rush_Cat.MOV",
+    "category": "hooks",
+    "shade": "-",
+    "duration": 2.2,
+    "tokens_in": 1169,
+    "tokens_out": 641,
+    "cost": 0.0075
+  },
+  "record": {
+    "clip_id": "IG-01-hooks-attention-clips-ruby-rush-cat",
+    "product_line": "instant_gels",
+    "category": "hooks",
+    "shade": "Ruby Rush",
+    "shade_matches_folder": false,
+    "colour_finish": "dark ruby red glossy",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of a hand with Ruby Rush almond nails petting and scratching a black cat.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 2.2,
+        "usable": {
+          "min": 0.0,
+          "max": 2.2,
+          "sweet_spot": 1.0
+        },
+        "action_climax": {
+          "t": 1.0,
+          "action": "scratching the cat behind the ear"
+        },
+        "creative_role": [
+          "hook",
+          "lifestyle"
+        ],
+        "creative_stage": "Hook",
+        "process_step": "n/a",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "handheld",
+        "motion_level": "moderate",
+        "setting": "indoors",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 0.5,
+            "desc": "soft scratching sound of nails on cat fur"
+          }
+        ],
+        "visual_fingerprint": "Hand with dark red almond nails scratching a black cat's neck.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 7,
+          "hook": 9,
+          "proof": 2,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "cat",
+          "petting cat",
+          "ruby rush",
+          "dark red nails",
+          "almond nails",
+          "scratching",
+          "cute hook",
+          "lifestyle"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "path": "02_Application/All Eyes on Me/IMG_3462.MOV",
+    "category": "application",
+    "shade": "All Eyes on Me",
+    "duration": 4.8,
+    "tokens_in": 1378,
+    "tokens_out": 644,
+    "cost": 0.0079
+  },
+  "record": {
+    "clip_id": "IG-02-application-all-eyes-on-me-img-3462",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "All Eyes on Me",
+    "shade_matches_folder": true,
+    "colour_finish": "shimmering champagne cat-eye",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hand rotates to reveal a stunning shimmering champagne cat-eye manicure with almond-shaped instant gel nails.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 4.8,
+        "usable": {
+          "min": 0.0,
+          "max": 4.8,
+          "sweet_spot": 1.5
+        },
+        "action_climax": {
+          "t": 1.5,
+          "action": "hand rotates to fully reveal the shimmering cat-eye nails under direct light"
+        },
+        "creative_role": [
+          "reveal",
+          "payoff"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "bright indoor sunlight",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand rotating under direct sunlight showing shimmering cat-eye almond nails with a blurry press-on box in the background",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 5,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "all eyes on me",
+          "cat eye nails",
+          "velvet nails",
+          "shimmer nails",
+          "almond nails",
+          "final reveal",
+          "hand rotation",
+          "sunlight reflection"
+        ],
+        "confidence": 1.0,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "path": "02_Application/All Eyes on Me/IMG_3460.MOV",
+    "category": "application",
+    "shade": "All Eyes on Me",
+    "duration": 5.2,
+    "tokens_in": 1378,
+    "tokens_out": 625,
+    "cost": 0.0077
+  },
+  "record": {
+    "clip_id": "IG-02-application-all-eyes-on-me-img-3460",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "All Eyes on Me",
+    "shade_matches_folder": true,
+    "colour_finish": "pearl chrome and nude",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Almond nails transitioning between pearl chrome and solid nude finishes under direct sunlight.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 5.2,
+        "usable": {
+          "min": 0.0,
+          "max": 5.2,
+          "sweet_spot": 1.0
+        },
+        "action_climax": {
+          "t": 1.0,
+          "action": "Nail finish transitions from chrome to nude"
+        },
+        "creative_role": [
+          "reveal",
+          "demo"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "white table with harsh shadow",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Thumb nail flashing between pearl chrome and nude finishes next to a press-on set box.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "pearl chrome",
+          "nude nails",
+          "almond shape",
+          "color transition",
+          "sunlight shadow",
+          "all eyes on me"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

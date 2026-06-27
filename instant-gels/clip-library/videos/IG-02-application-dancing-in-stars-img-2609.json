@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "path": "02_Application/Dancing in Stars/IMG_2609.MOV",
+    "category": "application",
+    "shade": "Dancing in Stars",
+    "duration": 26.3,
+    "tokens_in": 2762,
+    "tokens_out": 634,
+    "cost": 0.0098
+  },
+  "record": {
+    "clip_id": "IG-02-application-dancing-in-stars-img-2609",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Dancing in Stars",
+    "shade_matches_folder": true,
+    "colour_finish": "sheer nude pink",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Prep step showing a wooden cuticle stick pushing back the cuticle on a thumb.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 26.3,
+        "usable": {
+          "min": 2.0,
+          "max": 24.0,
+          "sweet_spot": 4.0
+        },
+        "action_climax": {
+          "t": 5.0,
+          "action": "pushing cuticle back with wooden stick"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "prep_pushback",
+        "subject": "single_nail",
+        "framing": "extreme_close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white tabletop with nail kit in background",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "cuticle_stick",
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Extreme close-up of a thumb cuticle being pushed back with a wooden stick next to a tray of nude press-on nails.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 8,
+          "hook": 5,
+          "proof": 5,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "cuticle prep",
+          "nail preparation",
+          "wooden cuticle stick",
+          "press-on nail prep",
+          "manicure prep",
+          "natural nail care"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

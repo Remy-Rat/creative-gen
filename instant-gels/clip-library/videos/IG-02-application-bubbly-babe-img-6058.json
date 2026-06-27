@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "path": "02_Application/Bubbly Babe/IMG_6058.MOV",
+    "category": "application",
+    "shade": "Bubbly Babe",
+    "duration": 5.0,
+    "tokens_in": 1377,
+    "tokens_out": 644,
+    "cost": 0.0079
+  },
+  "record": {
+    "clip_id": "IG-02-application-bubbly-babe-img-6058",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Bubbly Babe",
+    "shade_matches_folder": true,
+    "colour_finish": "nude pearl shimmer",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Static shot of applied Bubbly Babe almond nails next to the packaging under direct sunlight.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 5.0,
+        "usable": {
+          "min": 0.0,
+          "max": 5.0,
+          "sweet_spot": 1.0
+        },
+        "action_climax": {
+          "t": 2.5,
+          "action": "hand held still under bright sunlight showing off the pearl finish"
+        },
+        "creative_role": [
+          "reveal",
+          "payoff"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "white surface with harsh direct sunlight casting shadows",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Hand with nude almond nails next to a clear plastic tray of press-ons under sharp sunlight.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 5,
+          "proof": 4,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "bubbly babe",
+          "almond nails",
+          "nude nails",
+          "pearl finish",
+          "sunlight shadow",
+          "final reveal",
+          "press-on kit"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

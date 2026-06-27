@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "path": "02_Application/Bubbly Babe/IMG_6055.MOV",
+    "category": "application",
+    "shade": "Bubbly Babe",
+    "duration": 9.5,
+    "tokens_in": 1641,
+    "tokens_out": 638,
+    "cost": 0.0082
+  },
+  "record": {
+    "clip_id": "IG-02-application-bubbly-babe-img-6055",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Bubbly Babe",
+    "shade_matches_folder": true,
+    "colour_finish": "nude pink glossy",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Static close-up of a hand showing off a glossy nude Bubbly Babe almond nail under direct sunlight.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 9.5,
+        "usable": {
+          "min": 0.0,
+          "max": 9.5,
+          "sweet_spot": 1.0,
+          "sweet_spot_end": 5.0
+        },
+        "action_climax": {
+          "t": 1.0,
+          "action": "holding pose under sunlight showing off the glossy nude almond nail"
+        },
+        "creative_role": [
+          "reveal",
+          "lifestyle",
+          "cta_support"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "indoor_daylight",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand holding thumb showing off nude almond nail under harsh sunlight with shadow, kit tray on left",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 6,
+          "proof": 5,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "Bubbly Babe",
+          "nude nails",
+          "almond nails",
+          "sunlight shadow",
+          "aesthetic nails",
+          "press-on reveal"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

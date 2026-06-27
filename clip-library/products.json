@@ -1,0 +1,277 @@
+{
+  "brand": "GLAMRDiP",
+  "tagline": "Dip Perfect System",
+  "origin": "Australian brand, started 2020 during lockdown",
+  "key_claims": [
+    "Salon-quality at home",
+    "Lasts up to 5 weeks",
+    "Packed with Aussie botanical goodness",
+    "Health-conscious formula",
+    "No UV lamp required",
+    "Cost-effective (approx $3 per mani from a kit)"
+  ],
+  "social": {
+    "instagram": "@glamrdip",
+    "hashtag": "#glamrdip"
+  },
+
+  "liquids": {
+    "bond": {
+      "number": 1,
+      "name": "Bond",
+      "label_text": "#1 BOND",
+      "type": "Prep/Dehydrator",
+      "purpose": "Dries the nail and removes excess oils before application. Ensures adhesion.",
+      "when_used": "Step 2 - applied to all nails before Base. Optional but recommended.",
+      "visual_identifiers": ["bottle labelled #1 or BOND"],
+      "ad_talking_points": ["proper prep", "long-lasting wear", "professional results"]
+    },
+    "base": {
+      "number": 2,
+      "name": "Base",
+      "label_text": "#2 BASE",
+      "type": "Adhesive Glaze",
+      "purpose": "The adhesive layer that powder sticks to. Applied before every dip. Also used to attach tips.",
+      "when_used": "Steps 3-6 - applied repeatedly before each dip layer (clear and colour).",
+      "visual_identifiers": ["white/clear bottle", "brush applicator", "labelled #2 or BASE"],
+      "ad_talking_points": ["easy brush-on application", "thin even coats", "the foundation of the system"],
+      "usage_notes": "Most frequently used liquid. Applied in thin layers - getting closer to cuticle with each coat. Hold brush parallel to nail."
+    },
+    "seal": {
+      "number": 3,
+      "name": "Seal",
+      "label_text": "#3 SEAL",
+      "type": "Activator/Sealant",
+      "purpose": "Activates and hardens the dip powder. Applied after all dipping is complete.",
+      "when_used": "Step 7-8 - applied liberally, dried 2 min, then filed/buffed, then second coat.",
+      "visual_identifiers": ["bottle labelled #3 or SEAL"],
+      "ad_talking_points": ["locks in colour", "activates the formula", "sets the powder"],
+      "usage_notes": "Must dry completely before Glow is applied, otherwise top coat will be dull."
+    },
+    "glow": {
+      "number": 4,
+      "name": "Glow",
+      "label_text": "#4 GLOW",
+      "type": "Top Coat",
+      "purpose": "Glossy top coat for shine and protection. Also available in matte finish.",
+      "when_used": "Step 9 - two coats (first thin and quick, second slower). Applied after Seal is fully dry.",
+      "visual_identifiers": ["bottle labelled #4 or GLOW"],
+      "ad_talking_points": ["gel-like shine", "glossy finish", "salon-perfect look", "also available in matte"],
+      "usage_notes": "Wipe brush clean before returning to bottle. Avoid strokes on skin edges to prevent cracking."
+    },
+    "care": {
+      "number": 5,
+      "name": "Care",
+      "label_text": "#5 CARE",
+      "previous_name": "Heal",
+      "type": "Cuticle Oil",
+      "purpose": "Nourishing cuticle oil packed with botanicals, vitamins, and minerals. Hydrates and promotes healthy nail growth.",
+      "when_used": "Step 10 - final step, applied to cuticles and massaged in. Recommended daily use.",
+      "visual_identifiers": ["bottle labelled #5 or CARE", "previously labelled HEAL"],
+      "ad_talking_points": ["botanical goodness", "nourishing formula", "daily nail care", "vitamins and minerals", "healthy nail growth"],
+      "usage_notes": "Formerly called 'Heal'. Some older clips may show Heal-labelled bottles."
+    },
+    "soak": {
+      "number": 6,
+      "name": "Soak",
+      "label_text": "#6 SOAK",
+      "type": "Brush Saver/Cleaner",
+      "purpose": "Rescues hardened brushes. Swap the cap with the damaged brush and leave to soak.",
+      "when_used": "As needed when a brush hardens from powder contact.",
+      "visual_identifiers": ["bottle labelled #6 or SOAK"],
+      "ad_talking_points": ["brush rescue", "extends kit life"],
+      "included_in_kits": true
+    }
+  },
+
+  "powders": {
+    "clear": {
+      "name": "Clear Powder",
+      "purpose": "Protective base/top layer. Used as first dip (under colour) and final dip (over colour) to protect pigments during filing.",
+      "visual_identifiers": ["white/translucent powder", "clear pot/jar"],
+      "ad_talking_points": ["protects your colour", "increases durability", "smooth finish"]
+    },
+    "colours": {
+      "description": "Wide range of dip powder colours. Customers choose their colours when purchasing a kit.",
+      "colour_count_claim": "150+ shades",
+      "categories_url": "glamrdip.com/collections/colorsfeatured",
+      "visual_identifiers": ["small round pots/jars with coloured powder", "labelled with colour name"],
+      "ad_talking_points": ["choose your colours", "over 150 shades", "custom colour selection", "express yourself"]
+    }
+  },
+
+  "accessories": {
+    "included_in_all_kits": [
+      {
+        "name": "180 Grit Nail File",
+        "aka": "GLAMRDiP side file",
+        "purpose": "Prep texturing, shaping, and smoothing after dipping"
+      },
+      {
+        "name": "240 Grit Nail File",
+        "purpose": "Fine buffing to smooth nail surface"
+      },
+      {
+        "name": "Steel Cuticle Pusher",
+        "purpose": "Push back cuticles, shape cuticle line after dipping, scoop clear powder. Dual-ended - scooped end and pointed end.",
+        "visual_identifiers": ["metal tool", "dual-ended"]
+      },
+      {
+        "name": "Dust Brush",
+        "purpose": "Remove excess powder from nail surface and cuticle area after each dip"
+      }
+    ],
+    "sold_separately_url": "glamrdip.com/collections/accessories"
+  },
+
+  "kits": {
+    "starter": {
+      "name": "Salon Perfect Starter Kit",
+      "includes": {
+        "liquids": "Full 5-step system (#1 Bond, #2 Base, #3 Seal, #4 Glow, #5 Care) + #6 Soak",
+        "colours": "2 custom dip powder colours",
+        "extras": "Standard prep and application accessories (files, buffers, dust brushes, cuticle pusher)"
+      },
+      "visual_identifiers": ["purple kit box", "smaller box", "2 colour pots visible"]
+    },
+    "complete": {
+      "name": "Salon Perfect Complete Kit",
+      "includes": {
+        "liquids": "Full 5-step system + #6 Soak",
+        "colours": "4 custom dip powder colours",
+        "extras": "Standard prep and application accessories"
+      },
+      "visual_identifiers": ["purple kit box", "medium box", "4 colour pots visible"]
+    },
+    "ultimate": {
+      "name": "Salon Perfect Ultimate Kit",
+      "includes": {
+        "liquids": "Full 5-step system + #6 Soak",
+        "colours": "6 custom dip powder colours",
+        "extras": "Standard prep and application accessories"
+      },
+      "visual_identifiers": ["purple kit box", "largest box", "6 colour pots visible"]
+    },
+    "common_visual_identifiers": [
+      "Purple branded box/packaging",
+      "Multiple small bottles lined up",
+      "Colour powder pots",
+      "Files and tools",
+      "Instruction booklet"
+    ]
+  },
+
+  "application_process": {
+    "description": "The standard GlamrDip dip powder application process, broken into steps that map to the schema's process_steps_shown field.",
+    "steps_in_order": [
+      {
+        "step_id": "prep",
+        "name": "Prep",
+        "instruction_step": "Step 1",
+        "actions": ["File nail to create texture (180 grit)", "Shape nail", "Push back cuticles", "Sanitise hands"],
+        "products_used": ["180_grit_file", "cuticle_pusher"],
+        "visual_cues": ["Filing natural nail", "Pushing cuticles back", "Shaping nail edges"]
+      },
+      {
+        "step_id": "tips_application",
+        "name": "Tips Application (Optional)",
+        "instruction_step": "Optional",
+        "actions": ["Size tips", "Scuff underside", "Apply Base to tip", "Hold 20 seconds", "Trim and file"],
+        "products_used": ["base", "pre_shaped_tips", "240_grit_file"],
+        "visual_cues": ["Holding tip to nail", "Trimming tip length"]
+      },
+      {
+        "step_id": "bond",
+        "name": "Bond",
+        "instruction_step": "Step 2",
+        "actions": ["Apply Bond to all nails to dehydrate"],
+        "products_used": ["bond"],
+        "visual_cues": ["Applying liquid from bottle #1 to nails"]
+      },
+      {
+        "step_id": "base_application",
+        "name": "Base Application",
+        "instruction_step": "Steps 3, 4, 5, 6",
+        "actions": ["Apply thin layer of Base liquid to nail before each dip"],
+        "products_used": ["base"],
+        "visual_cues": ["Brush applying clear liquid to nail", "Thin even strokes", "Bottle labelled #2 or BASE"]
+      },
+      {
+        "step_id": "dip_clear",
+        "name": "Clear Dip",
+        "instruction_step": "Steps 3A, 6",
+        "actions": ["Dip nail into clear powder at 45 degrees", "Shake jar gently", "Tap off excess"],
+        "products_used": ["clear_powder"],
+        "visual_cues": ["Finger dipping into white/translucent powder", "Tapping finger over pot"]
+      },
+      {
+        "step_id": "dip_colour",
+        "name": "Colour Dip",
+        "instruction_step": "Steps 4A, 5",
+        "actions": ["Dip nail into colour powder at 45 degrees", "Shake jar gently", "Tap off excess", "Shape cuticle line with pusher"],
+        "products_used": ["colour_powder", "cuticle_pusher"],
+        "visual_cues": ["Finger dipping into coloured powder", "Vibrant colour contrast", "Tapping off excess"]
+      },
+      {
+        "step_id": "brush_dust",
+        "name": "Brush Off Excess",
+        "instruction_step": "Steps 3B, 4B, 5A",
+        "actions": ["Brush away excess powder from nail and cuticle area"],
+        "products_used": ["dust_brush"],
+        "visual_cues": ["Brush sweeping across nail", "Powder particles falling away"]
+      },
+      {
+        "step_id": "seal",
+        "name": "Seal/Activate",
+        "instruction_step": "Steps 7-8",
+        "actions": ["Apply Seal liberally", "Wait 2 min to dry", "File and shape", "Apply second coat of Seal", "Wait 2-3 min"],
+        "products_used": ["seal", "180_grit_file", "240_grit_file"],
+        "visual_cues": ["Applying liquid from Seal bottle", "Filing hardened nail", "Buffing smooth"]
+      },
+      {
+        "step_id": "glow",
+        "name": "Glow Top Coat",
+        "instruction_step": "Step 9",
+        "actions": ["Apply thin quick first coat", "Dry 2 min", "Apply slower second coat", "Dry 2-3 min"],
+        "products_used": ["glow"],
+        "visual_cues": ["Applying glossy top coat", "Nail becoming shiny", "Wet glossy appearance"]
+      },
+      {
+        "step_id": "care",
+        "name": "Care (Cuticle Oil)",
+        "instruction_step": "Step 10",
+        "actions": ["Apply Care oil to cuticles", "Massage in"],
+        "products_used": ["care"],
+        "visual_cues": ["Applying oil around nail edges", "Massaging cuticles", "Bottle labelled #5 or CARE"]
+      },
+      {
+        "step_id": "final_reveal",
+        "name": "Final Reveal",
+        "instruction_step": "Completion",
+        "actions": ["Display finished nails"],
+        "products_used": [],
+        "visual_cues": ["Hand spread showing all nails", "Finished glossy nails", "Beauty shot"]
+      },
+      {
+        "step_id": "removal",
+        "name": "Removal",
+        "instruction_step": "Removal guide",
+        "actions": ["Buff top layer", "Soak in removal solution (snap-lock bag + rice bowl method)", "Slide off with cuticle pusher", "Apply Care oil"],
+        "products_used": ["100_180_grit_file", "removal_solution", "cuticle_pusher", "care"],
+        "visual_cues": ["Buffing nail surface", "Hand in bag/bowl", "Sliding off powder", "Easy removal"]
+      }
+    ]
+  },
+
+  "troubleshooting_topics": {
+    "description": "Common problems and solutions - useful for identifying problem/comparison content in clips",
+    "issues": [
+      { "problem": "lifting", "cause": "Poor prep or Base on cuticles", "visual": "Powder separating from nail" },
+      { "problem": "cracking", "cause": "Too thin/uneven application or wrong brush angle", "visual": "Cracks in nail surface" },
+      { "problem": "bad_shape", "cause": "Not building layers incrementally", "visual": "Uneven or lumpy nail shape" },
+      { "problem": "thick_clumpy", "cause": "Too much Base or Glow", "visual": "Bulky, uneven nail" },
+      { "problem": "dull_top_coat", "cause": "Seal not dry before Glow applied", "visual": "Matte/dull finish when glossy expected" },
+      { "problem": "hard_brush", "cause": "Powder contamination or wet Seal contact", "visual": "Stiff brush that won't apply smoothly" }
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "path": "02_Application/Glaze Check/IMG_3054.MOV",
+    "category": "application",
+    "shade": "Glaze Check",
+    "duration": 5.5,
+    "tokens_in": 1943,
+    "tokens_out": 671,
+    "cost": 0.009
+  },
+  "record": {
+    "clip_id": "IG-02-application-glaze-check-img-3054",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Glaze Check",
+    "shade_matches_folder": true,
+    "colour_finish": "pearl chrome pink",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A close-up of a hand showcasing applied Glaze Check almond press-on nails next to the packaging.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 5.5,
+        "usable": {
+          "min": 0.0,
+          "max": 5.5,
+          "sweet_spot": 1.0
+        },
+        "action_climax": {
+          "t": 2.0,
+          "action": "subtle hand tilt catching the light on the pearl chrome finish"
+        },
+        "creative_role": [
+          "reveal",
+          "payoff",
+          "lifestyle"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white tabletop with harsh sunlight shadow",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "smooth_moves_file",
+          "cuticle_stick"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "A hand with glazed almond nails held up in bright sunlight with a sharp shadow, next to a clear plastic tray of press-on nails.",
+        "claims_shown": [
+          "zero_edge"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 6,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "glaze check",
+          "almond nails",
+          "pearl chrome",
+          "press-on nails",
+          "instant gels",
+          "hand model",
+          "aesthetic shadows"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

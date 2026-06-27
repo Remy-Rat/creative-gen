@@ -1,0 +1,63 @@
+{
+  "naming_convention": {
+    "version": "1.0",
+    "format": "CLIP-{XXXX}_{category}_{short-description}.{ext}",
+    "examples": [
+      "CLIP-0001_process_red-french-tip-full-application.mp4",
+      "CLIP-0002_hooks_baby-hand-glitter-zoom.mov",
+      "CLIP-0003_hooks_purple-powder-pour-plate.mov",
+      "CLIP-0004_hooks_text-whiteboard-5weeks-easy-removal.mov",
+      "CLIP-0005_hooks_5finger-dip-pastel-rainbow-v1pt1.mov"
+    ],
+    "rules": {
+      "clip_id": "Auto-incrementing 4-digit number (CLIP-0001 to CLIP-9999)",
+      "category_codes": {
+        "hooks": "01 - Hooks & Attention Clips",
+        "problem": "02 - Problem & Comparison",
+        "process": "03 - Application Process",
+        "product": "04 - Product & Ingredients",
+        "results": "05 - Results & Lifestyle",
+        "ugc": "06 - UGC & Testimonials",
+        "text": "07 - Text & Brand Assets",
+        "raw": "08 - Reference & Raw Footage"
+      },
+      "short_description": {
+        "format": "lowercase-kebab-case",
+        "max_words": 6,
+        "should_include": "Key visual identifier - what makes this clip findable",
+        "examples": {
+          "good": ["red-french-tip-full-application", "5finger-dip-pastel-rainbow", "text-whiteboard-5weeks"],
+          "bad": ["video1", "clip-a", "nails", "v2-pt3"]
+        }
+      }
+    },
+    "folder_structure": {
+      "clip-library/": {
+        "indexes/": "One JSON file per indexed clip (CLIP-XXXX.json)",
+        "frames/": "Extracted keyframes per clip (CLIP-XXXX/ folder)",
+        "indexed/": {
+          "01_hooks/": {
+            "5_finger_dips/": "Signature 5-finger simultaneous dip clips",
+            "eye_catching_nails/": "Close-up nail shots, before/after, satisfying reveals",
+            "eye_catching_product/": "Product-focused visuals (pours, swatches, packaging)",
+            "money_clips/": "Money/savings related visuals",
+            "phone_clips/": "Phone/screen recordings, app demos, social proof",
+            "royalty_free/": "Licensed stock footage for hooks",
+            "text_reveals/": "Text-on-screen clips (whiteboard, draw, balloon pop, etc.)",
+            "tiktoks/": "TikTok-sourced/styled content"
+          },
+          "02_problem_comparison/": "Pain point & comparison clips",
+          "03_application_process/": "Dip powder application tutorials & process footage",
+          "04_product_ingredients/": "Product detail, ingredients, unboxing",
+          "05_results_lifestyle/": "Final results, lifestyle usage, wear tests",
+          "06_ugc_testimonials/": "User-generated content & customer reviews",
+          "07_text_brand_assets/": "Branded text overlays, logos, CTAs",
+          "08_reference_raw/": "Raw unedited footage & reference material"
+        },
+        "schema.json": "Index schema definition",
+        "index_clip.py": "Batch indexing script",
+        "NAMING_CONVENTION.json": "This file"
+      }
+    }
+  }
+}

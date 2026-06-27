@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "path": "02_Application/Bubbly Babe/IMG_6046.MOV",
+    "category": "application",
+    "shade": "Bubbly Babe",
+    "duration": 16.4,
+    "tokens_in": 3265,
+    "tokens_out": 676,
+    "cost": 0.011
+  },
+  "record": {
+    "clip_id": "IG-02-application-bubbly-babe-img-6046",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Bubbly Babe",
+    "shade_matches_folder": true,
+    "colour_finish": "nude",
+    "shape": "almond",
+    "method": "glue",
+    "has_speech": false,
+    "summary": "Applying liquid nail glue from a purple tube onto a bare thumb nail under bright sunlight.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 16.4,
+        "usable": {
+          "min": 2.0,
+          "max": 15.0,
+          "sweet_spot": 3.0
+        },
+        "action_climax": {
+          "t": 4.0,
+          "action": "squeezing a drop of glue onto the center of the natural nail"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "glue_apply",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white tabletop with bright sunlight and shadows",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "nailed_it_glue"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "A bare thumb nail on the right side of the frame receives a drop of glue from a purple tube, with a tray of nude press-on nails in the background under bright sunlight.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": true,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 8,
+          "hook": 6,
+          "proof": 5,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "glue application",
+          "bubbly babe",
+          "applying nail glue",
+          "liquid glue",
+          "natural nail prep",
+          "press-on tutorial"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

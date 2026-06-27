@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "path": "02_Application/French Press/IMG_5610.MOV",
+    "category": "application",
+    "shade": "French Press",
+    "duration": 6.4,
+    "tokens_in": 1438,
+    "tokens_out": 629,
+    "cost": 0.0078
+  },
+  "record": {
+    "clip_id": "IG-02-application-french-press-img-5610",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "French Press",
+    "shade_matches_folder": true,
+    "colour_finish": "french tip",
+    "shape": "squoval",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Sizing a French Press press-on nail over a natural fingernail next to the product tray.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 6.4,
+        "usable": {
+          "min": 0.0,
+          "max": 6.4,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 2.5,
+          "action": "placing the French Press nail over the natural middle finger to check the size"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "size_match",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_bright",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "French Press nail being sized over a bare middle finger next to a full tray of nails under direct sunlight",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 6,
+          "proof": 5,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "french press",
+          "french manicure",
+          "sizing nails",
+          "size match",
+          "application process",
+          "press-on nails",
+          "instant gels"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

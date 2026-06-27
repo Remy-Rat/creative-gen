@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "path": "02_Application/Glaze Check/IMG_3058.MOV",
+    "category": "application",
+    "shade": "Glaze Check",
+    "duration": 5.5,
+    "tokens_in": 1440,
+    "tokens_out": 682,
+    "cost": 0.0083
+  },
+  "record": {
+    "clip_id": "IG-02-application-glaze-check-img-3058",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Glaze Check",
+    "shade_matches_folder": true,
+    "colour_finish": "pearl chrome glazed pink",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hand enters frame to reveal a fresh glazed pink almond manicure next to the product tray.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 5.5,
+        "usable": {
+          "min": 0.0,
+          "max": 5.5,
+          "sweet_spot": 1.0,
+          "sweet_spot_end": 5.0
+        },
+        "action_climax": {
+          "t": 1.5,
+          "action": "hand settles into a static pose showing off the glazed finish under direct sunlight"
+        },
+        "creative_role": [
+          "reveal",
+          "payoff",
+          "cta_support"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor tabletop with direct sunlight",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "smooth_moves_file",
+          "cuticle_stick"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand with glazed pink almond nails entering from right next to a clear plastic tray of press-on nails under sharp sunlight shadows",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "glaze check",
+          "glazed nails",
+          "pearl chrome",
+          "almond nails",
+          "final reveal",
+          "aesthetic b-roll",
+          "sunlight shadow"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

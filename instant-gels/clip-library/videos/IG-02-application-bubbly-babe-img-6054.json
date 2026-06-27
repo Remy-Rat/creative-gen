@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "path": "02_Application/Bubbly Babe/IMG_6054.MOV",
+    "category": "application",
+    "shade": "Bubbly Babe",
+    "duration": 16.0,
+    "tokens_in": 3271,
+    "tokens_out": 686,
+    "cost": 0.0111
+  },
+  "record": {
+    "clip_id": "IG-02-application-bubbly-babe-img-6054",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Bubbly Babe",
+    "shade_matches_folder": true,
+    "colour_finish": "pearlescent nude shimmer",
+    "shape": "squoval",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of pressing and securing a pearlescent nude press-on nail at the cuticle line.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 16.0,
+        "usable": {
+          "min": 0.0,
+          "max": 16.0,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 4.0,
+          "action": "pressing down firmly on the cuticle edge of the index finger nail"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "press_hold",
+        "subject": "both_hands",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white_tabletop",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "top",
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "smooth_moves_file",
+          "cuticle_stick"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Two hands on a white surface, one hand pressing the cuticle of the other's index finger, with a tray of nude nails on the left.",
+        "claims_shown": [
+          "press_on_and_go"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 5,
+          "proof": 7,
+          "standalone": 6,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "bubbly babe",
+          "press on nails",
+          "application",
+          "pressing nail",
+          "cuticle fit",
+          "nude nails",
+          "pearlescent"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

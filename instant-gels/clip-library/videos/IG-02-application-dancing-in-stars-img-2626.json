@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "path": "02_Application/Dancing in Stars/IMG_2626.MOV",
+    "category": "application",
+    "shade": "Dancing in Stars",
+    "duration": 5.3,
+    "tokens_in": 1375,
+    "tokens_out": 624,
+    "cost": 0.0077
+  },
+  "record": {
+    "clip_id": "IG-02-application-dancing-in-stars-img-2626",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Dancing in Stars",
+    "shade_matches_folder": true,
+    "colour_finish": "glittery champagne nude",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of a hand showcasing a glittery champagne almond press-on nail with the product tray nearby.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 5.3,
+        "usable": {
+          "min": 0.0,
+          "max": 5.3,
+          "sweet_spot": 1.0
+        },
+        "action_climax": {
+          "t": 2.5,
+          "action": "subtle hand tilt showcasing the glitter reflection under bright sunlight"
+        },
+        "creative_role": [
+          "reveal",
+          "lifestyle"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_bright_sunlight",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "glittery thumb nail held up in sharp sunlight casting a shadow, with a clear tray of nude nails on the left",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "glitter nails",
+          "almond nails",
+          "nude glitter",
+          "dancing in stars",
+          "press-on reveal",
+          "sunlight aesthetic"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

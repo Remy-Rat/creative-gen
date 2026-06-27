@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "path": "02_Application/French Press/IMG_5620.MOV",
+    "category": "application",
+    "shade": "French Press",
+    "duration": 5.3,
+    "tokens_in": 1372,
+    "tokens_out": 605,
+    "cost": 0.0075
+  },
+  "record": {
+    "clip_id": "IG-02-application-french-press-img-5620",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "French Press",
+    "shade_matches_folder": true,
+    "colour_finish": "nude and white glossy French tip",
+    "shape": "squoval",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Static close-up of hand showcasing French Press squoval nails next to product tray.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 5.3,
+        "usable": {
+          "min": 0.0,
+          "max": 5.3,
+          "sweet_spot": 1.5
+        },
+        "action_climax": {
+          "t": 2.5,
+          "action": "hand posing under direct sunlight"
+        },
+        "creative_role": [
+          "reveal",
+          "payoff"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "indoor daylight",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "French tip nails on hand with shadow cast on palm, tray in background",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 6,
+          "proof": 5,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "french press",
+          "french tip",
+          "squoval nails",
+          "nail reveal",
+          "hand model",
+          "sunlight shadow"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

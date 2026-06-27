@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "path": "02_Application/Glaze Check/IMG_3043.MOV",
+    "category": "application",
+    "shade": "Glaze Check",
+    "duration": 16.8,
+    "tokens_in": 3394,
+    "tokens_out": 671,
+    "cost": 0.0111
+  },
+  "record": {
+    "clip_id": "IG-02-application-glaze-check-img-3043",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Glaze Check",
+    "shade_matches_folder": true,
+    "colour_finish": "sheer pink glazed",
+    "shape": "almond",
+    "method": "glue",
+    "has_speech": false,
+    "summary": "Applying a drop of nail glue to a prepped natural thumb nail next to a Glaze Check press-on set.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 16.8,
+        "usable": {
+          "min": 0.0,
+          "max": 16.8,
+          "sweet_spot": 9.0
+        },
+        "action_climax": {
+          "t": 10.5,
+          "action": "squeezing a drop of glue onto the center of the natural nail"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "glue_apply",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "studio",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "top",
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "nailed_it_glue"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "A prepped natural thumb nail on the right, with a tray of sheer pink press-on nails on the left, receiving a drop of glue from a purple tube.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": true,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 5,
+          "proof": 6,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "glue application",
+          "how to apply press on nails",
+          "nail glue",
+          "glaze check",
+          "prepped nail",
+          "natural nail prep"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

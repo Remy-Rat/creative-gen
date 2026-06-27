@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "path": "02_Application/Bubbly Babe/IMG_6051.MOV",
+    "category": "application",
+    "shade": "Bubbly Babe",
+    "duration": 25.0,
+    "tokens_in": 2698,
+    "tokens_out": 640,
+    "cost": 0.0098
+  },
+  "record": {
+    "clip_id": "IG-02-application-bubbly-babe-img-6051",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Bubbly Babe",
+    "shade_matches_folder": true,
+    "colour_finish": "pearly sheer nude",
+    "shape": "squoval",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A close-up of sizing a sheer nude press-on nail over a bare ring finger next to applied nails.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 25.0,
+        "usable": {
+          "min": 1.0,
+          "max": 24.0,
+          "sweet_spot": 12.0
+        },
+        "action_climax": {
+          "t": 12.0,
+          "action": "aligning the press-on nail perfectly over the natural ring finger cuticle"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "size_match",
+        "subject": "both_hands",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white tabletop with direct sunlight casting sharp shadows",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom_left",
+          "top_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "sharp sunlight shadow of hand on white surface, clear tray of Bubbly Babe nails on the left, ring finger being sized",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 6,
+          "proof": 5,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "sizing press on nails",
+          "bubbly babe",
+          "squoval nails",
+          "sheer nude nails",
+          "how to size press ons",
+          "natural lighting",
+          "direct sunlight"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "path": "02_Application/Almost Nude/IMG_5208.MOV",
+    "category": "application",
+    "shade": "Almost Nude",
+    "duration": 5.9,
+    "tokens_in": 1440,
+    "tokens_out": 654,
+    "cost": 0.008
+  },
+  "record": {
+    "clip_id": "IG-02-application-almost-nude-img-5208",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Almost Nude",
+    "shade_matches_folder": true,
+    "colour_finish": "sheer nude pink glossy",
+    "shape": "squoval",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hand showcasing applied Almost Nude press-on nails next to the packaging tray in bright sunlight.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 5.9,
+        "usable": {
+          "min": 0.0,
+          "max": 5.9,
+          "sweet_spot": 1.0,
+          "sweet_spot_end": 5.0
+        },
+        "action_climax": {
+          "t": 1.5,
+          "action": "hand settles into a still pose showcasing the glossy finish under direct sunlight"
+        },
+        "creative_role": [
+          "reveal",
+          "payoff"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_bright_sunlight",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "glossy sheer pink nails on a hand next to a clear plastic tray in harsh sunlight",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 6,
+          "proof": 5,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "almost nude",
+          "squoval nails",
+          "final reveal",
+          "hand model",
+          "sunlight shadow",
+          "press-on tray",
+          "sheer pink"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

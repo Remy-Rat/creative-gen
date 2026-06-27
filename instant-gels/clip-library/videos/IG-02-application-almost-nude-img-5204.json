@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "path": "02_Application/Almost Nude/IMG_5204.MOV",
+    "category": "application",
+    "shade": "Almost Nude",
+    "duration": 13.1,
+    "tokens_in": 1903,
+    "tokens_out": 633,
+    "cost": 0.0086
+  },
+  "record": {
+    "clip_id": "IG-02-application-almost-nude-img-5204",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Almost Nude",
+    "shade_matches_folder": true,
+    "colour_finish": "sheer pink nude glossy",
+    "shape": "coffin",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Demonstrating the seamless cuticle fit of Almost Nude coffin press-on nails next to the product tray.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 13.1,
+        "usable": {
+          "min": 0.0,
+          "max": 13.1,
+          "sweet_spot": 0.0
+        },
+        "action_climax": {
+          "t": 1.5,
+          "action": "pressing down on the thumb nail near the cuticle to show seamless fit"
+        },
+        "creative_role": [
+          "demo",
+          "proof"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "press_hold",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "studio",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand with sheer pink coffin nails next to a clear tray of nails on a white surface with sharp shadows",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 7,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "almost nude",
+          "coffin nails",
+          "sheer pink",
+          "press on nails",
+          "application demo",
+          "pressing cuticle"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

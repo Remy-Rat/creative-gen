@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "path": "02_Application/Shy But Extra/IMG_3887.MOV",
+    "category": "application",
+    "shade": "Shy But Extra",
+    "duration": 14.5,
+    "tokens_in": 3000,
+    "tokens_out": 661,
+    "cost": 0.0104
+  },
+  "record": {
+    "clip_id": "IG-02-application-shy-but-extra-img-3887",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Shy But Extra",
+    "shade_matches_folder": true,
+    "colour_finish": "nude",
+    "shape": "almond",
+    "method": "glue",
+    "has_speech": false,
+    "summary": "Close-up of applying Nailed It Glue to a buffed natural thumb nail before press-on application.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 14.5,
+        "usable": {
+          "min": 5.0,
+          "max": 13.0,
+          "sweet_spot": 8.0
+        },
+        "action_climax": {
+          "t": 9.0,
+          "action": "squeezing a drop of clear glue onto the natural thumb nail"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "glue_apply",
+        "subject": "single_nail",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_white_surface",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "nailed_it_glue",
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "A close-up of a natural thumb nail receiving a drop of clear glue from a purple tube, with a blurry press-on nail tray in the background.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": true,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 5,
+          "proof": 5,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "glue application",
+          "nail prep",
+          "applying glue",
+          "nailed it glue",
+          "soft gel press ons",
+          "diy manicure"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

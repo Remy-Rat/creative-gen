@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "path": "02_Application/Glaze Check/IMG_3044.MOV",
+    "category": "application",
+    "shade": "Glaze Check",
+    "duration": 8.9,
+    "tokens_in": 1638,
+    "tokens_out": 646,
+    "cost": 0.0083
+  },
+  "record": {
+    "clip_id": "IG-02-application-glaze-check-img-3044",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Glaze Check",
+    "shade_matches_folder": true,
+    "colour_finish": "sheer milky pink",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Sizing a sheer milky pink Glaze Check press-on nail onto a bare thumb nail next to the kit.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 8.9,
+        "usable": {
+          "min": 0.0,
+          "max": 8.9,
+          "sweet_spot": 3.5
+        },
+        "action_climax": {
+          "t": 3.5,
+          "action": "placing the press-on nail onto the bare thumb nail for sizing"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "size_match",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white table with harsh sunlight shadow",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Bare thumb nail on the right, Glaze Check press-on set tray on the left under direct sunlight with shadows.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 5,
+          "proof": 4,
+          "standalone": 6,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "sizing press on nails",
+          "glaze check",
+          "sheer pink nails",
+          "almond nails",
+          "application demo",
+          "size matching"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

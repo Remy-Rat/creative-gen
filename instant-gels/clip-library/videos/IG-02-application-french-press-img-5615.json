@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "path": "02_Application/French Press/IMG_5615.MOV",
+    "category": "application",
+    "shade": "French Press",
+    "duration": 4.7,
+    "tokens_in": 1372,
+    "tokens_out": 643,
+    "cost": 0.0078
+  },
+  "record": {
+    "clip_id": "IG-02-application-french-press-img-5615",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "French Press",
+    "shade_matches_folder": true,
+    "colour_finish": "glossy nude with white french tips",
+    "shape": "squoval",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of a hand showcasing a fresh French Press manicure with the nail tray in the background.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 4.7,
+        "usable": {
+          "min": 0.0,
+          "max": 4.7,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 2.0,
+          "action": "hand subtly tilts to catch the sunlight on the glossy French tips"
+        },
+        "creative_role": [
+          "reveal",
+          "lifestyle"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "indoor_daylight",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left",
+          "top_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "French manicure nails held up in sharp sunlight casting a distinct shadow on a white surface, with a blurred nail tray on the left.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "french manicure",
+          "french press",
+          "squoval nails",
+          "white tips",
+          "aesthetic nails",
+          "sunlight shadow",
+          "nail reveal",
+          "press-on nails"
+        ],
+        "confidence": 1.0,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

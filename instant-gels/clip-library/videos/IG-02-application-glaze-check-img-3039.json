@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "path": "02_Application/Glaze Check/IMG_3039.MOV",
+    "category": "application",
+    "shade": "Glaze Check",
+    "duration": 14.6,
+    "tokens_in": 2035,
+    "tokens_out": 654,
+    "cost": 0.0089
+  },
+  "record": {
+    "clip_id": "IG-02-application-glaze-check-img-3039",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Glaze Check",
+    "shade_matches_folder": true,
+    "colour_finish": "sheer milky pink glaze",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Model holds up a purple GLAMRDIP nail file next to her natural thumb nail, preparing for application.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 14.6,
+        "usable": {
+          "min": 0.0,
+          "max": 14.6,
+          "sweet_spot": 5.0
+        },
+        "action_climax": {
+          "t": 7.0,
+          "action": "holding up the purple GLAMRDIP nail file next to the thumb"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "prep_shape",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_bright",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "smooth_moves_file",
+          "cuticle_stick"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Close-up of natural thumb nail with a purple GLAMRDIP mini file held up, press-on set in background under bright sunlight.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 5,
+          "proof": 3,
+          "standalone": 6,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "prep",
+          "nail file",
+          "natural nail",
+          "glaze check",
+          "purple file",
+          "glamrdip file",
+          "application prep"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

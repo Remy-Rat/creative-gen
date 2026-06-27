@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "path": "02_Application/Purple Cat Eye/IMG_4323.MOV",
+    "category": "application",
+    "shade": "Purple Cat Eye",
+    "duration": 15.3,
+    "tokens_in": 2036,
+    "tokens_out": 673,
+    "cost": 0.0091
+  },
+  "record": {
+    "clip_id": "IG-02-application-purple-cat-eye-img-4323",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Purple Cat Eye",
+    "shade_matches_folder": true,
+    "colour_finish": "purple cat eye shimmer",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A hand holds up a purple GLAMRDiP nail file next to a bare thumb nail, preparing for application.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 15.3,
+        "usable": {
+          "min": 0.0,
+          "max": 15.3,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 2.5,
+          "action": "holding up the purple GLAMRDiP nail file next to the bare thumb"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "prep_buff",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white tabletop with studio lighting",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left",
+          "top"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "smooth_moves_file",
+          "cuticle_stick"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "A close-up of a bare thumb nail on a white surface, with a purple GLAMRDiP nail file held up in front of it. A purple cat eye press-on nail set is visible in the background.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 5,
+          "proof": 4,
+          "standalone": 5,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "nail prep",
+          "nail file",
+          "smooth moves file",
+          "purple cat eye",
+          "bare nail",
+          "glamrdip file",
+          "manicure prep"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "path": "02_Application/Berry Extra/IMG_4765.MOV",
+    "category": "application",
+    "shade": "Berry Extra",
+    "duration": 16.2,
+    "tokens_in": 3266,
+    "tokens_out": 634,
+    "cost": 0.0106
+  },
+  "record": {
+    "clip_id": "IG-02-application-berry-extra-img-4765",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Berry Extra",
+    "shade_matches_folder": true,
+    "colour_finish": "glossy berry red",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Model presses and tests a glossy berry red almond press-on nail on her thumb.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 16.2,
+        "usable": {
+          "min": 0.0,
+          "max": 16.2,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 2.5,
+          "action": "pressing down on the tip of the applied nail"
+        },
+        "creative_role": [
+          "demo",
+          "proof"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "press_hold",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white background with sunlight shadow",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Thumb with glossy berry red nail being pressed, tray of red nails in background under bright sunlight.",
+        "claims_shown": [
+          "press_on_and_go"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 6,
+          "proof": 7,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "berry extra",
+          "red nails",
+          "pressing nail",
+          "application demo",
+          "almond shape",
+          "press-on nails"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

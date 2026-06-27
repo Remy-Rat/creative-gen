@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "path": "02_Application/Bubbly Babe/IMG_6063.MOV",
+    "category": "application",
+    "shade": "Bubbly Babe",
+    "duration": 4.6,
+    "tokens_in": 1377,
+    "tokens_out": 646,
+    "cost": 0.0079
+  },
+  "record": {
+    "clip_id": "IG-02-application-bubbly-babe-img-6063",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Bubbly Babe",
+    "shade_matches_folder": true,
+    "colour_finish": "nude glossy",
+    "shape": "squoval",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of a hand showing applied Bubbly Babe squoval nails next to the press-on set packaging.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 4.6,
+        "usable": {
+          "min": 0.0,
+          "max": 4.6,
+          "sweet_spot": 1.0,
+          "sweet_spot_end": 3.5
+        },
+        "action_climax": {
+          "t": 2.0,
+          "action": "hand tilting slightly to catch the light on the glossy finish"
+        },
+        "creative_role": [
+          "reveal",
+          "lifestyle"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_daylight",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand showing glossy nude squoval nails in bright sunlight next to a blurry press-on set tray",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 6,
+          "proof": 5,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "bubbly babe",
+          "squoval nails",
+          "nude nails",
+          "glossy finish",
+          "final reveal",
+          "sunlight reflection",
+          "press-on set"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

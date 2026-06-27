@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "path": "02_Application/French Press/IMG_5612.MOV",
+    "category": "application",
+    "shade": "French Press",
+    "duration": 14.2,
+    "tokens_in": 3002,
+    "tokens_out": 648,
+    "cost": 0.0103
+  },
+  "record": {
+    "clip_id": "IG-02-application-french-press-img-5612",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "French Press",
+    "shade_matches_folder": true,
+    "colour_finish": "french tip glossy",
+    "shape": "squoval",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Demonstration of pressing and holding French Press gel nails onto the ring and pinky fingers.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 14.2,
+        "usable": {
+          "min": 0.0,
+          "max": 14.2,
+          "sweet_spot": 0.0
+        },
+        "action_climax": {
+          "t": 8.0,
+          "action": "reveal of applied ring finger nail"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "press_hold",
+        "subject": "both_hands",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "short",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "French tip nails being pressed onto a hand next to a clear plastic tray of nails on a white surface",
+        "claims_shown": [
+          "press_on_and_go"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 8,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "french press",
+          "french tip",
+          "press on application",
+          "press and hold",
+          "nail application",
+          "instant gels",
+          "squoval nails"
+        ],
+        "confidence": 1.0,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

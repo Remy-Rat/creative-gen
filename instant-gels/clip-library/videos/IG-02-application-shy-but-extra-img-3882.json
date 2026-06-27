@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "path": "02_Application/Shy But Extra/IMG_3882.MOV",
+    "category": "application",
+    "shade": "Shy But Extra",
+    "duration": 13.3,
+    "tokens_in": 1905,
+    "tokens_out": 655,
+    "cost": 0.0088
+  },
+  "record": {
+    "clip_id": "IG-02-application-shy-but-extra-img-3882",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Shy But Extra",
+    "shade_matches_folder": true,
+    "colour_finish": "sheer pink nude",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Filing and shaping the natural thumb nail with a purple GLAMRDIP mini file before application.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 13.3,
+        "usable": {
+          "min": 0.0,
+          "max": 13.3,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 6.0,
+          "action": "filing the edge of the natural thumb nail"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "prep_shape",
+        "subject": "single_nail",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "indoor_bright",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "smooth_moves_file",
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 2.5,
+            "desc": "rhythmic nail filing sound"
+          }
+        ],
+        "visual_fingerprint": "purple GLAMRDIP mini file shaping a natural thumb nail with a blurry press-on tray in the background",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 6,
+          "proof": 5,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "nail prep",
+          "filing natural nail",
+          "purple nail file",
+          "prep step",
+          "manicure prep",
+          "asmr filing"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

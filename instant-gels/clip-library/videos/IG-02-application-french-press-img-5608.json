@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "path": "02_Application/French Press/IMG_5608.MOV",
+    "category": "application",
+    "shade": "French Press",
+    "duration": 14.5,
+    "tokens_in": 3002,
+    "tokens_out": 664,
+    "cost": 0.0105
+  },
+  "record": {
+    "clip_id": "IG-02-application-french-press-img-5608",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "French Press",
+    "shade_matches_folder": true,
+    "colour_finish": "french manicure glossy",
+    "shape": "squoval",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A close-up of a French Press press-on nail being positioned and pressed onto a thumb.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 14.5,
+        "usable": {
+          "min": 0.0,
+          "max": 14.5,
+          "sweet_spot": 1.0,
+          "sweet_spot_end": 13.5
+        },
+        "action_climax": {
+          "t": 7.0,
+          "action": "pressing and holding the French Press nail onto the thumb"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "press_hold",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "indoor_daylight",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "a thumb nail being fitted with a French manicure press-on nail under bright sunlight, with a tray of nails in the background",
+        "claims_shown": [
+          "press_on_and_go"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 8,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "french press application",
+          "press on nail application",
+          "thumb nail press",
+          "french manicure press on",
+          "glamrdip instant gels"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

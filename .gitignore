@@ -1,0 +1,48 @@
+# ---- secrets (NEVER commit) ----
+.env
+**/.env
+*.key
+*.pem
+
+# ---- os / python junk ----
+.DS_Store
+**/.DS_Store
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# ---- raw footage & media (re-downloadable; far too big for git) ----
+*.mov
+*.MOV
+*.mp4
+*.MP4
+*.m4v
+*.M4V
+*.webm
+*.avi
+*.mp3
+*.wav
+*.mkv
+
+# ---- large derived / asset directories ----
+instant-gels/clip-library/raw/
+clip-library/frames/
+clip-library/indexed/
+clip-library/indexes/
+clip-library/indexes_v2/
+
+# ---- big raw-asset top-level folders (kept on Drive, not git) ----
+/Clips to be indexed/
+/Completed Ad concepts/
+/New Ad Concepts/
+/UGC For Transcription/
+/W2-Apr-2026_WeSpent4Years/
+
+# ---- base64 image sidecars (derivable from frames) ----
+*.uri
+
+# ---- gemini uploaded-file scratch ----
+**/_trial/*.jpg
+
+# ---- archived raw source briefs (incl. supplier invoice w/ banking + COGs) ----
+**/_source_originals/

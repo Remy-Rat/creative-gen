@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "path": "02_Application/Bubbly Babe/IMG_6057.MOV",
+    "category": "application",
+    "shade": "Bubbly Babe",
+    "duration": 6.9,
+    "tokens_in": 1509,
+    "tokens_out": 662,
+    "cost": 0.0082
+  },
+  "record": {
+    "clip_id": "IG-02-application-bubbly-babe-img-6057",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Bubbly Babe",
+    "shade_matches_folder": true,
+    "colour_finish": "pearl chrome nude",
+    "shape": "squoval",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A hand opens from a loose fist to reveal a shimmering Bubbly Babe manicure next to the packaging.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 6.9,
+        "usable": {
+          "min": 0.0,
+          "max": 6.9,
+          "sweet_spot": 1.0,
+          "sweet_spot_end": 5.0
+        },
+        "action_climax": {
+          "t": 1.0,
+          "action": "hand opens to reveal the full set of shimmering nails"
+        },
+        "creative_role": [
+          "reveal",
+          "payoff"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_studio_white",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "A hand opening under bright sunlight to show a pearl-nude squoval manicure next to a press-on nail tray.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "bubbly babe",
+          "pearl chrome",
+          "squoval nails",
+          "final reveal",
+          "hand opening",
+          "sunlight shadow",
+          "nude manicure",
+          "press-on nails"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

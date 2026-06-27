@@ -1,0 +1,548 @@
+{
+  "meta": {
+    "path": "02_Application/EXAMPLE - Full Length Application (short ones would trim the prep videos).mp4",
+    "category": "application",
+    "shade": "-",
+    "duration": 15.4,
+    "scene_cuts": [
+      0.6,
+      2.33,
+      3.87,
+      4.73,
+      5.9,
+      7.17,
+      9.0,
+      9.83,
+      11.6,
+      12.47
+    ],
+    "tokens_in": 2542,
+    "tokens_out": 4145,
+    "cost_usd": 0.0411,
+    "secs": 42.6
+  },
+  "record": {
+    "clip_id": "IG-02-application-example-full-length-application-short-ones-would-trim-the-prep-videos",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "pearl chrome pink",
+    "shade_matches_folder": true,
+    "colour_finish": "pearl chrome",
+    "shape": "almond",
+    "method": "glue",
+    "has_speech": false,
+    "summary": "Full step-by-step application of GLAMRDiP Instant Gels pearl chrome almond nails using glue, from prep to final reveal.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 0.6,
+        "usable": {
+          "min": 0.0,
+          "max": 0.6,
+          "sweet_spot": 0.2
+        },
+        "action_climax": {
+          "t": 0.3,
+          "action": "bare nail close up"
+        },
+        "creative_role": [
+          "hook"
+        ],
+        "creative_stage": "Hook",
+        "process_step": "prep_pushback",
+        "subject": "single_nail",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "white bench",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "bottom",
+          "left",
+          "right"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "bare thumb nail close up with press-on set in background",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 7,
+          "hook": 6,
+          "proof": 5,
+          "standalone": 5,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "bare nail",
+          "prep",
+          "manicure prep",
+          "natural nail"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      },
+      {
+        "t_start": 0.6,
+        "t_end": 2.33,
+        "usable": {
+          "min": 0.6,
+          "max": 2.33,
+          "sweet_spot": 1.5
+        },
+        "action_climax": {
+          "t": 1.5,
+          "action": "pushing back cuticle with wooden stick"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "prep_pushback",
+        "subject": "single_nail",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "white bench",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "bottom",
+          "left",
+          "right"
+        ],
+        "products_visible": [
+          "cuticle_stick"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "wooden cuticle stick pushing back cuticle on thumb",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 5,
+          "proof": 6,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "cuticle stick",
+          "pushing cuticles",
+          "nail prep",
+          "manicure prep"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      },
+      {
+        "t_start": 2.33,
+        "t_end": 3.87,
+        "usable": {
+          "min": 2.33,
+          "max": 3.87,
+          "sweet_spot": 3.0
+        },
+        "action_climax": {
+          "t": 3.0,
+          "action": "buffing nail with purple file"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "prep_buff",
+        "subject": "single_nail",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "white bench",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "bottom",
+          "left",
+          "right"
+        ],
+        "products_visible": [
+          "smooth_moves_file"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 3.0,
+            "desc": "nail filing scratch"
+          }
+        ],
+        "visual_fingerprint": "purple glamrdip file buffing the thumb nail surface",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 5,
+          "proof": 6,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "nail file",
+          "buffing nail",
+          "nail prep",
+          "smooth moves file"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      },
+      {
+        "t_start": 3.87,
+        "t_end": 4.73,
+        "usable": {
+          "min": 3.87,
+          "max": 4.73,
+          "sweet_spot": 4.3
+        },
+        "action_climax": {
+          "t": 4.3,
+          "action": "showing prep pad packet"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "prep_cleanse",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white bench",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "bottom",
+          "left",
+          "right"
+        ],
+        "products_visible": [
+          "prep_pad"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "holding purple glamrdip prep pad packet",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 5,
+          "proof": 5,
+          "standalone": 5,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "prep pad",
+          "alcohol wipe",
+          "nail prep"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      },
+      {
+        "t_start": 4.73,
+        "t_end": 5.9,
+        "usable": {
+          "min": 4.73,
+          "max": 5.9,
+          "sweet_spot": 5.3
+        },
+        "action_climax": {
+          "t": 5.3,
+          "action": "wiping nail with prep pad"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "prep_cleanse",
+        "subject": "single_nail",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "white bench",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "bottom",
+          "left",
+          "right"
+        ],
+        "products_visible": [
+          "prep_pad"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "wiping thumb nail clean with white prep pad wipe",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 5,
+          "proof": 6,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "wiping nail",
+          "prep pad",
+          "cleansing nail"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      },
+      {
+        "t_start": 5.9,
+        "t_end": 7.17,
+        "usable": {
+          "min": 5.9,
+          "max": 7.17,
+          "sweet_spot": 6.5
+        },
+        "action_climax": {
+          "t": 6.5,
+          "action": "squeezing glue onto press-on nail"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "glue_apply",
+        "subject": "single_nail",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "white bench",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "bottom",
+          "left",
+          "right"
+        ],
+        "products_visible": [
+          "nailed_it_glue"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "squeezing purple nailed it glue tube onto underside of press-on nail",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": true,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 6,
+          "proof": 7,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "nail glue",
+          "applying glue",
+          "glue application"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      },
+      {
+        "t_start": 7.17,
+        "t_end": 9.0,
+        "usable": {
+          "min": 7.17,
+          "max": 9.0,
+          "sweet_spot": 8.1
+        },
+        "action_climax": {
+          "t": 8.1,
+          "action": "pressing nail onto thumb"
+        },
+        "creative_role": [
+          "demo",
+          "reveal"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "position_at_cuticle",
+        "subject": "single_nail",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "white bench",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "bottom",
+          "left",
+          "right"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "pressing down the pearl chrome almond nail onto thumb",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 8,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "pressing nail",
+          "applying press on",
+          "nail application"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      },
+      {
+        "t_start": 9.0,
+        "t_end": 12.47,
+        "usable": {
+          "min": 9.0,
+          "max": 12.47,
+          "sweet_spot": 10.7
+        },
+        "action_climax": {
+          "t": 10.7,
+          "action": "quick cuts of nails being applied one by one"
+        },
+        "creative_role": [
+          "demo",
+          "transition"
+        ],
+        "creative_stage": "Transition",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "fast",
+        "setting": "white bench",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "bottom"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "progression of hand getting all pearl chrome nails applied",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 6,
+          "proof": 7,
+          "standalone": 6,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "nail progression",
+          "application montage",
+          "before and after"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      },
+      {
+        "t_start": 12.47,
+        "t_end": 15.4,
+        "usable": {
+          "min": 12.47,
+          "max": 15.4,
+          "sweet_spot": 14.0
+        },
+        "action_climax": {
+          "t": 14.0,
+          "action": "final reveal of completed hand with heart ring"
+        },
+        "creative_role": [
+          "payoff",
+          "lifestyle"
+        ],
+        "creative_stage": "Transformation",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "white bench",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "bottom"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "completed hand with pearl chrome almond nails and heart ring",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 9,
+          "standalone": 8,
+          "edit_flexibility": 9
+        },
+        "search_tags": [
+          "final reveal",
+          "completed manicure",
+          "pearl chrome nails",
+          "almond nails"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "revise",
+    "issues": [
+      "The claim 'press_on_and_go' is visually substantiated in the segment 00:06-00:08 as the press-on nail is applied and pressed onto the natural nail."
+    ]
+  }
+}

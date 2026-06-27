@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "path": "02_Application/Purple Cat Eye/IMG_4338.MOV",
+    "category": "application",
+    "shade": "Purple Cat Eye",
+    "duration": 5.2,
+    "tokens_in": 1375,
+    "tokens_out": 627,
+    "cost": 0.0077
+  },
+  "record": {
+    "clip_id": "IG-02-application-purple-cat-eye-img-4338",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Purple Cat Eye",
+    "shade_matches_folder": true,
+    "colour_finish": "purple magnetic cat eye shimmer",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hand showcasing purple cat-eye magnetic shimmer press-on nails under direct sunlight.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 5.2,
+        "usable": {
+          "min": 0.0,
+          "max": 5.2,
+          "sweet_spot": 1.0
+        },
+        "action_climax": {
+          "t": 2.5,
+          "action": "hand tilting slightly to catch the light on the cat-eye shimmer"
+        },
+        "creative_role": [
+          "reveal",
+          "payoff"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor daylight",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Purple cat-eye nails shimmering under direct sunlight with kit box in background.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "purple cat eye",
+          "magnetic nails",
+          "shimmer nails",
+          "almond nails",
+          "final reveal",
+          "sunlight shimmer"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

@@ -1,0 +1,182 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "GlamrDip Clip Index Schema v1.0",
+  "description": "Schema for indexing video clips in the GlamrDip ad production content library. Designed for AI consumption - enables script-to-clip matching, automated editing, and voiceover alignment.",
+  "type": "object",
+  "required": ["clip_id", "file", "metadata", "scenes", "tags"],
+  "properties": {
+    "clip_id": {
+      "type": "string",
+      "description": "Unique identifier for this clip (format: CLIP-XXXX)"
+    },
+    "file": {
+      "type": "object",
+      "description": "Source file information",
+      "properties": {
+        "filename": { "type": "string" },
+        "format": { "type": "string" },
+        "resolution": { "type": "string", "description": "e.g. 1080x1920" },
+        "orientation": { "type": "string", "enum": ["portrait", "landscape", "square"] },
+        "fps": { "type": "number" },
+        "duration_seconds": { "type": "number" },
+        "total_frames": { "type": "integer" },
+        "file_size_mb": { "type": "number" },
+        "has_audio": { "type": "boolean" },
+        "created_date": { "type": "string", "format": "date" }
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "description": "High-level content classification",
+      "properties": {
+        "category": {
+          "type": "string",
+          "enum": ["tutorial", "product_showcase", "before_after", "testimonial", "lifestyle", "unboxing", "comparison", "raw_footage"]
+        },
+        "nail_style": {
+          "type": "string",
+          "description": "e.g. french_tip, solid_colour, ombre, glitter, nail_art"
+        },
+        "colours": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Primary colours featured in the clip"
+        },
+        "products_visible": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "GlamrDip products visible or used in clip"
+        },
+        "process_steps_shown": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["prep", "base_application", "dip", "tap_off", "brush_dust", "shape_file", "glaze_seal", "activator", "top_coat", "final_reveal", "cuticle_oil"]
+          },
+          "description": "Which steps of the dip powder process are shown"
+        },
+        "content_summary": {
+          "type": "string",
+          "description": "1-2 sentence human-readable summary of the entire clip"
+        },
+        "ad_suitability": {
+          "type": "object",
+          "properties": {
+            "hero_shot": { "type": "boolean", "description": "Contains a clean final reveal shot suitable as a hero/thumbnail" },
+            "process_footage": { "type": "boolean", "description": "Shows application process (good for tutorial-style ads)" },
+            "close_up_quality": { "type": "string", "enum": ["excellent", "good", "average", "poor"] },
+            "lighting_quality": { "type": "string", "enum": ["excellent", "good", "average", "poor"] },
+            "background": { "type": "string", "description": "Description of background - clean/cluttered/branded etc." }
+          }
+        }
+      }
+    },
+    "scenes": {
+      "type": "array",
+      "description": "Scene-by-scene breakdown. Each scene is a distinct visual segment.",
+      "items": {
+        "type": "object",
+        "required": ["scene_number", "timestamp_start", "timestamp_end", "description"],
+        "properties": {
+          "scene_number": { "type": "integer" },
+          "timestamp_start": { "type": "string", "description": "MM:SS.ms format" },
+          "timestamp_end": { "type": "string", "description": "MM:SS.ms format" },
+          "duration_seconds": { "type": "number" },
+          "frame_range": {
+            "type": "object",
+            "properties": {
+              "start": { "type": "integer" },
+              "end": { "type": "integer" }
+            }
+          },
+          "description": {
+            "type": "string",
+            "description": "Detailed description of what is visually happening"
+          },
+          "visual_content": {
+            "type": "object",
+            "properties": {
+              "subject": { "type": "string", "description": "What is the main focus - e.g. single_nail, full_hand, product_jar" },
+              "framing": { "type": "string", "enum": ["extreme_close_up", "close_up", "medium", "wide", "full_body"] },
+              "dominant_colours": { "type": "array", "items": { "type": "string" } },
+              "text_overlays": { "type": "array", "items": { "type": "string" }, "description": "Any text visible on screen" },
+              "props_visible": { "type": "array", "items": { "type": "string" } }
+            }
+          },
+          "motion": {
+            "type": "object",
+            "properties": {
+              "camera_movement": { "type": "string", "enum": ["static", "pan", "zoom_in", "zoom_out", "tilt", "tracking", "handheld"] },
+              "subject_movement": { "type": "string", "description": "What the hands/fingers are doing" },
+              "transition_in": { "type": "string", "enum": ["cut", "fade", "dissolve", "wipe", "none"], "description": "How this scene begins" },
+              "transition_out": { "type": "string", "enum": ["cut", "fade", "dissolve", "wipe", "none"], "description": "How this scene ends" },
+              "movement_intensity": { "type": "string", "enum": ["still", "slow", "moderate", "fast"], "description": "How much movement within the scene" }
+            }
+          },
+          "process_step": {
+            "type": "string",
+            "description": "Which dip powder application step this scene shows (if applicable)"
+          },
+          "ai_editing_notes": {
+            "type": "string",
+            "description": "Notes for AI editor - e.g. good cut point, matches well with voiceover about X, strong visual moment"
+          }
+        }
+      }
+    },
+    "tags": {
+      "type": "object",
+      "description": "Searchable tags for AI clip retrieval",
+      "properties": {
+        "visual_tags": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Searchable visual descriptors"
+        },
+        "mood_tags": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Aesthetic/mood descriptors"
+        },
+        "technique_tags": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Nail technique descriptors"
+        },
+        "ad_use_tags": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "What type of ad this clip works for - e.g. tutorial_ad, product_demo, social_proof, hero_shot"
+        }
+      }
+    },
+    "ai_recommendations": {
+      "type": "object",
+      "description": "AI-generated recommendations for how to use this clip",
+      "properties": {
+        "best_segments": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "scenes": { "type": "array", "items": { "type": "integer" } },
+              "use_case": { "type": "string" },
+              "suggested_duration": { "type": "string" }
+            }
+          }
+        },
+        "voiceover_alignment_hints": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "scene": { "type": "integer" },
+              "suggested_script_topic": { "type": "string" },
+              "natural_pause_point": { "type": "boolean" }
+            }
+          }
+        }
+      }
+    }
+  }
+}

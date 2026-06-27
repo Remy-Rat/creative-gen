@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "path": "02_Application/Cinammon Spice/IMG_2171.MOV",
+    "category": "application",
+    "shade": "Cinammon Spice",
+    "duration": 15.1,
+    "tokens_in": 3138,
+    "tokens_out": 690,
+    "cost": 0.0109
+  },
+  "record": {
+    "clip_id": "IG-02-application-cinammon-spice-img-2171",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Cinnamon Spice",
+    "shade_matches_folder": true,
+    "colour_finish": "brown magnetic cat-eye shimmer",
+    "shape": "almond",
+    "method": "glue",
+    "has_speech": false,
+    "summary": "Hand pressing down on applied brown cat-eye magnetic press-on nails next to the kit box.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 15.1,
+        "usable": {
+          "min": 0.0,
+          "max": 15.1,
+          "sweet_spot": 0.0
+        },
+        "action_climax": {
+          "t": 10.0,
+          "action": "pressing down firmly on the index fingernail"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "press_hold",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor white surface with sunlight shadow",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Brown cat-eye nails on hand with diagonal sunlight shadow, kit box on left.",
+        "claims_shown": [
+          "press_on_and_go"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 6,
+          "proof": 7,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "cinnamon spice",
+          "cat eye",
+          "magnetic nails",
+          "pressing nails",
+          "application demo",
+          "brown shimmer"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "revise",
+    "issues": [
+      "The video shows the removal of press-on nails rather than their application, so the 'press_on_and_go' claim is not visually demonstrated."
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "path": "01_Hooks & Attention Clips/Almost Nude_Leaf.MOV",
+    "category": "hooks",
+    "shade": "-",
+    "duration": 5.5,
+    "tokens_in": 1369,
+    "tokens_out": 633,
+    "cost": 0.0078
+  },
+  "record": {
+    "clip_id": "IG-01-hooks-attention-clips-almost-nude-leaf",
+    "product_line": "instant_gels",
+    "category": "hooks",
+    "shade": "Almost Nude",
+    "shade_matches_folder": false,
+    "colour_finish": "translucent pinkish nude glossy",
+    "shape": "coffin",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A hand with glossy pinkish-nude coffin nails touches a green leaf, then turns to show the full set.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 5.5,
+        "usable": {
+          "min": 0.0,
+          "max": 5.5,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 3.0,
+          "action": "hand turns to reveal the full set of glossy pinkish-nude coffin nails against a white sleeve"
+        },
+        "creative_role": [
+          "hook",
+          "lifestyle"
+        ],
+        "creative_stage": "Hook",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "outdoor_garden",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "bottom",
+          "right"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "glossy pinkish-nude coffin nails held against a white sleeve with green leaves in the background",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 1,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "almost nude",
+          "coffin nails",
+          "pink nude nails",
+          "outdoor aesthetic",
+          "green leaves",
+          "white sleeve",
+          "hand model",
+          "nail reveal",
+          "glossy finish"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

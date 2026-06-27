@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "path": "02_Application/Purple Cat Eye/IMG_4322.MOV",
+    "category": "application",
+    "shade": "Purple Cat Eye",
+    "duration": 22.2,
+    "tokens_in": 2498,
+    "tokens_out": 665,
+    "cost": 0.0097
+  },
+  "record": {
+    "clip_id": "IG-02-application-purple-cat-eye-img-4322",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Purple Cat Eye",
+    "shade_matches_folder": true,
+    "colour_finish": "purple cat eye shimmer",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Pushing back the cuticle of a bare thumb nail using a wooden cuticle stick before application.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 22.2,
+        "usable": {
+          "min": 2.0,
+          "max": 21.0,
+          "sweet_spot": 10.0
+        },
+        "action_climax": {
+          "t": 10.0,
+          "action": "pushing back the cuticle with the wooden stick"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "prep_pushback",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "studio",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left"
+        ],
+        "products_visible": [
+          "cuticle_stick",
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 4.0,
+            "desc": "soft scraping sound of cuticle stick on nail plate"
+          }
+        ],
+        "visual_fingerprint": "bare thumb nail on the right, purple cat eye press-on tray on the left, wooden cuticle stick prepping cuticle",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 7,
+          "hook": 5,
+          "proof": 4,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "cuticle prep",
+          "wooden cuticle stick",
+          "nail prep",
+          "purple cat eye",
+          "soft gel press ons",
+          "application tutorial"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

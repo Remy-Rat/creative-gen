@@ -1,0 +1,320 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "GlamrDip Clip Index Schema v2.0",
+  "description": "Schema for indexing video clips in the GlamrDip ad production content library. Designed for AI-driven ad assembly on Meta (Feed 4:5, Stories/Reels 9:16). Enables script-to-clip matching, automated EDL generation, voiceover alignment, and pacing control.",
+  "type": "object",
+  "required": ["clip_id", "file", "metadata", "scenes", "tags"],
+  "properties": {
+
+    "clip_id": {
+      "type": "string",
+      "description": "Unique identifier (format: CLIP-XXXX)"
+    },
+
+    "file": {
+      "type": "object",
+      "description": "Source file information",
+      "properties": {
+        "filename": { "type": "string" },
+        "renamed_to": { "type": "string", "description": "Standardised filename after indexing" },
+        "original_path": { "type": "string" },
+        "indexed_path": { "type": "string", "description": "Path relative to clip-library root" },
+        "format": { "type": "string", "description": "e.g. mp4 (H.264/AAC)" },
+        "resolution": { "type": "string", "description": "e.g. 1080x1920" },
+        "orientation": { "type": "string", "enum": ["portrait", "landscape", "square"] },
+        "fps": { "type": "number" },
+        "duration_seconds": { "type": "number" },
+        "total_frames": { "type": "integer" },
+        "file_size_mb": { "type": "number" },
+        "has_audio": { "type": "boolean" },
+        "created_date": { "type": "string", "format": "date" }
+      }
+    },
+
+    "metadata": {
+      "type": "object",
+      "description": "High-level content classification",
+      "properties": {
+        "category": {
+          "type": "string",
+          "enum": [
+            "hooks", "problem_comparison", "application_process",
+            "product_showcase", "results_reveals", "ugc_testimonial",
+            "text_overlay_base", "lifestyle", "raw_footage"
+          ]
+        },
+        "nail_style": {
+          "type": "string",
+          "description": "e.g. french_tip, solid_colour, ombre, glitter, nail_art, natural, damaged"
+        },
+        "colours": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Primary colours featured in the clip"
+        },
+        "products_visible": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "bond_bottle", "base_bottle", "seal_bottle", "glow_bottle", "care_bottle", "soak_bottle",
+              "clear_powder_pot", "colour_powder_pot",
+              "180_grit_file", "240_grit_file", "cuticle_pusher", "dust_brush",
+              "pre_shaped_tips", "removal_solution",
+              "purple_kit_box", "instruction_booklet",
+              "other"
+            ]
+          },
+          "description": "GlamrDip products visible or used. See products.json for full product reference."
+        },
+        "process_steps_shown": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "prep", "tips_application", "bond",
+              "base_application", "dip_clear", "dip_colour", "brush_dust",
+              "seal", "glow", "care",
+              "final_reveal", "removal"
+            ]
+          },
+          "description": "Steps from the GlamrDip Dip Perfect System. See products.json application_process for full step details."
+        },
+        "content_summary": {
+          "type": "string",
+          "description": "1-2 sentence human-readable summary"
+        },
+        "quality": {
+          "type": "object",
+          "properties": {
+            "close_up_quality": { "type": "string", "enum": ["excellent", "good", "average", "poor"] },
+            "lighting_quality": { "type": "string", "enum": ["excellent", "good", "average", "poor"] },
+            "background": { "type": "string", "description": "Clean/cluttered/branded etc." },
+            "overall_production": { "type": "string", "enum": ["professional", "semi_pro", "casual", "raw"] }
+          }
+        }
+      }
+    },
+
+    "platform": {
+      "type": "object",
+      "description": "Platform-specific suitability for Meta ad placements",
+      "properties": {
+        "aspect_ratio_native": {
+          "type": "string",
+          "description": "Native aspect ratio of source clip e.g. 9:16, 4:5, 1:1, 16:9"
+        },
+        "crop_suitability": {
+          "type": "object",
+          "description": "Whether the clip can be safely cropped to each target ratio without losing the key visual",
+          "properties": {
+            "9_16": { "type": "string", "enum": ["native", "crop_safe", "crop_risky", "unsuitable"], "description": "Stories/Reels" },
+            "4_5": { "type": "string", "enum": ["native", "crop_safe", "crop_risky", "unsuitable"], "description": "Feed" },
+            "1_1": { "type": "string", "enum": ["native", "crop_safe", "crop_risky", "unsuitable"], "description": "Carousel" }
+          }
+        },
+        "subject_position": {
+          "type": "string",
+          "enum": ["centre", "left", "right", "top", "bottom", "centre_left", "centre_right"],
+          "description": "Where the main subject sits in the frame - determines crop safety"
+        },
+        "safe_zone_clear": {
+          "type": "boolean",
+          "description": "True if key visuals avoid the top 15% (username) and bottom 20% (CTA button) of 9:16 frame"
+        }
+      }
+    },
+
+    "audio": {
+      "type": "object",
+      "description": "Audio characteristics of the source clip",
+      "properties": {
+        "has_voice": { "type": "boolean", "description": "Human speech present" },
+        "has_asmr": { "type": "boolean", "description": "Satisfying process sounds - tapping, brushing, powder sounds" },
+        "has_music": { "type": "boolean", "description": "Background music present" },
+        "audio_quality": { "type": "string", "enum": ["clean", "usable", "noisy", "silent"] },
+        "asmr_moments": {
+          "type": "array",
+          "description": "Timestamps of notable ASMR-worthy sounds",
+          "items": {
+            "type": "object",
+            "properties": {
+              "timestamp": { "type": "number" },
+              "description": { "type": "string", "description": "e.g. powder tapping, brush sweep, jar click" }
+            }
+          }
+        },
+        "assembly_recommendation": {
+          "type": "string",
+          "enum": ["keep_and_duck", "keep_full", "mute", "strip"],
+          "description": "How the assembler should treat this audio when mixing with voiceover. keep_and_duck = lower volume under VO, keep_full = no VO over this section, mute = silence it, strip = remove entirely"
+        }
+      }
+    },
+
+    "scenes": {
+      "type": "array",
+      "description": "Scene-by-scene breakdown. Each scene is a distinct visual segment.",
+      "items": {
+        "type": "object",
+        "required": ["scene_number", "timestamp_start", "timestamp_end", "description", "script_roles"],
+        "properties": {
+          "scene_number": { "type": "integer" },
+          "timestamp_start": { "type": "string", "description": "MM:SS.mmm format" },
+          "timestamp_end": { "type": "string", "description": "MM:SS.mmm format" },
+          "duration_seconds": { "type": "number" },
+          "frame_range": {
+            "type": "object",
+            "properties": {
+              "start": { "type": "integer" },
+              "end": { "type": "integer" }
+            }
+          },
+
+          "description": {
+            "type": "string",
+            "description": "Detailed description of what is visually happening"
+          },
+
+          "script_roles": {
+            "type": "array",
+            "description": "What role(s) this scene can fill in an ad script. A scene can serve multiple roles.",
+            "items": {
+              "type": "string",
+              "enum": [
+                "hook_shock", "hook_curiosity", "hook_beauty",
+                "problem_visual", "problem_frustration", "problem_damage",
+                "product_intro", "product_hero", "product_branding",
+                "process_step", "process_montage", "process_satisfying_moment",
+                "result_reveal", "result_before_after", "result_durability",
+                "social_proof", "lifestyle", "ugc_authentic",
+                "cta_visual", "transition_filler"
+              ]
+            }
+          },
+
+          "emotional_beat": {
+            "type": "string",
+            "enum": ["shock", "empathy", "curiosity", "satisfaction", "desire", "trust", "urgency"],
+            "description": "The emotional response this scene is designed to trigger in the viewer"
+          },
+
+          "visual_energy": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 5,
+            "description": "Pacing score. 1=static/calm (held product shot), 3=moderate (steady process), 5=fast/dynamic (quick dip, powder explosion, rapid movement)"
+          },
+
+          "usable_range": {
+            "type": "object",
+            "description": "How long this scene can be used in an edit before it feels too short or overstays",
+            "properties": {
+              "min_seconds": { "type": "number", "description": "Shortest usable cut" },
+              "max_seconds": { "type": "number", "description": "Longest usable cut (usually = scene duration)" },
+              "sweet_spot": { "type": "number", "description": "Ideal duration for most ad contexts" }
+            }
+          },
+
+          "action_climax": {
+            "type": "object",
+            "description": "The peak visual moment within this scene - the exact point to sync with a voiceover beat or cut",
+            "properties": {
+              "timestamp": { "type": "string", "description": "MM:SS.mmm - exact moment of peak action" },
+              "action": { "type": "string", "description": "What happens at the climax e.g. 'finger hits powder', 'nail peels off', 'full hand reveal'" }
+            }
+          },
+
+          "visual_content": {
+            "type": "object",
+            "properties": {
+              "subject": { "type": "string", "description": "Main focus - e.g. single_nail, full_hand, product_jar, face_reaction" },
+              "framing": { "type": "string", "enum": ["extreme_close_up", "close_up", "medium", "wide", "full_body"] },
+              "dominant_colours": { "type": "array", "items": { "type": "string" } },
+              "props_visible": { "type": "array", "items": { "type": "string" } }
+            }
+          },
+
+          "motion": {
+            "type": "object",
+            "properties": {
+              "camera_movement": { "type": "string", "enum": ["static", "pan", "zoom_in", "zoom_out", "tilt", "tracking", "handheld"] },
+              "subject_movement": { "type": "string", "description": "What the hands/fingers are doing" },
+              "movement_intensity": { "type": "string", "enum": ["still", "slow", "moderate", "fast"] }
+            }
+          },
+
+          "visual_fingerprint": {
+            "type": "string",
+            "description": "Short unique visual description for dedup. e.g. 'red french tip on nude base, white BG, single nail ECU'. Two scenes with near-identical fingerprints should not be cut back-to-back."
+          },
+
+          "process_step": {
+            "type": ["string", "null"],
+            "description": "Which dip powder application step this scene shows (if applicable)"
+          },
+
+          "pairs_with_topics": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "Voiceover topics this scene matches well. e.g. ['nail_damage', 'chemical_warning', 'UV_danger', 'before_state']. Used by assembler to match scenes to script lines."
+          },
+
+          "hook_strength": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 5,
+            "description": "Thumb-stopping power if used in first 1-3 seconds of an ad. 1=weak (wouldn't stop scrolling), 5=can't look away. Independent of visual_energy - a slow macro of damaged nails can be hook 5 energy 1."
+          }
+        }
+      }
+    },
+
+    "tags": {
+      "type": "array",
+      "description": "Flat searchable tag list with type prefixes. e.g. 'visual:red_french_tip', 'mood:satisfying', 'technique:dip_powder', 'role:hero_shot'",
+      "items": { "type": "string" }
+    },
+
+    "ai_recommendations": {
+      "type": "object",
+      "description": "AI-generated recommendations for how to use this clip in ads",
+      "properties": {
+        "best_segments": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "scenes": { "type": "array", "items": { "type": "integer" } },
+              "use_case": { "type": "string" },
+              "suggested_duration": { "type": "string" }
+            }
+          }
+        },
+        "pairs_well_with": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Clip IDs that would cut well before/after this one. e.g. 'CLIP-0009 (problem) -> this (solution)'"
+        }
+      }
+    },
+
+    "performance": {
+      "type": "object",
+      "description": "Ad performance tracking - populated after clips are used in live ads",
+      "properties": {
+        "times_used": { "type": "integer", "default": 0 },
+        "ads_used_in": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Ad IDs where this clip appeared"
+        },
+        "best_position": {
+          "type": "string",
+          "description": "Where this clip performed best e.g. 'hook', 'body_2', 'cta'"
+        },
+        "notes": { "type": "string" }
+      }
+    }
+  }
+}

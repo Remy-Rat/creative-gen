@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "path": "02_Application/Bubbly Babe/IMG_6050.MOV",
+    "category": "application",
+    "shade": "Bubbly Babe",
+    "duration": 9.6,
+    "tokens_in": 1707,
+    "tokens_out": 612,
+    "cost": 0.0081
+  },
+  "record": {
+    "clip_id": "IG-02-application-bubbly-babe-img-6050",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Bubbly Babe",
+    "shade_matches_folder": true,
+    "colour_finish": "sheer nude glossy",
+    "shape": "squoval",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Sizing a sheer nude press-on nail over a natural nail next to the product tray.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 9.6,
+        "usable": {
+          "min": 0.0,
+          "max": 9.6,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 2.0,
+          "action": "placing press-on nail over natural finger to check fit"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "size_match",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white tabletop with harsh diagonal shadow",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Hand sizing nude nail over natural nail, tray on left, harsh shadow",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 5,
+          "proof": 4,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "size match",
+          "bubbly babe",
+          "nude nails",
+          "press-on application",
+          "prep step"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

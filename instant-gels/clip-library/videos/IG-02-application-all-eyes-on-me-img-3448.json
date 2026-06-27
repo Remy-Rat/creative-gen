@@ -1,0 +1,91 @@
+{
+  "meta": {
+    "path": "02_Application/All Eyes on Me/IMG_3448.MOV",
+    "category": "application",
+    "shade": "All Eyes on Me",
+    "duration": 11.5,
+    "tokens_in": 1775,
+    "tokens_out": 670,
+    "cost": 0.0087
+  },
+  "record": {
+    "clip_id": "IG-02-application-all-eyes-on-me-img-3448",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "All Eyes on Me",
+    "shade_matches_folder": true,
+    "colour_finish": "sheer nude pink",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Prepping the natural thumb nail by filing the edge with a purple GLAMRDiP mini file.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 11.0,
+        "usable": {
+          "min": 0.0,
+          "max": 11.0,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 4.0,
+          "action": "filing the edge of the natural thumb nail"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "prep_shape",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "indoor_daylight",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "smooth_moves_file"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 2.5,
+            "desc": "scratchy nail filing sound"
+          }
+        ],
+        "visual_fingerprint": "A hand files a natural thumb nail with a purple GLAMRDiP file, with a blurry nail kit in the background.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 5,
+          "proof": 4,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "nail prep",
+          "filing nails",
+          "smooth moves file",
+          "natural nail prep",
+          "all eyes on me",
+          "purple file",
+          "asmr filing"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

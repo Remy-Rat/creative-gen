@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "path": "02_Application/Berry Extra/IMG_4769.MOV",
+    "category": "application",
+    "shade": "Berry Extra",
+    "duration": 10.6,
+    "tokens_in": 2606,
+    "tokens_out": 615,
+    "cost": 0.0094
+  },
+  "record": {
+    "clip_id": "IG-02-application-berry-extra-img-4769",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Berry Extra",
+    "shade_matches_folder": true,
+    "colour_finish": "deep berry red glossy",
+    "shape": "almond",
+    "method": "glue",
+    "has_speech": false,
+    "summary": "Pressing a glossy berry red almond press-on nail onto the natural nail bed.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 10.6,
+        "usable": {
+          "min": 0.0,
+          "max": 10.6,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 2.0,
+          "action": "pressing down firmly on the almond nail"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "press_hold",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white tabletop with harsh sunlight shadow",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Deep red almond nails next to a clear tray of matching nails under bright sunlight.",
+        "claims_shown": [
+          "press_on_and_go"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 9,
+          "hook": 6,
+          "proof": 7,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "berry extra",
+          "red nails",
+          "pressing nail",
+          "application demo",
+          "almond shape"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

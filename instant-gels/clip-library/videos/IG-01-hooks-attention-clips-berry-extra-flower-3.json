@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "path": "01_Hooks & Attention Clips/Berry Extra_Flower 3.MOV",
+    "category": "hooks",
+    "shade": "-",
+    "duration": 4.2,
+    "tokens_in": 1305,
+    "tokens_out": 549,
+    "cost": 0.0069
+  },
+  "record": {
+    "clip_id": "IG-01-hooks-attention-clips-berry-extra-flower-3",
+    "product_line": "instant_gels",
+    "category": "hooks",
+    "shade": "Berry Extra",
+    "shade_matches_folder": false,
+    "colour_finish": "vibrant berry pink glossy",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A hand with vibrant berry pink almond nails holds a daisy over a grassy field of daisies.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 4.2,
+        "usable": {
+          "min": 0.0,
+          "max": 4.2,
+          "sweet_spot": 1.5
+        },
+        "action_climax": {
+          "t": 2.0,
+          "action": "still lifestyle showcase of berry pink nails holding a daisy"
+        },
+        "creative_role": [
+          "hook",
+          "lifestyle"
+        ],
+        "creative_stage": "Hook",
+        "process_step": "n/a",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "grassy field with daisies",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "right",
+          "bottom_right"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand with berry pink nails holding a daisy over green grass",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 1,
+          "standalone": 8,
+          "edit_flexibility": 9
+        },
+        "search_tags": [
+          "berry extra",
+          "pink nails",
+          "almond nails",
+          "daisy",
+          "spring aesthetic",
+          "outdoor lifestyle",
+          "hand model"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

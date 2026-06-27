@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "path": "02_Application/Dancing in Stars/IMG_2618.MOV",
+    "category": "application",
+    "shade": "Dancing in Stars",
+    "duration": 13.2,
+    "tokens_in": 2873,
+    "tokens_out": 623,
+    "cost": 0.0099
+  },
+  "record": {
+    "clip_id": "IG-02-application-dancing-in-stars-img-2618",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Dancing in Stars",
+    "shade_matches_folder": true,
+    "colour_finish": "silver glitter shimmer",
+    "shape": "almond",
+    "method": "glue",
+    "has_speech": false,
+    "summary": "Close-up of pressing and securing a silver glitter almond press-on nail at the cuticle.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 13.2,
+        "usable": {
+          "min": 0.0,
+          "max": 13.2,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 2.0,
+          "action": "pressing down firmly on the cuticle edge of the silver glitter nail"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "press_hold",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "studio",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Hand with one silver glitter almond nail being pressed at the cuticle next to a nude nail tray.",
+        "claims_shown": [
+          "press_on_and_go"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 5,
+          "proof": 6,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "application demo",
+          "press and hold",
+          "silver glitter nails",
+          "dancing in stars",
+          "almond shape"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

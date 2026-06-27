@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "path": "02_Application/Berry Extra/IMG_4760.MOV",
+    "category": "application",
+    "shade": "Berry Extra",
+    "duration": 16.0,
+    "tokens_in": 2099,
+    "tokens_out": 673,
+    "cost": 0.0092
+  },
+  "record": {
+    "clip_id": "IG-02-application-berry-extra-img-4760",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Berry Extra",
+    "shade_matches_folder": true,
+    "colour_finish": "glossy berry pink",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Wiping natural thumb nail with a prep pad next to a tray of glossy berry pink press-on nails.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 16.0,
+        "usable": {
+          "min": 0.0,
+          "max": 16.0,
+          "sweet_spot": 1.0,
+          "sweet_spot_end": 15.0
+        },
+        "action_climax": {
+          "t": 3.0,
+          "action": "wiping the thumb nail with prep pad"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "prep_cleanse",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "white table under bright sunlight with shadows",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "prep_pad",
+          "smooth_moves_file",
+          "cuticle_stick"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "natural thumb being wiped with a white prep pad next to a tray of bright berry pink press-on nails",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 5,
+          "proof": 5,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "prep cleanse",
+          "nail prep",
+          "alcohol wipe",
+          "berry extra",
+          "magenta nails",
+          "pink press-ons",
+          "application tutorial"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "path": "01_Hooks & Attention Clips/Cinammon Spice_Leaf 1.MOV",
+    "category": "hooks",
+    "shade": "-",
+    "duration": 6.3,
+    "tokens_in": 1441,
+    "tokens_out": 622,
+    "cost": 0.0078
+  },
+  "record": {
+    "clip_id": "IG-01-hooks-attention-clips-cinammon-spice-leaf-1",
+    "product_line": "instant_gels",
+    "category": "hooks",
+    "shade": "Cinnamon Spice",
+    "shade_matches_folder": true,
+    "colour_finish": "magnetic cat-eye bronze-pink",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A hand with Cinnamon Spice cat-eye almond nails touches a green leaf, then turns to reveal the manicure.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 6.3,
+        "usable": {
+          "min": 0.0,
+          "max": 6.3,
+          "sweet_spot": 3.5
+        },
+        "action_climax": {
+          "t": 3.5,
+          "action": "hand turns to fully reveal the shimmering magnetic cat-eye nails"
+        },
+        "creative_role": [
+          "hook",
+          "lifestyle"
+        ],
+        "creative_stage": "Hook",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "outdoor_garden",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "bottom",
+          "left"
+        ],
+        "products_visible": [
+          "none"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand with shimmering bronze cat-eye almond nails touching a green leaf outdoors",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 8,
+          "hook": 8,
+          "proof": 3,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "cinnamon spice",
+          "cat eye nails",
+          "magnetic nails",
+          "almond nails",
+          "outdoor hand model",
+          "spring garden",
+          "leaf touch",
+          "manicure reveal"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

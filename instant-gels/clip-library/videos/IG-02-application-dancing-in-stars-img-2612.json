@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "path": "02_Application/Dancing in Stars/IMG_2612.MOV",
+    "category": "application",
+    "shade": "Dancing in Stars",
+    "duration": 22.9,
+    "tokens_in": 2564,
+    "tokens_out": 624,
+    "cost": 0.0095
+  },
+  "record": {
+    "clip_id": "IG-02-application-dancing-in-stars-img-2612",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Dancing in Stars",
+    "shade_matches_folder": true,
+    "colour_finish": "nude glossy",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Wiping natural nail with prep pad.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 22.9,
+        "usable": {
+          "min": 1.5,
+          "max": 21.0,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 3.0,
+          "action": "wiping nail with prep pad"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "prep_cleanse",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "studio",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left",
+          "top_left"
+        ],
+        "products_visible": [
+          "prep_pad",
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 2.5,
+            "desc": "soft wiping sound of prep pad on nail"
+          }
+        ],
+        "visual_fingerprint": "Thumb wiped with prep pad under bright sunlight.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 7,
+          "hook": 5,
+          "proof": 4,
+          "standalone": 5,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "prep cleanse",
+          "alcohol wipe",
+          "nail prep",
+          "dancing in stars",
+          "instant gels application"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

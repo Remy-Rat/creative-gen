@@ -1,0 +1,84 @@
+{
+  "meta": {
+    "path": "02_Application/Almost Nude/IMG_5192.MOV",
+    "category": "application",
+    "shade": "Almost Nude",
+    "duration": 24.3,
+    "tokens_in": 2629,
+    "tokens_out": 631,
+    "cost": 0.0096
+  },
+  "record": {
+    "clip_id": "IG-02-application-almost-nude-img-5192",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Almost Nude",
+    "shade_matches_folder": true,
+    "colour_finish": "sheer pink nude glossy",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of pushing back the cuticle with a wooden stick during prep, with the nail set backgrounded.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 24.3,
+        "usable": {
+          "min": 2.0,
+          "max": 22.0,
+          "sweet_spot": 6.0
+        },
+        "action_climax": {
+          "t": 5.0,
+          "action": "cuticle stick gently pushing back the proximal nail fold"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "prep_pushback",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white tabletop with bright sunlight shadows",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "cuticle_stick"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Wooden cuticle stick pushing back cuticle on a bare thumb, pink nail set in background tray.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 7,
+          "hook": 5,
+          "proof": 4,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "cuticle prep",
+          "wooden stick",
+          "nail prep",
+          "almost nude",
+          "soft gel press ons",
+          "manicure prep"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

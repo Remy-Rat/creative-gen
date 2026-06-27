@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "path": "02_Application/Bubbly Babe/IMG_6041.MOV",
+    "category": "application",
+    "shade": "Bubbly Babe",
+    "duration": 9.5,
+    "tokens_in": 1641,
+    "tokens_out": 698,
+    "cost": 0.0087
+  },
+  "record": {
+    "clip_id": "IG-02-application-bubbly-babe-img-6041",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Bubbly Babe",
+    "shade_matches_folder": true,
+    "colour_finish": "nude pink glossy",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Buffing the natural thumb nail with a purple GLAMRDiP file, with the press-on kit in the background.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 9.5,
+        "usable": {
+          "min": 0.0,
+          "max": 9.5,
+          "sweet_spot": 1.0,
+          "sweet_spot_end": 8.0
+        },
+        "action_climax": {
+          "t": 4.0,
+          "action": "buffing the natural thumb nail with the purple file"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "prep_buff",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_daylight",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "smooth_moves_file",
+          "cuticle_stick"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 1.0,
+            "desc": "soft nail buffing sound"
+          }
+        ],
+        "visual_fingerprint": "close-up of thumb nail being buffed with purple GLAMRDiP file under bright sunlight",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 5,
+          "proof": 4,
+          "standalone": 5,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "prep_buff",
+          "nail file",
+          "smooth moves file",
+          "bubbly babe",
+          "prep stage",
+          "natural nail prep",
+          "glamrdip file"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

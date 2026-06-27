@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "path": "02_Application/French Press/IMG_5609.MOV",
+    "category": "application",
+    "shade": "French Press",
+    "duration": 12.0,
+    "tokens_in": 2738,
+    "tokens_out": 702,
+    "cost": 0.0104
+  },
+  "record": {
+    "clip_id": "IG-02-application-french-press-img-5609",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "French Press",
+    "shade_matches_folder": true,
+    "colour_finish": "nude base with white tip",
+    "shape": "squoval",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Close-up of pressing and holding a French Press squoval nail onto the thumb under bright natural sunlight.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 12.0,
+        "usable": {
+          "min": 0.0,
+          "max": 12.0,
+          "sweet_spot": 1.0,
+          "duration": 11.0
+        },
+        "action_climax": {
+          "t": 3.0,
+          "action": "pressing down firmly on the cuticle area of the French tip nail"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "press_hold",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "indoor_bright_natural",
+        "nail_position": "center_right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "cuticle_stick",
+          "smooth_moves_file"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "A close-up of a thumb receiving a French tip press-on nail, pressed by index and thumb of the other hand, with a blurry tray of nails in the background under direct sunlight.",
+        "claims_shown": [
+          "press_on_and_go"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 6,
+          "proof": 7,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "french manicure press on",
+          "french press nails",
+          "applying press on nails",
+          "press and hold nail",
+          "instant gels application",
+          "natural sunlight nail video"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

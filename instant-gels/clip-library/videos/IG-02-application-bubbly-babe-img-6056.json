@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "path": "02_Application/Bubbly Babe/IMG_6056.MOV",
+    "category": "application",
+    "shade": "Bubbly Babe",
+    "duration": 6.9,
+    "tokens_in": 1509,
+    "tokens_out": 640,
+    "cost": 0.008
+  },
+  "record": {
+    "clip_id": "IG-02-application-bubbly-babe-img-6056",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Bubbly Babe",
+    "shade_matches_folder": true,
+    "colour_finish": "nude glossy",
+    "shape": "squoval",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hand showing applied nude squoval nails next to the press-on set tray under direct sunlight.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 6.9,
+        "usable": {
+          "min": 0.0,
+          "max": 6.9,
+          "sweet_spot": 1.0
+        },
+        "action_climax": {
+          "t": 3.0,
+          "action": "hand holding still under sunlight showing glossy finish"
+        },
+        "creative_role": [
+          "reveal",
+          "payoff"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "indoor white surface with sunlight shadow",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left",
+          "top_left"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "Hand with nude squoval nails next to a plastic tray of press-ons under sharp sunlight shadow.",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 5,
+          "proof": 6,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "bubbly babe",
+          "nude nails",
+          "squoval nails",
+          "final reveal",
+          "sunlight shadow",
+          "press on tray"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

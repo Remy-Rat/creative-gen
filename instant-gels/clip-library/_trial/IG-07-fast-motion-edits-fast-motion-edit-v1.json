@@ -1,0 +1,442 @@
+{
+  "meta": {
+    "path": "07. Fast Motion Edits/Fast Motion Edit V1.mp4",
+    "category": "fast_motion",
+    "shade": "-",
+    "duration": 7.2,
+    "scene_cuts": [
+      2.4,
+      3.2,
+      5.6,
+      6.4
+    ],
+    "tokens_in": 1803,
+    "tokens_out": 3371,
+    "cost_usd": 0.033,
+    "secs": 39.6
+  },
+  "record": {
+    "clip_id": "IG-07-fast-motion-edits-fast-motion-edit-v1",
+    "product_line": "instant_gels",
+    "category": "fast_motion",
+    "shade": "multiple_shades",
+    "shade_matches_folder": true,
+    "colour_finish": "multi_finish",
+    "shape": "squoval",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Fast-motion transition edit showcasing seven different Instant Gel shades and shapes on a single hand.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 1.0,
+        "usable": {
+          "min": 0.0,
+          "max": 1.0,
+          "sweet_spot": 0.5
+        },
+        "action_climax": {
+          "t": 0.5,
+          "action": "hand model taps thumb nail showing glossy nude squoval nails"
+        },
+        "creative_role": [
+          "hook",
+          "transition"
+        ],
+        "creative_stage": "Hook",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "white bench",
+        "nail_position": "bottom",
+        "text_safe_zones": [
+          "top",
+          "left",
+          "right"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "glossy nude squoval nails with mystic mirage box in background",
+        "claims_shown": [
+          "swap_styles"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 7,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "nude nails",
+          "squoval nails",
+          "instant gels",
+          "fast motion",
+          "shade transition"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      },
+      {
+        "t_start": 1.0,
+        "t_end": 2.0,
+        "usable": {
+          "min": 1.0,
+          "max": 2.0,
+          "sweet_spot": 1.5
+        },
+        "action_climax": {
+          "t": 1.5,
+          "action": "hand model shows dusty rose squoval nails"
+        },
+        "creative_role": [
+          "transition"
+        ],
+        "creative_stage": "Transition",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "white bench",
+        "nail_position": "bottom",
+        "text_safe_zones": [
+          "top",
+          "left",
+          "right"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "dusty rose squoval nails with mystic mirage box in background",
+        "claims_shown": [
+          "swap_styles"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 7,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "dusty rose nails",
+          "squoval nails",
+          "instant gels",
+          "fast motion",
+          "shade transition"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      },
+      {
+        "t_start": 2.0,
+        "t_end": 3.0,
+        "usable": {
+          "min": 2.0,
+          "max": 3.0,
+          "sweet_spot": 2.5
+        },
+        "action_climax": {
+          "t": 2.5,
+          "action": "hand model taps thumb nail showing French tip squoval nails"
+        },
+        "creative_role": [
+          "transition"
+        ],
+        "creative_stage": "Transition",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "white bench",
+        "nail_position": "bottom",
+        "text_safe_zones": [
+          "top",
+          "left",
+          "right"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "french tip squoval nails with mystic mirage box in background",
+        "claims_shown": [
+          "swap_styles"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 7,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "french tip nails",
+          "squoval nails",
+          "instant gels",
+          "fast motion",
+          "shade transition"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      },
+      {
+        "t_start": 3.0,
+        "t_end": 4.0,
+        "usable": {
+          "min": 3.0,
+          "max": 4.0,
+          "sweet_spot": 3.5
+        },
+        "action_climax": {
+          "t": 3.5,
+          "action": "hand model shows light pink pearl almond nails"
+        },
+        "creative_role": [
+          "transition"
+        ],
+        "creative_stage": "Transition",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "white bench",
+        "nail_position": "bottom",
+        "text_safe_zones": [
+          "top",
+          "left",
+          "right"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "pearl chrome almond nails with mystic mirage box in background",
+        "claims_shown": [
+          "swap_styles"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 7,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "pearl nails",
+          "chrome nails",
+          "almond nails",
+          "instant gels",
+          "fast motion",
+          "shade transition"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      },
+      {
+        "t_start": 4.0,
+        "t_end": 5.0,
+        "usable": {
+          "min": 4.0,
+          "max": 5.0,
+          "sweet_spot": 4.5
+        },
+        "action_climax": {
+          "t": 4.5,
+          "action": "hand model shows glittery champagne almond nails"
+        },
+        "creative_role": [
+          "transition"
+        ],
+        "creative_stage": "Transition",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "white bench",
+        "nail_position": "bottom",
+        "text_safe_zones": [
+          "top",
+          "left",
+          "right"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "glitter champagne almond nails with mystic mirage box in background",
+        "claims_shown": [
+          "swap_styles"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 7,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "glitter nails",
+          "champagne nails",
+          "almond nails",
+          "instant gels",
+          "fast motion",
+          "shade transition"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      },
+      {
+        "t_start": 5.0,
+        "t_end": 6.0,
+        "usable": {
+          "min": 5.0,
+          "max": 6.0,
+          "sweet_spot": 5.5
+        },
+        "action_climax": {
+          "t": 5.5,
+          "action": "hand model shows cat-eye bronze almond nails"
+        },
+        "creative_role": [
+          "transition"
+        ],
+        "creative_stage": "Transition",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "white bench",
+        "nail_position": "bottom",
+        "text_safe_zones": [
+          "top",
+          "left",
+          "right"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "cat eye bronze almond nails with mystic mirage box in background",
+        "claims_shown": [
+          "swap_styles"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 7,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "cat eye nails",
+          "bronze nails",
+          "almond nails",
+          "instant gels",
+          "fast motion",
+          "shade transition"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      },
+      {
+        "t_start": 6.0,
+        "t_end": 7.2,
+        "usable": {
+          "min": 6.0,
+          "max": 7.2,
+          "sweet_spot": 6.6
+        },
+        "action_climax": {
+          "t": 6.6,
+          "action": "hand model taps thumb nail showing cat-eye ruby red almond nails"
+        },
+        "creative_role": [
+          "transition",
+          "payoff"
+        ],
+        "creative_stage": "Transition",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "white bench",
+        "nail_position": "bottom",
+        "text_safe_zones": [
+          "top",
+          "left",
+          "right"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "cat eye red almond nails with mystic mirage box in background",
+        "claims_shown": [
+          "swap_styles"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 8,
+          "proof": 7,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "cat eye nails",
+          "red nails",
+          "almond nails",
+          "instant gels",
+          "fast motion",
+          "shade transition"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

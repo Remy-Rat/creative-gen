@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "path": "02_Application/Berry Extra/IMG_4772.MOV",
+    "category": "application",
+    "shade": "Berry Extra",
+    "duration": 5.4,
+    "tokens_in": 1372,
+    "tokens_out": 624,
+    "cost": 0.0077
+  },
+  "record": {
+    "clip_id": "IG-02-application-berry-extra-img-4772",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Berry Extra",
+    "shade_matches_folder": true,
+    "colour_finish": "glossy berry red",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hand enters frame to reveal a glossy berry red almond manicure next to the press-on set.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 5.4,
+        "usable": {
+          "min": 0.0,
+          "max": 5.4,
+          "sweet_spot": 1.0
+        },
+        "action_climax": {
+          "t": 1.5,
+          "action": "hand settles into final pose showing the manicure"
+        },
+        "creative_role": [
+          "reveal",
+          "payoff"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white tabletop with bright natural sunlight",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "center"
+        ],
+        "products_visible": [
+          "press_on_set",
+          "kit_box"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "glossy berry red almond nails on a hand posing next to a clear plastic tray under bright sunlight",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "berry extra",
+          "almond nails",
+          "red press ons",
+          "final reveal",
+          "manicure reveal",
+          "glossy red"
+        ],
+        "confidence": 1.0,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

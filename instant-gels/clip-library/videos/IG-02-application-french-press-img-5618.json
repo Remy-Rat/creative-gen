@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "path": "02_Application/French Press/IMG_5618.MOV",
+    "category": "application",
+    "shade": "French Press",
+    "duration": 4.4,
+    "tokens_in": 1306,
+    "tokens_out": 601,
+    "cost": 0.0074
+  },
+  "record": {
+    "clip_id": "IG-02-application-french-press-img-5618",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "French Press",
+    "shade_matches_folder": true,
+    "colour_finish": "french manicure glossy",
+    "shape": "squoval",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Static close-up of a hand wearing French Press instant gel nails next to their packaging tray in sunlight.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 4.4,
+        "usable": {
+          "min": 0.0,
+          "max": 4.4,
+          "sweet_spot": 1.0
+        },
+        "action_climax": {
+          "t": 2.0,
+          "action": "hand holding still under sunlight showing glossy finish"
+        },
+        "creative_role": [
+          "reveal",
+          "lifestyle"
+        ],
+        "creative_stage": "Reveal",
+        "process_step": "final_reveal",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "still",
+        "setting": "indoor",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "french manicure nails on hand next to clear plastic tray with harsh diagonal shadows",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 9,
+          "product_visibility": 9,
+          "hook": 7,
+          "proof": 5,
+          "standalone": 8,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "french manicure",
+          "french press",
+          "squoval nails",
+          "hand reveal",
+          "aesthetic shadows",
+          "sunlight",
+          "press-on tray"
+        ],
+        "confidence": 1.0,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

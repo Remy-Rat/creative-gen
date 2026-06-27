@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "path": "01_Hooks & Attention Clips/Almost Nude_Grass.MOV",
+    "category": "hooks",
+    "shade": "-",
+    "duration": 9.5,
+    "tokens_in": 1699,
+    "tokens_out": 618,
+    "cost": 0.0081
+  },
+  "record": {
+    "clip_id": "IG-01-hooks-attention-clips-almost-nude-grass",
+    "product_line": "instant_gels",
+    "category": "hooks",
+    "shade": "Almost Nude",
+    "shade_matches_folder": true,
+    "colour_finish": "glossy semi-sheer pinkish nude",
+    "shape": "coffin",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Hand runs fingers through green grass, then turns to showcase glossy pinkish-nude press-on nails in sunlight.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 9.5,
+        "usable": {
+          "min": 0.0,
+          "max": 9.5,
+          "sweet_spot": 5.5
+        },
+        "action_climax": {
+          "t": 6.5,
+          "action": "hand turns to fully showcase the glossy nails in direct sunlight"
+        },
+        "creative_role": [
+          "hook",
+          "lifestyle"
+        ],
+        "creative_stage": "Hook",
+        "process_step": "final_reveal",
+        "subject": "single_hand",
+        "framing": "close_up",
+        "camera": "handheld",
+        "motion_level": "moderate",
+        "setting": "outdoor_grass",
+        "nail_position": "center",
+        "text_safe_zones": [
+          "top",
+          "left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand running through bright green grass, turning over to show glossy pink nails in sunlight",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 8,
+          "proof": 5,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "Almost Nude",
+          "grass",
+          "outdoor",
+          "sunlight",
+          "coffin nails",
+          "pink nude",
+          "hand model",
+          "aesthetic hook"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "path": "02_Application/Bubbly Babe/IMG_6042.MOV",
+    "category": "application",
+    "shade": "Bubbly Babe",
+    "duration": 11.1,
+    "tokens_in": 1774,
+    "tokens_out": 690,
+    "cost": 0.0089
+  },
+  "record": {
+    "clip_id": "IG-02-application-bubbly-babe-img-6042",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Bubbly Babe",
+    "shade_matches_folder": true,
+    "colour_finish": "sheer nude pink",
+    "shape": "almond",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "Wiping the natural thumbnail with an alcohol prep pad before applying GLAMRDiP press-on nails.",
+    "asmr": true,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 11.1,
+        "usable": {
+          "min": 0.0,
+          "max": 11.1,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 4.0,
+          "action": "wiping the natural nail with prep pad"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "prep_cleanse",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "moderate",
+        "setting": "indoor_bright",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "prep_pad",
+          "press_on_set",
+          "kit_box",
+          "smooth_moves_file",
+          "cuticle_stick"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [
+          {
+            "t": 3.0,
+            "desc": "soft squeak of alcohol prep pad rubbing on natural nail"
+          }
+        ],
+        "visual_fingerprint": "natural thumbnail being wiped with a white prep pad in bright sunlight, with a nude press-on nail kit in the background",
+        "claims_shown": [
+          "none"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 5,
+          "proof": 5,
+          "standalone": 6,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "prep cleanse",
+          "alcohol prep pad",
+          "cleaning natural nail",
+          "nail prep",
+          "bubbly babe",
+          "press on nails"
+        ],
+        "confidence": 0.95,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": null
+}

@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "path": "02_Application/Bubbly Babe/IMG_6052.MOV",
+    "category": "application",
+    "shade": "Bubbly Babe",
+    "duration": 7.0,
+    "tokens_in": 2082,
+    "tokens_out": 641,
+    "cost": 0.0089
+  },
+  "record": {
+    "clip_id": "IG-02-application-bubbly-babe-img-6052",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Bubbly Babe",
+    "shade_matches_folder": true,
+    "colour_finish": "pearl chrome nude",
+    "shape": "squoval",
+    "method": "tabs",
+    "has_speech": false,
+    "summary": "Close-up of pressing down on index finger nail next to a tray of pearlescent nude press-ons.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 7.0,
+        "usable": {
+          "min": 0.0,
+          "max": 7.0,
+          "sweet_spot": 2.0
+        },
+        "action_climax": {
+          "t": 3.0,
+          "action": "pressing and holding the index finger nail"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "press_hold",
+        "subject": "both_hands",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "studio",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "top_left",
+          "bottom_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "hand with pearlescent nude nails pressing index finger next to tray under direct sunlight",
+        "claims_shown": [
+          "press_on_and_go"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 5,
+          "proof": 6,
+          "standalone": 6,
+          "edit_flexibility": 7
+        },
+        "search_tags": [
+          "bubbly babe",
+          "pearlescent nude",
+          "press on application",
+          "pressing nail",
+          "squoval nails",
+          "aesthetic lighting"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "path": "02_Application/Almost Nude/IMG_5199.MOV",
+    "category": "application",
+    "shade": "Almost Nude",
+    "duration": 15.4,
+    "tokens_in": 3136,
+    "tokens_out": 653,
+    "cost": 0.0106
+  },
+  "record": {
+    "clip_id": "IG-02-application-almost-nude-img-5199",
+    "product_line": "instant_gels",
+    "category": "application",
+    "shade": "Almost Nude",
+    "shade_matches_folder": true,
+    "colour_finish": "sheer pink nude glossy",
+    "shape": "squoval",
+    "method": "n/a",
+    "has_speech": false,
+    "summary": "A close-up of a press-on nail in Almost Nude being positioned and pressed onto a bare thumb.",
+    "asmr": false,
+    "segments": [
+      {
+        "t_start": 0.0,
+        "t_end": 15.4,
+        "usable": {
+          "min": 0.0,
+          "max": 15.4,
+          "sweet_spot": 6.0
+        },
+        "action_climax": {
+          "t": 7.5,
+          "action": "positioning and pressing the press-on nail onto the thumb"
+        },
+        "creative_role": [
+          "demo"
+        ],
+        "creative_stage": "Demo",
+        "process_step": "position_at_cuticle",
+        "subject": "hand_and_product",
+        "framing": "close_up",
+        "camera": "static",
+        "motion_level": "slow",
+        "setting": "white tabletop with harsh sunlight shadow",
+        "nail_position": "right",
+        "text_safe_zones": [
+          "left",
+          "bottom_left",
+          "top_left"
+        ],
+        "products_visible": [
+          "press_on_set"
+        ],
+        "durability_test": "none",
+        "asmr_moments": [],
+        "visual_fingerprint": "bare thumb on the right, tray of pink press-on nails on the left under harsh sunlight shadow",
+        "claims_shown": [
+          "press_on_and_go"
+        ],
+        "safety_sensitive": false,
+        "scores": {
+          "visual_quality": 8,
+          "product_visibility": 8,
+          "hook": 6,
+          "proof": 7,
+          "standalone": 7,
+          "edit_flexibility": 8
+        },
+        "search_tags": [
+          "almost nude",
+          "application",
+          "press on nail",
+          "positioning cuticle",
+          "squoval nail",
+          "nude nails",
+          "diy manicure"
+        ],
+        "confidence": 0.9,
+        "human_review": false
+      }
+    ]
+  },
+  "compliance": {
+    "verdict": "ok",
+    "issues": []
+  }
+}
