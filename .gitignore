@@ -50,5 +50,6 @@ clip-library/indexes_v2/
 # generated media (regenerable from prompts/scripts) + render work dirs + vo audio
 instant-gels/generated/raw/
 instant-gels/generated/broll/
+instant-gels/generated/broll-video/
 ad-teardowns/output/*_work/
 vo/output/

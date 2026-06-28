@@ -65,7 +65,8 @@ HERO="Bubbly Babe"
 S=[
  (1,"magenta","Beautiful nails. Zero stress. Under 10 minutes.",("q",dict(role='demo',category='application',shade=HERO))),
  (2,"redx","Nail polish",("gap","0x1b1020")),(2,"redx","Shellac",("gap","0x1b1020")),(2,"redx","Acrylic",("gap","0x1b1020")),
- (2,"redx","UV light",("gap","0x1b1020")),(2,"redx","Chemicals & filing",("gap","0x1b1020")),
+ (2,"redx","Thin & damaged nails",("gap","0x1b1020")),
+ (2,"redx","UV light",("gap","0x1b1020")),(2,"redx","Chemicals",("gap","0x1b1020")),(2,"redx","Filing",("gap","0x1b1020")),
  (3,"white","“I've tried everything... and failed at everything.”",("gap","0x241a2c")),
  (4,"white","The innovation revolutionizing manicures",("q",dict(role='reveal',category='posing_lifestyle',shade=HERO))),
  (4,"white","Instant Gels from GLAMRDiP",("q",dict(role='reveal',category='product_shots'))),
@@ -97,11 +98,28 @@ for i,(seg,style,text,(kind,payload)) in enumerate(S):
 
 BROLL={"Nail polish":"polish","Shellac":"shellac","Acrylic":"acrylic","UV light":"uvlamp","Chemicals & filing":"filing","Cheap plastic":"cheapplastic"}
 BR=pathlib.Path('/Users/remy-m4/Desktop/Video-ad-test/instant-gels/generated/broll')
+# VIDEO b-roll (Veo 3.1): caption -> (file, seek-in seconds). Takes precedence over still b-roll/slate.
+BV=pathlib.Path('/Users/remy-m4/Desktop/Video-ad-test/instant-gels/generated/broll-video')
+VBROLL={
+ "Nail polish":("smudgedpolish.mp4",1.5),"Shellac":("smudgedpolish.mp4",5.0),"Acrylic":("filing.mp4",1.0),
+ "Thin & damaged nails":("foilacetone.mp4",3.5),"UV light":("uvlamp.mp4",1.5),"Chemicals":("foilacetone.mp4",1.0),"Filing":("filing.mp4",4.5),
+ "“I've tried everything... and failed at everything.”":("couchfrustration.mp4",1.5),
+ "Cheap plastic":("cheapnailcrack.mp4",1.5),
+}
 vo_total=round(sum(TIM[s]['dur'] for s in TIM),2)
 beats[-1]['dur']=round(beats[-1]['dur']+max(0.0,vo_total-sum(b['dur'] for b in beats)),2)  # pad tail to VO length
 def enc(b):
     i=b['i']; seg=WORK/f"s_{i:02d}.mp4"; cp=WORK/f"c_{i:02d}.png"; cap_png(b['style'],b['text'],cp); dur=b['dur']
     bg = b['payload'] if b['kind'] in("gap","end") else None
+    vb = VBROLL.get(b['text'])
+    if vb and (BV/vb[0]).exists():
+        cmd=["ffmpeg","-y","-loglevel","error","-ss",str(vb[1]),"-i",str(BV/vb[0]),"-i",str(cp),"-t",str(dur),
+             "-filter_complex",f"[0:v]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},setsar=1,fps=30[v];[v][1:v]overlay=0:0,format=yuv420p[o]",
+             "-map","[o]","-an","-c:v","libx264","-r","30",str(seg)]
+        for _ in range(2):
+            subprocess.run(cmd,capture_output=True)
+            if seg.exists() and seg.stat().st_size>0: break
+        return i,seg
     brimg = BR/(BROLL[b['text']]+'.png') if (b['kind']=='gap' and b['text'] in BROLL) else None
     if brimg and brimg.exists():
         cmd=["ffmpeg","-y","-loglevel","error","-loop","1","-t",str(dur),"-i",str(brimg),"-i",str(cp),
@@ -133,8 +151,8 @@ silent=WORK/"silent.mp4"
 subprocess.run(["ffmpeg","-y","-loglevel","error","-f","concat","-safe","0","-i",str(lst),"-c:v","libx264","-pix_fmt","yuv420p","-r","30",str(silent)],check=True)
 # --- mix VO + SFX: error(bad) / ding(good) / swish(transition) ---
 import glob as _g
-SFX={'error':_g.glob(str(OUT/'sfx2/sfx_Harsh*'))[0],'ding':_g.glob(str(OUT/'sfx2/sfx_Light*'))[0],'swish':_g.glob(str(OUT/'sfx2/sfx_Quick*'))[0]}
-VOL={'error':0.55,'ding':0.5,'swish':0.4}; IDX={'error':2,'ding':3,'swish':4}
+SFX={'error':_g.glob(str(OUT/'sfx3/*2349*'))[0],'ding':_g.glob(str(OUT/'sfx2/sfx_Light*'))[0],'swish':_g.glob(str(OUT/'sfx2/sfx_Quick*'))[0]}
+VOL={'error':0.5,'ding':0.5,'swish':0.4}; IDX={'error':2,'ding':3,'swish':4}
 GOOD={"Instant Gels from GLAMRDiP","Done — a perfect manicure that lasts weeks"}
 place=[]; t=0.0; prev=None
 for b in beats:
@@ -152,7 +170,7 @@ for k,times in byk.items():
         src=f"[{k}r{i}]" if len(times)>1 else f"[{IDX[k]}:a]"; ms=int(tm*1000)
         fc.append(f"{src}adelay={ms}|{ms},volume={VOL[k]}[{k}{i}]"); labels.append(f"[{k}{i}]")
 fc.append(''.join(labels)+f"amix=inputs={len(labels)}:normalize=0:dropout_transition=0[a]")
-final=OUT/"igad_v3.mp4"
+final=OUT/"igad_v4.mp4"
 subprocess.run(["ffmpeg","-y","-loglevel","error","-i",str(silent),"-i",str(VO),"-i",SFX['error'],"-i",SFX['ding'],"-i",SFX['swish'],
                 "-filter_complex",";".join(fc),"-map","0:v:0","-map","[a]","-c:v","copy","-c:a","aac","-b:a","192k",str(final)],check=True)
 d=subprocess.run(["ffprobe","-v","error","-show_entries","format=duration","-of","csv=p=0",str(final)],capture_output=True,text=True).stdout.strip()
