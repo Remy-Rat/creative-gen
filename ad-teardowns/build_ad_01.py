@@ -28,14 +28,14 @@ B = [
  # SOLUTION — reveal, soft gel not plastic, zero-edge (green ✓ + ding)
  dict(n=8, phase="SOLUTION", dur=1.6, vo="Instant Gels are different.", cap="Instant Gels are different", cap_style="HOOK-01 stamp", sfx="ding", trans="flash", q=dict(role='reveal', category='product_shots')),
  dict(n=9, phase="SOLUTION", dur=2.2, vo="Pre-cured soft gel — not stiff plastic.", cap="soft gel — not plastic", cap_style="PROD-04 tech callout", sfx="", trans="hard cut", q=dict(role='reveal', category='product_shots')),
- dict(n=10, phase="SOLUTION", dur=2.6, vo="A zero-edge base that sits flush to your cuticle.", cap="zero-edge: sits flush, no lift", cap_style="ANN-02 leader callout + green ✓", sfx="", trans="hard cut", q=dict(role='proof', category='durability', durability='other')),
+ dict(n=10, phase="SOLUTION", dur=2.6, vo="A zero-edge base that sits flush to your cuticle.", cap="zero-edge: sits flush, no lift", cap_style="ANN-02 leader callout + green ✓", sfx="", trans="hard cut", q=dict(role='proof', keyword='cuticle')),
  dict(n=11, phase="SOLUTION", dur=1.8, vo="No gap. No lift. No lamp.", cap="no gap. no lift. no lamp.", cap_style="PROD-01 benefit stack", sfx="ding", trans="hard cut", q=dict(role='demo', category='application', shade=HERO)),
  # DEMO & BENEFITS
  dict(n=12, phase="DEMO", dur=1.6, vo="Application's stupid simple.", cap="stupid simple", cap_style="SUB-02 clean reader", sfx="", trans="hard cut", q=dict(role='demo', category='application', method='tabs', shade=HERO)),
  dict(n=13, phase="DEMO", dur=2.4, vo="Size it, press it, done.", cap="size · press · done", cap_style="PROD-02 step rail", sfx="", trans="hard cut", q=dict(role='demo', category='application', shade=HERO)),
  dict(n=14, phase="DEMO", dur=1.8, vo="About ten minutes — no appointment.", cap="~10 minutes, no appointment", cap_style="SUB-05 side label", sfx="", trans="hard cut", q=dict(role='payoff', category='posing_lifestyle', shade=HERO)),
  dict(n=15, phase="DEMO", dur=1.8, vo="Sixteen sizes, so it actually fits.", cap="16 sizes — your perfect fit", cap_style="PROD-01 benefit stack", sfx="", trans="hard cut", q=dict(role='reveal', category='product_shots')),
- dict(n=16, phase="DEMO", dur=2.4, vo="Two weeks of wear. Glass-gloss finish.", cap="2 weeks wear · glass gloss", cap_style="ANN-03 stat sticker", sfx="", trans="hard cut", q=dict(role='proof', category='durability')),
+ dict(n=16, phase="DEMO", dur=2.4, vo="Two weeks of wear. Glass-gloss finish.", cap="2 weeks wear · glass gloss", cap_style="ANN-03 stat sticker", sfx="", trans="hard cut", q=dict(role='lifestyle', category='posing_lifestyle', shade=HERO)),
  dict(n=17, phase="DEMO", dur=2.6, vo="Want to switch? Soak, lift, reuse.", cap="soak · lift · reuse", cap_style="PROD-02 step rail", sfx="", trans="hard cut", q=dict(role='demo', category='removal')),
  # CTA
  dict(n=18, phase="CTA", dur=2.2, vo="Sworn off press-ons? These will change your mind.", cap="change your mind", cap_style="SUB-04 karaoke", sfx="", trans="hard cut", q=dict(role='payoff', category='posing_lifestyle', shade=HERO)),

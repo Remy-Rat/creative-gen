@@ -22,7 +22,7 @@ ROLE_W = {
 }
 
 def retrieve(con, role=None, category=None, method=None, shade=None, stage=None,
-             durability=None, min_dur=0.0, max_dur=999.0, need_text=None,
+             durability=None, keyword=None, min_dur=0.0, max_dur=999.0, need_text=None,
              exclude_clips=(), limit=5):
     con.row_factory = sqlite3.Row
     where, args = ["1=1"], []
@@ -32,6 +32,7 @@ def retrieve(con, role=None, category=None, method=None, shade=None, stage=None,
     if stage:      where.append("s.stage=?"); args.append(stage)
     if durability: where.append("s.durability_test=?"); args.append(durability)
     if role:       where.append("s.role LIKE ?"); args.append(f'%"{role}"%')
+    if keyword:    where.append("(s.fingerprint LIKE ? OR v.summary LIKE ?)"); args += [f"%{keyword}%", f"%{keyword}%"]
     rows = list(con.execute(
         f"select s.*, v.path, v.shade, v.category, v.method, v.summary, v.duration,"
         f" (s.t_end-s.t_start) as segdur from segments s join videos v on v.clip_id=s.clip_id"

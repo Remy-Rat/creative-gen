@@ -15,13 +15,13 @@ Captions: white sans, top, line-by-line fade. Sound: upbeat electronic, duck und
 | 7 | PROBLEM | 9.5-11.5s | Popped off by lunch — and everyone could tell. | popped off by lunch _(SUB-03 kinetic)_ | buzzer | ⚠️ B-ROLL: Faceless: a generic press-on popping/peeling off easily. Red |
 | 8 | SOLUTION | 11.5-13.1s | Instant Gels are different. | Instant Gels are different _(HOOK-01 stamp)_ | ding | Cinammon Spice_Unbox.MOV (Cinnamon Spice, product_shots) |
 | 9 | SOLUTION | 13.1-15.3s | Pre-cured soft gel — not stiff plastic. | soft gel — not plastic _(PROD-04 tech callout)_ | — | Cinammon Spice_Slide Out.MOV (Cinnamon Spice, product_shots) |
-| 10 | SOLUTION | 15.3-17.9s | A zero-edge base that sits flush to your cuticle. | zero-edge: sits flush, no lift _(ANN-02 leader callout + green ✓)_ | — | Berry Extra_Plyers.MOV (Berry Extra, durability) |
+| 10 | SOLUTION | 15.3-17.9s | A zero-edge base that sits flush to your cuticle. | zero-edge: sits flush, no lift _(ANN-02 leader callout + green ✓)_ | — | All Eyes on Me_Cuticle Presser (All Eyes on Me, durability) |
 | 11 | SOLUTION | 17.9-19.7s | No gap. No lift. No lamp. | no gap. no lift. no lamp. _(PROD-01 benefit stack)_ | ding | IMG_6047.MOV (Bubbly Babe, application) |
 | 12 | DEMO | 19.7-21.3s | Application's stupid simple. | stupid simple _(SUB-02 clean reader)_ | — | IMG_6052.MOV (Bubbly Babe, application) |
 | 13 | DEMO | 21.3-23.7s | Size it, press it, done. | size · press · done _(PROD-02 step rail)_ | — | IMG_6048.MOV (Bubbly Babe, application) |
 | 14 | DEMO | 23.7-25.5s | About ten minutes — no appointment. | ~10 minutes, no appointment _(SUB-05 side label)_ | — | Bubbly Babe_8.MOV (Bubbly Babe, posing_lifestyle) |
 | 15 | DEMO | 25.5-27.3s | Sixteen sizes, so it actually fits. | 16 sizes — your perfect fit _(PROD-01 benefit stack)_ | — | Dancing in Stars_Unbox.MOV (Dancing in Stars, product_shots) |
-| 16 | DEMO | 27.3-29.7s | Two weeks of wear. Glass-gloss finish. | 2 weeks wear · glass gloss _(ANN-03 stat sticker)_ | — | All Eyes on Me_Drill.MOV (All Eyes on Me, durability) |
+| 16 | DEMO | 27.3-29.7s | Two weeks of wear. Glass-gloss finish. | 2 weeks wear · glass gloss _(ANN-03 stat sticker)_ | — | Bubbly Babe_ 2.MOV (Bubbly Babe, posing_lifestyle) |
 | 17 | DEMO | 29.7-32.3s | Want to switch? Soak, lift, reuse. | soak · lift · reuse _(PROD-02 step rail)_ | — | IMG_6442.MOV (Bubbly Babe, removal) |
 | 18 | CTA | 32.3-34.5s | Sworn off press-ons? These will change your mind. | change your mind _(SUB-04 karaoke)_ | — | Bubbly Babe_7.MOV (Bubbly Babe, posing_lifestyle) |
 | 19 | CTA | 34.5-36.5s | Get the starter set today. | shop the starter set _(CTA-01 pulse button)_ | ding | Berry Extra_Open Up.MOV (Berry Extra, product_shots) |

@@ -166,13 +166,13 @@
       "sfx": "",
       "transition": "hard cut",
       "clip": {
-        "clip": "Berry Extra_Plyers.MOV",
-        "path": "05_Durability/Berry Extra_Plyers.MOV",
+        "clip": "All Eyes on Me_Cuticle Presser.MOV",
+        "path": "05_Durability/All Eyes on Me_Cuticle Presser.MOV",
         "t_in": 0.0,
-        "t_out": 11.3,
-        "shade": "Berry Extra",
+        "t_out": 11.2,
+        "shade": "All Eyes on Me",
         "category": "durability",
-        "score": 29
+        "score": 27
       },
       "broll_gap": false
     },
@@ -286,13 +286,13 @@
       "sfx": "",
       "transition": "hard cut",
       "clip": {
-        "clip": "All Eyes on Me_Drill.MOV",
-        "path": "05_Durability/All Eyes on Me_Drill.MOV",
+        "clip": "Bubbly Babe_ 2.MOV",
+        "path": "06_Posing & Lifestyle/Bubbly Babe_ 2.MOV",
         "t_in": 0.0,
-        "t_out": 18.7,
-        "shade": "All Eyes on Me",
-        "category": "durability",
-        "score": 29
+        "t_out": 6.1,
+        "shade": "Bubbly Babe",
+        "category": "posing_lifestyle",
+        "score": 13.5
       },
       "broll_gap": false
     },
