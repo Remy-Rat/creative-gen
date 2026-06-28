@@ -46,3 +46,9 @@ clip-library/indexes_v2/
 
 # ---- archived raw source briefs (incl. supplier invoice w/ banking + COGs) ----
 **/_source_originals/
+
+# generated media (regenerable from prompts/scripts) + render work dirs + vo audio
+instant-gels/generated/raw/
+instant-gels/generated/broll/
+ad-teardowns/output/*_work/
+vo/output/

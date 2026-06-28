@@ -1,0 +1,717 @@
+{
+  "ad_id": "IG-AD-02",
+  "note": "structural twin of competitor-ad-01; exact timings; original copy",
+  "hero_shade": "Bubbly Babe",
+  "total_duration": 59.5,
+  "beat_count": 42,
+  "beats": [
+    {
+      "n": 1,
+      "t_start": 0.0,
+      "t_end": 0.8,
+      "dur": 0.8,
+      "vo": "I swore off press-ons.",
+      "caption": "I swore off press-ons",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": {
+        "clip": "Ruby Rush_Flowers.MOV",
+        "path": "01_Hooks & Attention Clips/Ruby Rush_Flowers.MOV",
+        "t_in": 0.0,
+        "shade": "Ruby Rush",
+        "category": "hooks"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 2,
+      "t_start": 0.8,
+      "t_end": 1.5,
+      "dur": 0.7,
+      "vo": "Every set looked fake.",
+      "caption": "every set looked fake",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": {
+        "clip": "Ruby Rush_Cat.MOV",
+        "path": "01_Hooks & Attention Clips/Ruby Rush_Cat.MOV",
+        "t_in": 0.0,
+        "shade": "Ruby Rush",
+        "category": "hooks"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 3,
+      "t_start": 1.5,
+      "t_end": 2.2,
+      "dur": 0.7,
+      "vo": "Or felt like plastic.",
+      "caption": "or felt like plastic",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": {
+        "clip": "All Eyes on Me_1.MOV",
+        "path": "06_Posing & Lifestyle/All Eyes on Me_1.MOV",
+        "t_in": 0.0,
+        "shade": "All Eyes on Me",
+        "category": "posing_lifestyle"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 4,
+      "t_start": 2.2,
+      "t_end": 3.4,
+      "dur": 1.2,
+      "vo": "Here's the honest truth \u2014",
+      "caption": "the honest truth",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": {
+        "clip": "All Eyes on Me_6.MOV",
+        "path": "06_Posing & Lifestyle/All Eyes on Me_6.MOV",
+        "t_in": 0.0,
+        "shade": "All Eyes on Me",
+        "category": "posing_lifestyle"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 5,
+      "t_start": 3.4,
+      "t_end": 5.1,
+      "dur": 1.7,
+      "vo": "Most press-ons are bulky plastic",
+      "caption": "most are bulky plastic",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": null,
+      "broll_gap": true
+    },
+    {
+      "n": 6,
+      "t_start": 5.1,
+      "t_end": 6.4,
+      "dur": 1.3,
+      "vo": "that never sit right.",
+      "caption": "never sits right",
+      "sfx": "buzzer/ding",
+      "transition": "hard cut",
+      "clip": null,
+      "broll_gap": true
+    },
+    {
+      "n": 7,
+      "t_start": 6.4,
+      "t_end": 7.8,
+      "dur": 1.4,
+      "vo": "Gaps at the cuticle.",
+      "caption": "gaps at the cuticle",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": null,
+      "broll_gap": true
+    },
+    {
+      "n": 8,
+      "t_start": 7.8,
+      "t_end": 8.9,
+      "dur": 1.1,
+      "vo": "Pop-offs.",
+      "caption": "pop-offs",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": null,
+      "broll_gap": true
+    },
+    {
+      "n": 9,
+      "t_start": 8.9,
+      "t_end": 10.0,
+      "dur": 1.1,
+      "vo": "Obviously fake.",
+      "caption": "obviously fake",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": null,
+      "broll_gap": true
+    },
+    {
+      "n": 10,
+      "t_start": 10.0,
+      "t_end": 11.0,
+      "dur": 1.0,
+      "vo": "And too much for real life.",
+      "caption": "too much for real life",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": null,
+      "broll_gap": true
+    },
+    {
+      "n": 11,
+      "t_start": 11.0,
+      "t_end": 12.0,
+      "dur": 1.0,
+      "vo": "So when I found these \u2014",
+      "caption": "so when I found these",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": null,
+      "broll_gap": true
+    },
+    {
+      "n": 12,
+      "t_start": 12.0,
+      "t_end": 13.0,
+      "dur": 1.0,
+      "vo": "GLAMRDiP Instant Gels.",
+      "caption": "GLAMRDiP Instant Gels",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": {
+        "clip": "Cinammon Spice_Unbox.MOV",
+        "path": "04_Product Shots/Unboxing/Cinammon Spice_Unbox.MOV",
+        "t_in": 0.0,
+        "shade": "Cinnamon Spice",
+        "category": "product_shots"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 13,
+      "t_start": 13.0,
+      "t_end": 14.8,
+      "dur": 1.8,
+      "vo": "I couldn't believe they'd fit",
+      "caption": "couldn't believe they'd fit",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": {
+        "clip": "Cinammon Spice_Slide Out.MOV",
+        "path": "04_Product Shots/Unboxing/Cinammon Spice_Slide Out.MOV",
+        "t_in": 0.0,
+        "shade": "Cinnamon Spice",
+        "category": "product_shots"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 14,
+      "t_start": 14.8,
+      "t_end": 16.6,
+      "dur": 1.8,
+      "vo": "and look like this.",
+      "caption": "and look like this",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": {
+        "clip": "IMG_6047.MOV",
+        "path": "02_Application/Bubbly Babe/IMG_6047.MOV",
+        "t_in": 0.0,
+        "shade": "Bubbly Babe",
+        "category": "application"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 15,
+      "t_start": 16.6,
+      "t_end": 17.8,
+      "dur": 1.2,
+      "vo": "They're soft gel \u2014",
+      "caption": "soft gel \u2014",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": {
+        "clip": "Bubbly Babe_9.MOV",
+        "path": "06_Posing & Lifestyle/Bubbly Babe_9.MOV",
+        "t_in": 0.0,
+        "shade": "Bubbly Babe",
+        "category": "posing_lifestyle"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 16,
+      "t_start": 17.8,
+      "t_end": 18.8,
+      "dur": 1.0,
+      "vo": "not stiff plastic.",
+      "caption": "not stiff plastic",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": {
+        "clip": "All Eyes on Me_2.MOV",
+        "path": "06_Posing & Lifestyle/All Eyes on Me_2.MOV",
+        "t_in": 0.0,
+        "shade": "All Eyes on Me",
+        "category": "posing_lifestyle"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 17,
+      "t_start": 18.8,
+      "t_end": 20.8,
+      "dur": 2.0,
+      "vo": "Pre-cured, ready to press.",
+      "caption": "pre-cured \u00b7 ready to press",
+      "sfx": "buzzer/ding",
+      "transition": "hard cut",
+      "clip": {
+        "clip": "IMG_3457.MOV",
+        "path": "02_Application/All Eyes on Me/IMG_3457.MOV",
+        "t_in": 0.0,
+        "shade": "All Eyes on Me",
+        "category": "application"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 18,
+      "t_start": 20.8,
+      "t_end": 21.8,
+      "dur": 1.0,
+      "vo": "No bending. No cheap shine.",
+      "caption": "no bending, no cheap shine",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": null,
+      "broll_gap": true
+    },
+    {
+      "n": 19,
+      "t_start": 21.8,
+      "t_end": 23.0,
+      "dur": 1.2,
+      "vo": "The short designs \u2014",
+      "caption": "the short designs",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": {
+        "clip": "Dancing in Stars_Unbox.MOV",
+        "path": "04_Product Shots/Unboxing/Dancing in Stars_Unbox.MOV",
+        "t_in": 0.0,
+        "shade": "Dancing in Stars",
+        "category": "product_shots"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 20,
+      "t_start": 23.0,
+      "t_end": 24.0,
+      "dur": 1.0,
+      "vo": "Bubbly Babe.",
+      "caption": "Bubbly Babe",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": {
+        "clip": "Bubbly Babe_ 2.MOV",
+        "path": "06_Posing & Lifestyle/Bubbly Babe_ 2.MOV",
+        "t_in": 0.0,
+        "shade": "Bubbly Babe",
+        "category": "posing_lifestyle"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 21,
+      "t_start": 24.0,
+      "t_end": 25.0,
+      "dur": 1.0,
+      "vo": "Ruby Rush.",
+      "caption": "Ruby Rush",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": {
+        "clip": "Ruby Rush_3.MOV",
+        "path": "06_Posing & Lifestyle/Ruby Rush_3.MOV",
+        "t_in": 0.0,
+        "shade": "Ruby Rush",
+        "category": "posing_lifestyle"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 22,
+      "t_start": 25.0,
+      "t_end": 26.0,
+      "dur": 1.0,
+      "vo": "All Eyes on Me.",
+      "caption": "All Eyes on Me",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": {
+        "clip": "All Eyes on Me_3.MOV",
+        "path": "06_Posing & Lifestyle/All Eyes on Me_3.MOV",
+        "t_in": 0.0,
+        "shade": "All Eyes on Me",
+        "category": "posing_lifestyle"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 23,
+      "t_start": 26.0,
+      "t_end": 27.0,
+      "dur": 1.0,
+      "vo": "Almost Nude \u2014",
+      "caption": "Almost Nude",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": {
+        "clip": "Almost Nude_2.MOV",
+        "path": "06_Posing & Lifestyle/Almost Nude_2.MOV",
+        "t_in": 0.0,
+        "shade": "Almost Nude",
+        "category": "posing_lifestyle"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 24,
+      "t_start": 27.0,
+      "t_end": 28.0,
+      "dur": 1.0,
+      "vo": "so natural,",
+      "caption": "so natural",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": {
+        "clip": "Almost Nude_7.MOV",
+        "path": "06_Posing & Lifestyle/Almost Nude_7.MOV",
+        "t_in": 0.0,
+        "shade": "Almost Nude",
+        "category": "posing_lifestyle"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 25,
+      "t_start": 28.0,
+      "t_end": 30.0,
+      "dur": 2.0,
+      "vo": "people swear it's a salon gel.",
+      "caption": "they swear it's salon",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": {
+        "clip": "Almost Nude_4.MOV",
+        "path": "06_Posing & Lifestyle/Almost Nude_4.MOV",
+        "t_in": 0.0,
+        "shade": "Mystic Mirage",
+        "category": "posing_lifestyle"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 26,
+      "t_start": 30.0,
+      "t_end": 31.0,
+      "dur": 1.0,
+      "vo": "Application's simple:",
+      "caption": "application's simple",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": {
+        "clip": "Berry Extra_Open Up.MOV",
+        "path": "04_Product Shots/Unboxing/Berry Extra_Open Up.MOV",
+        "t_in": 0.0,
+        "shade": "Berry Extra",
+        "category": "product_shots"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 27,
+      "t_start": 31.0,
+      "t_end": 32.8,
+      "dur": 1.8,
+      "vo": "size it, peel the tab,",
+      "caption": "size \u00b7 peel the tab",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": {
+        "clip": "IMG_2161.MOV",
+        "path": "02_Application/Cinammon Spice/IMG_2161.MOV",
+        "t_in": 0.0,
+        "shade": "Cinnamon Spice",
+        "category": "application"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 28,
+      "t_start": 32.8,
+      "t_end": 34.8,
+      "dur": 2.0,
+      "vo": "press, and you're done.",
+      "caption": "press \u00b7 done",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": {
+        "clip": "IMG_5200.MOV",
+        "path": "02_Application/Almost Nude/IMG_5200.MOV",
+        "t_in": 0.0,
+        "shade": "Almost Nude",
+        "category": "application"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 29,
+      "t_start": 34.8,
+      "t_end": 35.8,
+      "dur": 1.0,
+      "vo": "Ten minutes,",
+      "caption": "ten minutes",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": {
+        "clip": "Bubbly Babe_8.MOV",
+        "path": "06_Posing & Lifestyle/Bubbly Babe_8.MOV",
+        "t_in": 0.0,
+        "shade": "Bubbly Babe",
+        "category": "posing_lifestyle"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 30,
+      "t_start": 35.8,
+      "t_end": 36.8,
+      "dur": 1.0,
+      "vo": "salon nails.",
+      "caption": "salon nails",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": {
+        "clip": "Ruby Rush_1.MOV",
+        "path": "06_Posing & Lifestyle/Ruby Rush_1.MOV",
+        "t_in": 0.0,
+        "shade": "Ruby Rush",
+        "category": "posing_lifestyle"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 31,
+      "t_start": 36.8,
+      "t_end": 38.8,
+      "dur": 2.0,
+      "vo": "Sixteen sizes in every set,",
+      "caption": "16 sizes in every set",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": {
+        "clip": "All Eyes on Me_5.MOV",
+        "path": "06_Posing & Lifestyle/All Eyes on Me_5.MOV",
+        "t_in": 0.0,
+        "shade": "All Eyes on Me",
+        "category": "posing_lifestyle"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 32,
+      "t_start": 38.8,
+      "t_end": 39.8,
+      "dur": 1.0,
+      "vo": "so they actually fit.",
+      "caption": "so they actually fit",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": {
+        "clip": "Glaze Check_Unbox.MOV",
+        "path": "04_Product Shots/Unboxing/Glaze Check_Unbox.MOV",
+        "t_in": 0.0,
+        "shade": "Glaze Check",
+        "category": "product_shots"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 33,
+      "t_start": 39.8,
+      "t_end": 41.8,
+      "dur": 2.0,
+      "vo": "Switching is just as easy \u2014",
+      "caption": "switching is easy",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": {
+        "clip": "IMG_6442.MOV",
+        "path": "03_Removal/Bubbly Babe/IMG_6442.MOV",
+        "t_in": 0.0,
+        "shade": "Bubbly Babe",
+        "category": "removal"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 34,
+      "t_start": 41.8,
+      "t_end": 43.8,
+      "dur": 2.0,
+      "vo": "warm water,",
+      "caption": "warm water",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": {
+        "clip": "IMG_2975.MOV",
+        "path": "03_Removal/Dancing in Stars/IMG_2975.MOV",
+        "t_in": 0.0,
+        "shade": "Dancing in Stars",
+        "category": "removal"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 35,
+      "t_start": 43.8,
+      "t_end": 44.8,
+      "dur": 1.0,
+      "vo": "a little oil,",
+      "caption": "a little oil",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": {
+        "clip": "IMG_1499.MOV",
+        "path": "03_Removal/Ruby Rush/IMG_1499.MOV",
+        "t_in": 0.0,
+        "shade": "Ruby Rush",
+        "category": "removal"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 36,
+      "t_start": 44.8,
+      "t_end": 45.8,
+      "dur": 1.0,
+      "vo": "and they lift off,",
+      "caption": "they lift off",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": {
+        "clip": "IMG_4270.MOV",
+        "path": "03_Removal/Shy But Extra/IMG_4270.MOV",
+        "t_in": 0.0,
+        "shade": "Shy But Extra",
+        "category": "removal"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 37,
+      "t_start": 45.8,
+      "t_end": 46.8,
+      "dur": 1.0,
+      "vo": "ready to reuse.",
+      "caption": "ready to reuse",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": {
+        "clip": "IMG_5564.MOV",
+        "path": "03_Removal/Almost Nude/IMG_5564.MOV",
+        "t_in": 0.0,
+        "shade": "Almost Nude",
+        "category": "removal"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 38,
+      "t_start": 46.8,
+      "t_end": 48.8,
+      "dur": 2.0,
+      "vo": "If you've given up on press-ons,",
+      "caption": "given up on press-ons?",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": {
+        "clip": "Bubbly Babe_7.MOV",
+        "path": "06_Posing & Lifestyle/Bubbly Babe_7.MOV",
+        "t_in": 0.0,
+        "shade": "Bubbly Babe",
+        "category": "posing_lifestyle"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 39,
+      "t_start": 48.8,
+      "t_end": 50.8,
+      "dur": 2.0,
+      "vo": "this is the set that changes your mind.",
+      "caption": "changes your mind",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": {
+        "clip": "Glaze Check_Slide Out.MOV",
+        "path": "04_Product Shots/Unboxing/Glaze Check_Slide Out.MOV",
+        "t_in": 0.0,
+        "shade": "Glaze Check",
+        "category": "product_shots"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 40,
+      "t_start": 50.8,
+      "t_end": 52.8,
+      "dur": 2.0,
+      "vo": "Grab the Instant Gels starter set",
+      "caption": "shop the starter set",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": {
+        "clip": "French Press_Box.MOV",
+        "path": "04_Product Shots/French Press_Box.MOV",
+        "t_in": 0.0,
+        "shade": "French Press",
+        "category": "product_shots"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 41,
+      "t_start": 52.8,
+      "t_end": 55.8,
+      "dur": 3.0,
+      "vo": "",
+      "caption": "starter set, sixteen sizes",
+      "sfx": [],
+      "transition": "hard cut",
+      "clip": {
+        "clip": "Purple Cat Eye_Box.MOV",
+        "path": "04_Product Shots/Purple Cat Eye_Box.MOV",
+        "t_in": 0.0,
+        "shade": "Purple Cat Eye",
+        "category": "product_shots"
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 42,
+      "t_start": 55.8,
+      "t_end": 59.5,
+      "dur": 3.7,
+      "vo": "",
+      "caption": "Salon-gel nails. Zero salon.  \u00b7  glamrdip.com",
+      "sfx": [],
+      "transition": "none",
+      "clip": {
+        "clip": "Cinammon Spice_Box.MOV",
+        "path": "04_Product Shots/Cinammon Spice_Box.MOV",
+        "t_in": 0.0,
+        "shade": "Cinnamon Spice",
+        "category": "product_shots"
+      },
+      "broll_gap": false
+    }
+  ]
+}

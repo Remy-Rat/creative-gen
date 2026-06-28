@@ -22,12 +22,13 @@ ROLE_W = {
 }
 
 def retrieve(con, role=None, category=None, method=None, shade=None, stage=None,
-             durability=None, keyword=None, min_dur=0.0, max_dur=999.0, need_text=None,
+             durability=None, keyword=None, process_step=None, min_dur=0.0, max_dur=999.0, need_text=None,
              exclude_clips=(), limit=5):
     con.row_factory = sqlite3.Row
     where, args = ["1=1"], []
     if category:   where.append("v.category=?"); args.append(category)
     if method:     where.append("v.method=?"); args.append(method)
+    if process_step: where.append("s.process_step=?"); args.append(process_step)
     if shade:      where.append("v.shade LIKE ?"); args.append(f"%{shade}%")
     if stage:      where.append("s.stage=?"); args.append(stage)
     if durability: where.append("s.durability_test=?"); args.append(durability)

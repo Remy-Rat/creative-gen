@@ -1,0 +1,4 @@
+file '/Users/remy-m4/Desktop/Video-ad-test/instant-gels/clip-library/_tutorials/removal_work/seg_01.mp4'
+file '/Users/remy-m4/Desktop/Video-ad-test/instant-gels/clip-library/_tutorials/removal_work/seg_02.mp4'
+file '/Users/remy-m4/Desktop/Video-ad-test/instant-gels/clip-library/_tutorials/removal_work/seg_03.mp4'
+file '/Users/remy-m4/Desktop/Video-ad-test/instant-gels/clip-library/_tutorials/removal_work/seg_04.mp4'
