@@ -1,0 +1,372 @@
+{
+  "ad_id": "IG-AD-01",
+  "source_template": "competitor-ad-01 (Doonails) teardown",
+  "hero_shade": "Bubbly Babe",
+  "total_duration": 39.5,
+  "beat_count": 20,
+  "caption_system": "white sans, top, line-by-line fade (motion-kit IDs per beat)",
+  "sound": "upbeat electronic bed ducked under VO; buzzer on problem, ding on solution",
+  "vo_voice": "AUS GM (eleven_v3) \u2014 warm AU female; see vo/SKILL.md",
+  "beats": [
+    {
+      "n": 1,
+      "phase": "HOOK",
+      "t": "0.0-1.3s",
+      "vo": "I gave up on press-ons years ago.",
+      "caption": "I gave up on press-ons",
+      "caption_style": "SUB-02 clean reader",
+      "sfx": "",
+      "transition": "hard cut",
+      "clip": {
+        "clip": "Ruby Rush_Flowers.MOV",
+        "path": "01_Hooks & Attention Clips/Ruby Rush_Flowers.MOV",
+        "t_in": 0.0,
+        "t_out": 6.7,
+        "shade": "Ruby Rush",
+        "category": "hooks",
+        "score": 27
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 2,
+      "phase": "HOOK",
+      "t": "1.3-2.3s",
+      "vo": "Too fake. Too bulky.",
+      "caption": "too fake. too bulky.",
+      "caption_style": "SUB-03 kinetic",
+      "sfx": "",
+      "transition": "hard cut",
+      "clip": {
+        "clip": "Ruby Rush_Cat.MOV",
+        "path": "01_Hooks & Attention Clips/Ruby Rush_Cat.MOV",
+        "t_in": 0.0,
+        "t_out": 2.2,
+        "shade": "Ruby Rush",
+        "category": "hooks",
+        "score": 26
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 3,
+      "phase": "HOOK",
+      "t": "2.3-3.7s",
+      "vo": "Then these changed my mind.",
+      "caption": "then these changed my mind",
+      "caption_style": "SUB-04 karaoke (hl: changed my mind)",
+      "sfx": "",
+      "transition": "flash",
+      "clip": {
+        "clip": "Bubbly Babe_9.MOV",
+        "path": "06_Posing & Lifestyle/Bubbly Babe_9.MOV",
+        "t_in": 0.0,
+        "t_out": 6.1,
+        "shade": "Bubbly Babe",
+        "category": "posing_lifestyle",
+        "score": 14
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 4,
+      "phase": "PROBLEM",
+      "t": "3.7-5.9s",
+      "vo": "You know the type \u2014",
+      "caption": "you know the type",
+      "caption_style": "SUB-02 clean reader",
+      "sfx": "",
+      "transition": "hard cut",
+      "clip": null,
+      "broll_gap": true
+    },
+    {
+      "n": 5,
+      "phase": "PROBLEM",
+      "t": "5.9-7.7s",
+      "vo": "thick plastic that just sits on top.",
+      "caption": "thick plastic",
+      "caption_style": "ANN-03 sticker + red \u2717",
+      "sfx": "buzzer",
+      "transition": "hard cut",
+      "clip": null,
+      "broll_gap": true
+    },
+    {
+      "n": 6,
+      "phase": "PROBLEM",
+      "t": "7.7-9.5s",
+      "vo": "Gaps at the cuticle.",
+      "caption": "gaps at the cuticle",
+      "caption_style": "ANN-02 leader callout + red \u2717",
+      "sfx": "",
+      "transition": "hard cut",
+      "clip": null,
+      "broll_gap": true
+    },
+    {
+      "n": 7,
+      "phase": "PROBLEM",
+      "t": "9.5-11.5s",
+      "vo": "Popped off by lunch \u2014 and everyone could tell.",
+      "caption": "popped off by lunch",
+      "caption_style": "SUB-03 kinetic",
+      "sfx": "buzzer",
+      "transition": "hard cut",
+      "clip": null,
+      "broll_gap": true
+    },
+    {
+      "n": 8,
+      "phase": "SOLUTION",
+      "t": "11.5-13.1s",
+      "vo": "Instant Gels are different.",
+      "caption": "Instant Gels are different",
+      "caption_style": "HOOK-01 stamp",
+      "sfx": "ding",
+      "transition": "flash",
+      "clip": {
+        "clip": "Cinammon Spice_Unbox.MOV",
+        "path": "04_Product Shots/Unboxing/Cinammon Spice_Unbox.MOV",
+        "t_in": 0.0,
+        "t_out": 10.2,
+        "shade": "Cinnamon Spice",
+        "category": "product_shots",
+        "score": 14
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 9,
+      "phase": "SOLUTION",
+      "t": "13.1-15.3s",
+      "vo": "Pre-cured soft gel \u2014 not stiff plastic.",
+      "caption": "soft gel \u2014 not plastic",
+      "caption_style": "PROD-04 tech callout",
+      "sfx": "",
+      "transition": "hard cut",
+      "clip": {
+        "clip": "Cinammon Spice_Slide Out.MOV",
+        "path": "04_Product Shots/Unboxing/Cinammon Spice_Slide Out.MOV",
+        "t_in": 0.0,
+        "t_out": 11.4,
+        "shade": "Cinnamon Spice",
+        "category": "product_shots",
+        "score": 14
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 10,
+      "phase": "SOLUTION",
+      "t": "15.3-17.9s",
+      "vo": "A zero-edge base that sits flush to your cuticle.",
+      "caption": "zero-edge: sits flush, no lift",
+      "caption_style": "ANN-02 leader callout + green \u2713",
+      "sfx": "",
+      "transition": "hard cut",
+      "clip": {
+        "clip": "Berry Extra_Plyers.MOV",
+        "path": "05_Durability/Berry Extra_Plyers.MOV",
+        "t_in": 0.0,
+        "t_out": 11.3,
+        "shade": "Berry Extra",
+        "category": "durability",
+        "score": 29
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 11,
+      "phase": "SOLUTION",
+      "t": "17.9-19.7s",
+      "vo": "No gap. No lift. No lamp.",
+      "caption": "no gap. no lift. no lamp.",
+      "caption_style": "PROD-01 benefit stack",
+      "sfx": "ding",
+      "transition": "hard cut",
+      "clip": {
+        "clip": "IMG_6047.MOV",
+        "path": "02_Application/Bubbly Babe/IMG_6047.MOV",
+        "t_in": 0.0,
+        "t_out": 15.4,
+        "shade": "Bubbly Babe",
+        "category": "application",
+        "score": 13.0
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 12,
+      "phase": "DEMO",
+      "t": "19.7-21.3s",
+      "vo": "Application's stupid simple.",
+      "caption": "stupid simple",
+      "caption_style": "SUB-02 clean reader",
+      "sfx": "",
+      "transition": "hard cut",
+      "clip": {
+        "clip": "IMG_6052.MOV",
+        "path": "02_Application/Bubbly Babe/IMG_6052.MOV",
+        "t_in": 0.0,
+        "t_out": 7.0,
+        "shade": "Bubbly Babe",
+        "category": "application",
+        "score": 11.0
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 13,
+      "phase": "DEMO",
+      "t": "21.3-23.7s",
+      "vo": "Size it, press it, done.",
+      "caption": "size \u00b7 press \u00b7 done",
+      "caption_style": "PROD-02 step rail",
+      "sfx": "",
+      "transition": "hard cut",
+      "clip": {
+        "clip": "IMG_6048.MOV",
+        "path": "02_Application/Bubbly Babe/IMG_6048.MOV",
+        "t_in": 0.0,
+        "t_out": 19.2,
+        "shade": "Bubbly Babe",
+        "category": "application",
+        "score": 13.0
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 14,
+      "phase": "DEMO",
+      "t": "23.7-25.5s",
+      "vo": "About ten minutes \u2014 no appointment.",
+      "caption": "~10 minutes, no appointment",
+      "caption_style": "SUB-05 side label",
+      "sfx": "",
+      "transition": "hard cut",
+      "clip": {
+        "clip": "Bubbly Babe_8.MOV",
+        "path": "06_Posing & Lifestyle/Bubbly Babe_8.MOV",
+        "t_in": 0.0,
+        "t_out": 3.3,
+        "shade": "Bubbly Babe",
+        "category": "posing_lifestyle",
+        "score": 13.5
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 15,
+      "phase": "DEMO",
+      "t": "25.5-27.3s",
+      "vo": "Sixteen sizes, so it actually fits.",
+      "caption": "16 sizes \u2014 your perfect fit",
+      "caption_style": "PROD-01 benefit stack",
+      "sfx": "",
+      "transition": "hard cut",
+      "clip": {
+        "clip": "Dancing in Stars_Unbox.MOV",
+        "path": "04_Product Shots/Unboxing/Dancing in Stars_Unbox.MOV",
+        "t_in": 0.0,
+        "t_out": 12.2,
+        "shade": "Dancing in Stars",
+        "category": "product_shots",
+        "score": 14
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 16,
+      "phase": "DEMO",
+      "t": "27.3-29.7s",
+      "vo": "Two weeks of wear. Glass-gloss finish.",
+      "caption": "2 weeks wear \u00b7 glass gloss",
+      "caption_style": "ANN-03 stat sticker",
+      "sfx": "",
+      "transition": "hard cut",
+      "clip": null,
+      "broll_gap": true
+    },
+    {
+      "n": 17,
+      "phase": "DEMO",
+      "t": "29.7-32.3s",
+      "vo": "Want to switch? Soak, lift, reuse.",
+      "caption": "soak \u00b7 lift \u00b7 reuse",
+      "caption_style": "PROD-02 step rail",
+      "sfx": "",
+      "transition": "hard cut",
+      "clip": {
+        "clip": "IMG_6442.MOV",
+        "path": "03_Removal/Bubbly Babe/IMG_6442.MOV",
+        "t_in": 0.0,
+        "t_out": 5.0,
+        "shade": "Bubbly Babe",
+        "category": "removal",
+        "score": 13.5
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 18,
+      "phase": "CTA",
+      "t": "32.3-34.5s",
+      "vo": "Sworn off press-ons? These will change your mind.",
+      "caption": "change your mind",
+      "caption_style": "SUB-04 karaoke",
+      "sfx": "",
+      "transition": "hard cut",
+      "clip": {
+        "clip": "Bubbly Babe_7.MOV",
+        "path": "06_Posing & Lifestyle/Bubbly Babe_7.MOV",
+        "t_in": 0.0,
+        "t_out": 4.4,
+        "shade": "Bubbly Babe",
+        "category": "posing_lifestyle",
+        "score": 13.5
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 19,
+      "phase": "CTA",
+      "t": "34.5-36.5s",
+      "vo": "Get the starter set today.",
+      "caption": "shop the starter set",
+      "caption_style": "CTA-01 pulse button",
+      "sfx": "ding",
+      "transition": "hard cut",
+      "clip": {
+        "clip": "IMG_5922.MOV",
+        "path": "03_Removal/French Press/IMG_5922.MOV",
+        "t_in": 0.0,
+        "t_out": 5.1,
+        "shade": "none",
+        "category": "removal",
+        "score": 16
+      },
+      "broll_gap": false
+    },
+    {
+      "n": 20,
+      "phase": "CTA",
+      "t": "36.5-39.5s",
+      "vo": "",
+      "caption": "Salon-gel nails. Zero salon.  \u00b7  glamrdip.com",
+      "caption_style": "CTA-02 brand end card",
+      "sfx": "",
+      "transition": "none",
+      "clip": {
+        "clip": "Berry Extra_Open Up.MOV",
+        "path": "04_Product Shots/Unboxing/Berry Extra_Open Up.MOV",
+        "t_in": 0.0,
+        "t_out": 10.3,
+        "shade": "Berry Extra",
+        "category": "product_shots",
+        "score": 12
+      },
+      "broll_gap": false
+    }
+  ]
+}
