@@ -131,26 +131,32 @@ assert not missing, f"segments failed to encode: {missing}"
 lst=WORK/"c.txt"; lst.write_text("\n".join(f"file '{segs[b['i']]}'" for b in beats))
 silent=WORK/"silent.mp4"
 subprocess.run(["ffmpeg","-y","-loglevel","error","-f","concat","-safe","0","-i",str(lst),"-c:v","libx264","-pix_fmt","yuv420p","-r","30",str(silent)],check=True)
-# --- mix VO + SFX (pop on red-X/text reveals, ding on recycle) ---
-sfxf=sorted((OUT/'sfx').glob('sfx_*.mp3')); POP=str(sfxf[0]); DING=str(sfxf[1])
-pops=[]; dings=[]; t=0.0
+# --- mix VO + SFX: error(bad) / ding(good) / swish(transition) ---
+import glob as _g
+SFX={'error':_g.glob(str(OUT/'sfx2/sfx_Harsh*'))[0],'ding':_g.glob(str(OUT/'sfx2/sfx_Light*'))[0],'swish':_g.glob(str(OUT/'sfx2/sfx_Quick*'))[0]}
+VOL={'error':0.55,'ding':0.5,'swish':0.4}; IDX={'error':2,'ding':3,'swish':4}
+GOOD={"Instant Gels from GLAMRDiP","Done — a perfect manicure that lasts weeks"}
+place=[]; t=0.0; prev=None
 for b in beats:
-    if b['style'] in('redx','magenta','endcard'): pops.append(round(t,2))
-    elif b['style']=='recycle': dings.append(round(t,2))
-    t+=b['dur']
+    if b['style']=='redx': place.append((round(t,2),'error'))
+    elif b['style']=='recycle' or b['text'] in GOOD: place.append((round(t,2),'ding'))
+    elif b['style']=='label' or b['seg']!=prev: place.append((round(t,2),'swish'))
+    prev=b['seg']; t+=b['dur']
+from collections import defaultdict
+byk=defaultdict(list)
+for tm,k in place: byk[k].append(tm)
 fc=[]; labels=["[1:a]"]
-if pops:
-    fc.append("[2:a]asplit="+str(len(pops))+''.join(f"[p{i}]" for i in range(len(pops))))
-    for i,s in enumerate(pops): ms=int(s*1000); fc.append(f"[p{i}]adelay={ms}|{ms},volume=0.5[pp{i}]"); labels.append(f"[pp{i}]")
-if dings:
-    fc.append("[3:a]asplit="+str(len(dings))+''.join(f"[g{i}]" for i in range(len(dings))))
-    for i,s in enumerate(dings): ms=int(s*1000); fc.append(f"[g{i}]adelay={ms}|{ms},volume=0.5[gg{i}]"); labels.append(f"[gg{i}]")
+for k,times in byk.items():
+    if len(times)>1: fc.append(f"[{IDX[k]}:a]asplit={len(times)}"+''.join(f"[{k}r{i}]" for i in range(len(times))))
+    for i,tm in enumerate(times):
+        src=f"[{k}r{i}]" if len(times)>1 else f"[{IDX[k]}:a]"; ms=int(tm*1000)
+        fc.append(f"{src}adelay={ms}|{ms},volume={VOL[k]}[{k}{i}]"); labels.append(f"[{k}{i}]")
 fc.append(''.join(labels)+f"amix=inputs={len(labels)}:normalize=0:dropout_transition=0[a]")
-final=OUT/"igad_v2.mp4"
-subprocess.run(["ffmpeg","-y","-loglevel","error","-i",str(silent),"-i",str(VO),"-i",POP,"-i",DING,
+final=OUT/"igad_v3.mp4"
+subprocess.run(["ffmpeg","-y","-loglevel","error","-i",str(silent),"-i",str(VO),"-i",SFX['error'],"-i",SFX['ding'],"-i",SFX['swish'],
                 "-filter_complex",";".join(fc),"-map","0:v:0","-map","[a]","-c:v","copy","-c:a","aac","-b:a","192k",str(final)],check=True)
 d=subprocess.run(["ffprobe","-v","error","-show_entries","format=duration","-of","csv=p=0",str(final)],capture_output=True,text=True).stdout.strip()
-print(f"pops@{pops} dings@{dings}")
+print("SFX:",{k:[round(x,1) for x in v] for k,v in byk.items()})
 gaps=sum(1 for b in beats if not b['clip'] and b['kind']!='end')
 print(f"{len(beats)} sub-beats | {gaps} slates | -> {final} ({d}s, with VO)")
 for b in beats:
