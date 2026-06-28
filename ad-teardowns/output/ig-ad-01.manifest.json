@@ -285,8 +285,16 @@
       "caption_style": "ANN-03 stat sticker",
       "sfx": "",
       "transition": "hard cut",
-      "clip": null,
-      "broll_gap": true
+      "clip": {
+        "clip": "All Eyes on Me_Drill.MOV",
+        "path": "05_Durability/All Eyes on Me_Drill.MOV",
+        "t_in": 0.0,
+        "t_out": 18.7,
+        "shade": "All Eyes on Me",
+        "category": "durability",
+        "score": 29
+      },
+      "broll_gap": false
     },
     {
       "n": 17,
@@ -338,13 +346,13 @@
       "sfx": "ding",
       "transition": "hard cut",
       "clip": {
-        "clip": "IMG_5922.MOV",
-        "path": "03_Removal/French Press/IMG_5922.MOV",
+        "clip": "Berry Extra_Open Up.MOV",
+        "path": "04_Product Shots/Unboxing/Berry Extra_Open Up.MOV",
         "t_in": 0.0,
-        "t_out": 5.1,
-        "shade": "none",
-        "category": "removal",
-        "score": 16
+        "t_out": 10.3,
+        "shade": "Berry Extra",
+        "category": "product_shots",
+        "score": 12
       },
       "broll_gap": false
     },
@@ -358,11 +366,11 @@
       "sfx": "",
       "transition": "none",
       "clip": {
-        "clip": "Berry Extra_Open Up.MOV",
-        "path": "04_Product Shots/Unboxing/Berry Extra_Open Up.MOV",
+        "clip": "Glaze Check_Unbox.MOV",
+        "path": "04_Product Shots/Unboxing/Glaze Check_Unbox.MOV",
         "t_in": 0.0,
-        "t_out": 10.3,
-        "shade": "Berry Extra",
+        "t_out": 10.4,
+        "shade": "Glaze Check",
         "category": "product_shots",
         "score": 12
       },

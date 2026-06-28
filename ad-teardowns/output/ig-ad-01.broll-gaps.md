@@ -6,4 +6,3 @@ All faceless, no GLAMRDiP product, no proof. QA: must look PHOTOREAL — reject 
 - **Beat 5** (VO: "thick plastic that just sits on top."): Faceless macro: side angle showing a chunky press-on's gap/ledge above the natural nail. Red ✗.
 - **Beat 6** (VO: "Gaps at the cuticle."): Faceless extreme-macro: visible gap/lifting under a press-on at the cuticle. Red ✗.
 - **Beat 7** (VO: "Popped off by lunch — and everyone could tell."): Faceless: a generic press-on popping/peeling off easily. Red ✗.
-- **Beat 16** (VO: "Two weeks of wear. Glass-gloss finish."): No clip matched {'role': 'proof', 'category': 'posing_lifestyle', 'shade': 'Bubbly Babe'}

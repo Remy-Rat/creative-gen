@@ -21,8 +21,8 @@ Captions: white sans, top, line-by-line fade. Sound: upbeat electronic, duck und
 | 13 | DEMO | 21.3-23.7s | Size it, press it, done. | size · press · done _(PROD-02 step rail)_ | — | IMG_6048.MOV (Bubbly Babe, application) |
 | 14 | DEMO | 23.7-25.5s | About ten minutes — no appointment. | ~10 minutes, no appointment _(SUB-05 side label)_ | — | Bubbly Babe_8.MOV (Bubbly Babe, posing_lifestyle) |
 | 15 | DEMO | 25.5-27.3s | Sixteen sizes, so it actually fits. | 16 sizes — your perfect fit _(PROD-01 benefit stack)_ | — | Dancing in Stars_Unbox.MOV (Dancing in Stars, product_shots) |
-| 16 | DEMO | 27.3-29.7s | Two weeks of wear. Glass-gloss finish. | 2 weeks wear · glass gloss _(ANN-03 stat sticker)_ | — | ⚠️ B-ROLL: no match |
+| 16 | DEMO | 27.3-29.7s | Two weeks of wear. Glass-gloss finish. | 2 weeks wear · glass gloss _(ANN-03 stat sticker)_ | — | All Eyes on Me_Drill.MOV (All Eyes on Me, durability) |
 | 17 | DEMO | 29.7-32.3s | Want to switch? Soak, lift, reuse. | soak · lift · reuse _(PROD-02 step rail)_ | — | IMG_6442.MOV (Bubbly Babe, removal) |
 | 18 | CTA | 32.3-34.5s | Sworn off press-ons? These will change your mind. | change your mind _(SUB-04 karaoke)_ | — | Bubbly Babe_7.MOV (Bubbly Babe, posing_lifestyle) |
-| 19 | CTA | 34.5-36.5s | Get the starter set today. | shop the starter set _(CTA-01 pulse button)_ | ding | IMG_5922.MOV (none, removal) |
-| 20 | CTA | 36.5-39.5s | — | Salon-gel nails. Zero salon.  ·  glamrdip.com _(CTA-02 brand end card)_ | — | Berry Extra_Open Up.MOV (Berry Extra, product_shots) |
+| 19 | CTA | 34.5-36.5s | Get the starter set today. | shop the starter set _(CTA-01 pulse button)_ | ding | Berry Extra_Open Up.MOV (Berry Extra, product_shots) |
+| 20 | CTA | 36.5-39.5s | — | Salon-gel nails. Zero salon.  ·  glamrdip.com _(CTA-02 brand end card)_ | — | Glaze Check_Unbox.MOV (Glaze Check, product_shots) |

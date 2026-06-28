@@ -35,11 +35,11 @@ B = [
  dict(n=13, phase="DEMO", dur=2.4, vo="Size it, press it, done.", cap="size · press · done", cap_style="PROD-02 step rail", sfx="", trans="hard cut", q=dict(role='demo', category='application', shade=HERO)),
  dict(n=14, phase="DEMO", dur=1.8, vo="About ten minutes — no appointment.", cap="~10 minutes, no appointment", cap_style="SUB-05 side label", sfx="", trans="hard cut", q=dict(role='payoff', category='posing_lifestyle', shade=HERO)),
  dict(n=15, phase="DEMO", dur=1.8, vo="Sixteen sizes, so it actually fits.", cap="16 sizes — your perfect fit", cap_style="PROD-01 benefit stack", sfx="", trans="hard cut", q=dict(role='reveal', category='product_shots')),
- dict(n=16, phase="DEMO", dur=2.4, vo="Two weeks of wear. Glass-gloss finish.", cap="2 weeks wear · glass gloss", cap_style="ANN-03 stat sticker", sfx="", trans="hard cut", q=dict(role='proof', category='posing_lifestyle', shade=HERO)),
+ dict(n=16, phase="DEMO", dur=2.4, vo="Two weeks of wear. Glass-gloss finish.", cap="2 weeks wear · glass gloss", cap_style="ANN-03 stat sticker", sfx="", trans="hard cut", q=dict(role='proof', category='durability')),
  dict(n=17, phase="DEMO", dur=2.6, vo="Want to switch? Soak, lift, reuse.", cap="soak · lift · reuse", cap_style="PROD-02 step rail", sfx="", trans="hard cut", q=dict(role='demo', category='removal')),
  # CTA
  dict(n=18, phase="CTA", dur=2.2, vo="Sworn off press-ons? These will change your mind.", cap="change your mind", cap_style="SUB-04 karaoke", sfx="", trans="hard cut", q=dict(role='payoff', category='posing_lifestyle', shade=HERO)),
- dict(n=19, phase="CTA", dur=2.0, vo="Get the starter set today.", cap="shop the starter set", cap_style="CTA-01 pulse button", sfx="ding", trans="hard cut", q=dict(role='cta_support')),
+ dict(n=19, phase="CTA", dur=2.0, vo="Get the starter set today.", cap="shop the starter set", cap_style="CTA-01 pulse button", sfx="ding", trans="hard cut", q=dict(role='reveal', category='product_shots')),
  dict(n=20, phase="CTA", dur=3.0, vo="", cap="Salon-gel nails. Zero salon.  ·  glamrdip.com", cap_style="CTA-02 brand end card", sfx="", trans="none", q=dict(role='reveal', category='product_shots')),
 ]
 
