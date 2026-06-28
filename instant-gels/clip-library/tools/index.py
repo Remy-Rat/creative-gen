@@ -129,10 +129,13 @@ def index_one(client,types,cat,path):
                 "Glue=cyanoacrylate. Mark verdict 'revise' ONLY if a tagged claim is NOT visually demonstrated by THIS video or a safety flag is wrong; else 'ok'. "
                 f"Tags: {json.dumps([{'claims':s.get('claims_shown'),'safety':s.get('safety_sensitive')} for s in segs])}. "
                 'Return JSON {"verdict":"ok|revise","issues":[]}.')
-            cr=retry(lambda:client.models.generate_content(model=MODEL,contents=[f,cp],config=types.GenerateContentConfig(temperature=0.0,response_mime_type='application/json')))
-            tin+=cr.usage_metadata.prompt_token_count or 0; tout+=cr.usage_metadata.candidates_token_count or 0; cst+=cost(cr.usage_metadata)
-            try: comp=json.loads(cr.text)
-            except: comp={'raw':cr.text}
+            try:
+                cr=retry(lambda:client.models.generate_content(model=MODEL,contents=[f,cp],config=types.GenerateContentConfig(temperature=0.0,response_mime_type='application/json')))
+                tin+=cr.usage_metadata.prompt_token_count or 0; tout+=cr.usage_metadata.candidates_token_count or 0; cst+=cost(cr.usage_metadata)
+                try: comp=json.loads(cr.text)
+                except: comp={'raw':cr.text}
+            except Exception:
+                comp={'verdict':'unchecked'}   # compliance secondary — don't drop the clip if it fails
         return dict(cid=cid,rel=str(rel),cat=cat,shade=shade,dur=round(d,1),data=data,comp=comp,tin=tin,tout=tout,cost=cst)
     finally:
         try: client.files.delete(name=f.name)   # always free storage, even on error
